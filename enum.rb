@@ -48,10 +48,20 @@ def read_severity()
   return read_enum("Severity")
 end
 def read_component() 
-  return read_enum("Component")
+  hash = {}
+  IO.read("components.csv").each_line {|line|
+    array = line.split(",")
+    hash[array[0].strip] = array[1].strip
+  }
+  return hash
 end
 def read_versions() 
-  return read_enum("Version")
+  hash = {}
+  IO.read("versions.csv").each_line {|line|
+    array = line.split(",")
+    hash[array[0].strip] = array[1].strip
+  }
+  return hash
 end
 
 
