@@ -83,6 +83,16 @@ $severities = read_severity()
 $components = read_component()
 $version = read_versions()
 
+def test_vals(id,rtckeyexists,rtcactual,jiraexpected,jiraactual,rtctext,jiratext)
+  # get RTC resolution
+  puts rtctext+" not in mapping. Expected:Unknown,actual:"+rtcactual if rtckeyexists
+  #test: mapping
+  if jiraexpected == nil
+    puts jiratext+" not in mapping. Expected:Unknown,actual:"+ jiraactual
+  elsif jiraexpected != jiraactual
+    puts jiratext+" doesn't match mapping. Expected:"+jiraexpected+",actual:"+ jiraactual
+  end
+end
 def process_row(rtcrow,jirarow)
   #puts id+":"+jirarow[0]+":"+rtcrow[2]+":"+rtcrow[3]
   idno = 0
@@ -96,17 +106,12 @@ def process_row(rtcrow,jirarow)
   vers = 8
 
   p rtcrow
-  id = jirarow[idno]
+
   # get RTC resolution
-  rtcval = $resolutions[rtcrow[reso]]
-  puts "rtc resolution not in mapping. Expected:#{rtcval},actual:"+rtcrow[reso] if rtcval == nil
-  jiraval = $resolutions[rtcval]
-  #test: mapping
-  if jiraval == nil
-    puts "jira resolution not in mapping. Expected:Unknown,actual:"+ jirarow[reso]
-  elsif jiraval != jirarow[reso]
-    puts "jira resolution doesn't match mapping. Expected:"+jiraval+",actual:"+ jirarow[reso]
-  end
+  test_vals(jirarow[idno],
+    $resolutions.include?(rtcrow[reso]),rtcrow[reso],
+    $resolutions[rtcrow[reso]],jirarow[reso],
+    "rtc resolution","jira resolution")
 end
 
 show_exceptions($rtcrows,$jirarows)
