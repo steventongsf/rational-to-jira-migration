@@ -1,0 +1,26 @@
+Resolution,Addressed,	Fixed Indirectly
+Resolution,Closed	,Complete
+Resolution,Duplicate,	Duplicate
+Resolution,Fixed,	Fixed
+Resolution,Fixed Upstream,	Fixed Indirectly
+Resolution,Invalid,	Not a bug
+Resolution,Unresolved	,
+Resolution,Won't fix,	Won't fix
+Resolution,Works as Designed,	As Designed
+Resolution,Works for Me,	Cannot Reproduce
+Status,Closed,	Done
+Status,Deferred,	To Do
+Status,Done,	Done
+Status,Implemented,	Done
+Status,In Progress,	In Progress
+Status,Invalid,	Done
+Status,New,	To Do
+Status,Reopened,	To Do
+Status,Resolved,	Done
+Status,Verified,Done
+Type,Defect,	Bug
+Type,Epic	,Epic
+Type,Feature,	Story
+Type,L3 Inquiry,	Bug
+Type,Story,	Story
+Type,Task	,Task
