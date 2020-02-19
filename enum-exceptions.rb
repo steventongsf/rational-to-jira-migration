@@ -106,12 +106,21 @@ def process_row(rtcrow,jirarow)
   vers = 8
 
   p rtcrow
-
   # get RTC resolution
   test_vals(jirarow[idno],
     $resolutions.include?(rtcrow[reso]),rtcrow[reso],
     $resolutions[rtcrow[reso]],jirarow[reso],
     "rtc resolution","jira resolution")
+  # get RTC status
+  test_vals(jirarow[idno],
+    $statuses.include?(rtcrow[stat]),rtcrow[stat],
+    $statuses[rtcrow[stat]],jirarow[stat],
+    "rtc status","jira status")
+  # get RTC type
+  test_vals(jirarow[idno],
+    $types.include?(rtcrow[type]),rtcrow[type],
+    $types[rtcrow[type]],jirarow[type],
+    "rtc type","jira type")
 end
 
 show_exceptions($rtcrows,$jirarows)
