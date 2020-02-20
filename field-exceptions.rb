@@ -70,7 +70,7 @@ def read_users()
   hash = {}
   IO.read("users.csv").each_line {|line|
     array = line.split(",")
-    hash[array[0].strip] = array[2].strip
+    hash[array[0].strip.gsub("\"","")] = array[2].strip.gsub("\"","")
   }
   return hash
 end
@@ -91,15 +91,14 @@ def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   msg = nil
   if !hash.include?(rtcrow[key_num])
     msg = rtctext+" not in mapping. actual:"+rtcrow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
-    return
   end
   #test: mapping
   if hash[rtcrow[key_num]] == nil
     msg = jiratext+" not in mapping. Expected:Unknown,actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
   elsif hash[rtcrow[key_num]].downcase != jirarow[key_num].downcase
-    msg = jiratext+" doesn't match mapping. Expected:"+hash[rtcrow[key_num]]+",actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
+    msg = jiratext+" doesn't match mapping. Expected:"+hash[rtcrow[key_num]].downcase+",actual:"+ jirarow[key_num].downcase+",id:"+id+",moddate:"+rtcrow[1]
   else
-    #puts id+" row ok."
+    #puts id+":"+hash[rtcrow[key_num]]+":"+jirarow[key_num]+":"+key_num.to_s
   end
   if msg != nil
     puts msg
@@ -116,7 +115,7 @@ def show_exceptions()
   $jirarows.each_pair{|id,jirarow|
     rtcrow = $rtcrows[id]
     if rtcrow == nil
-      puts "ID not found in RTC dataset: "+id
+      #puts "ID not found in RTC dataset: "+id
     else
       process_row(rtcrow,jirarow)
     end
@@ -149,7 +148,8 @@ def process_row(rtcrow,jirarow)
     p jirarow
   end
   # get RTC user
-  test_mappings(jirarow[idno],reso,$users,rtcrow,jirarow,"rtc user","jira user")
+  test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc user","jira user")
+  return
   # get RTC resolution
   test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira business impact")
   # get RTC status
