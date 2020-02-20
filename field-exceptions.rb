@@ -66,6 +66,14 @@ def read_versions()
   }
   return hash
 end
+def read_users() 
+  hash = {}
+  IO.read("users.csv").each_line {|line|
+    array = line.split(",")
+    hash[array[0].strip] = array[2].strip
+  }
+  return hash
+end
 
 def init()
 
@@ -77,6 +85,7 @@ def init()
   $components = read_component()
   $versions = read_versions()
   $browsers = read_browsers()
+  $users = read_users()
 end
 def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   msg = nil
@@ -107,7 +116,7 @@ def show_exceptions()
   $jirarows.each_pair{|id,jirarow|
     rtcrow = $rtcrows[id]
     if rtcrow == nil
-      #puts "ID not found in RTC dataset: "+id
+      puts "ID not found in RTC dataset: "+id
     else
       process_row(rtcrow,jirarow)
     end
@@ -129,37 +138,41 @@ def process_row(rtcrow,jirarow)
   comp = 7 #filed against/component
   aver = 8 #found in/affected version
   fver = 9 #planned for/fixed version
-  brow = 10 #browser
-  assn = 11 #owned by/ assignee
-  crby = 12 #created by/reporter
-  qaow = 13 # QA Owner
-  tags = 14 #tags/labels
-  cust = 15 #customer/customer
-  dued = 16 # due date/due
-  resd = 17 # resoultin date/ resolved
+  assn = 10 #owned by/ assignee
+  crby = 11 #created by/reporter
+  qaow = 12 # QA Owner
+  cust = 13 #customer/customer
+  dued = 14 # due date/due
+  resd = 15 # resolution date/ resolved
   if $debug
     p rtcrow
     p jirarow
   end
+  # get RTC user
+  test_mappings(jirarow[idno],reso,$users,rtcrow,jirarow,"rtc user","jira user")
   # get RTC resolution
-  test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira resolution")
+  test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira business impact")
   # get RTC status
   test_mappings(jirarow[idno],stat,$statuses,rtcrow,jirarow,"rtc status","jira status")
     # get RTC type
-  test_mappings(jirarow[idno],stat,$types,rtcrow,jirarow,"rtc type","jira type")
+  test_mappings(jirarow[idno],type,$types,rtcrow,jirarow,"rtc type","jira type")
     # get RTC priority
-  test_mappings(jirarow[idno],stat,$priorities,rtcrow,jirarow,"rtc priority","jira priority")
+  test_mappings(jirarow[idno],prio,$priorities,rtcrow,jirarow,"rtc priority","jira priority")
   # get RTC severity
-  test_mappings(jirarow[idno],stat,$severities,rtcrow,jirarow,"rtc severity","jira severity")
+  test_mappings(jirarow[idno],seve,$severities,rtcrow,jirarow,"rtc severity","jira priority")
     # get RTC component
-  test_mappings(jirarow[idno],stat,$components,rtcrow,jirarow,"rtc component","jira component")
+  test_mappings(jirarow[idno],comp,$components,rtcrow,jirarow,"rtc component","jira component")
     # get RTC version
-  test_mappings(jirarow[idno],stat,$versions,rtcrow,jirarow,"rtc version","jira version")
-
+  test_mappings(jirarow[idno],aver,$versions,rtcrow,jirarow,"rtc version","jira version")
+  test_mappings(jirarow[idno],fver,$versions,rtcrow,jirarow,"rtc version","jira version")
+  test_mappings(jirarow[idno],assn,$versions,rtcrow,jirarow,"rtc owned by","jira assignee")
+  test_mappings(jirarow[idno],crby,$versions,rtcrow,jirarow,"rtc created by","jira reporter")
+  test_mappings(jirarow[idno],qaow,$versions,rtcrow,jirarow,"rtc QA Owner","jira QA Owner")
   # get RTC browser
-  test_mappings(jirarow[idno],stat,$browers,rtcrow,jirarow,"rtc browser","jira browser")
+  #test_mappings(jirarow[idno],stat,$browsers,rtcrow,jirarow,"rtc browser","jira browser")
+  
 end
-$debug = true
+$debug = false
 $rtcrows = read_rtc()
 $jirarows = read_jira()
 puts "rtc:"+$rtcrows.size.to_s
