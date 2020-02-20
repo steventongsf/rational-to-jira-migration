@@ -93,9 +93,12 @@ def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
     msg = rtctext+" not in mapping. actual:"+rtcrow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
   end
   #test: mapping
-  if hash[rtcrow[key_num]] == nil
+  if hash[rtcrow[key_num]] == nil  
     msg = jiratext+" not in mapping. Expected:Unknown,actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
-  elsif hash[rtcrow[key_num]].downcase != jirarow[key_num].downcase
+
+  elsif jirarow[key_num] ==nil
+msg = jiratext+" not in mapping. Expected:Unknown,actual:Unknown,id:"+id+",moddate:"+rtcrow[1]
+elsif hash[rtcrow[key_num]].downcase != jirarow[key_num].downcase
     msg = jiratext+" doesn't match mapping. Expected:"+hash[rtcrow[key_num]].downcase+",actual:"+ jirarow[key_num].downcase+",id:"+id+",moddate:"+rtcrow[1]
   else
     #puts id+":"+hash[rtcrow[key_num]]+":"+jirarow[key_num]+":"+key_num.to_s
@@ -148,7 +151,10 @@ def process_row(rtcrow,jirarow)
     p jirarow
   end
   # get RTC user
-  test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc user","jira user")
+  test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc assigned to","jira user")
+  test_mappings(jirarow[idno],crby,$users,rtcrow,jirarow,"rtc created by","jira user")
+  test_mappings(jirarow[idno],qaow,$users,rtcrow,jirarow,"rtc qa owner","jira user")
+
   return
   # get RTC resolution
   test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira business impact")
