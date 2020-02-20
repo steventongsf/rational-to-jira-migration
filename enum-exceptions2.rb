@@ -114,7 +114,7 @@ def show_exceptions()
   }
 end
 def process_row(rtcrow,jirarow)
-  #puts "Processin row"
+  #puts "Processing row"
   idno = 0
   modd = 1
   reso = 2
@@ -122,8 +122,14 @@ def process_row(rtcrow,jirarow)
   type = 4
   prio = 5 #business impact
   seve = 6 #priority
-  comp = 7
-  vers = 8
+  comp = 7 #filed against/component
+  aver = 8 #found in/affected version
+  fver = 9 #planned for/fixed version
+  brow = 10 #browser
+  assn = 11 #owned by/ assignee
+  repo = 12 #created by/reporter
+  qaow = 13 # QA Owner
+  tags = 14 #tags/labels
   if $debug
     p rtcrow
     p jirarow
