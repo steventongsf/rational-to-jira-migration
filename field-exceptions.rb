@@ -141,10 +141,6 @@ def process_row(rtcrow,jirarow)
     p rtcrow
     p jirarow
   end
-
-  # get RTC browser
-  test_mappings(jirarow[idno],stat,$browers,rtcrow,jirarow,"rtc browser","jira browser")
-  return
   # get RTC resolution
   test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira resolution")
   # get RTC status
@@ -160,6 +156,8 @@ def process_row(rtcrow,jirarow)
     # get RTC version
   test_mappings(jirarow[idno],stat,$versions,rtcrow,jirarow,"rtc version","jira version")
 
+  # get RTC browser
+  test_mappings(jirarow[idno],stat,$browers,rtcrow,jirarow,"rtc browser","jira browser")
 end
 $debug = true
 $rtcrows = read_rtc()
