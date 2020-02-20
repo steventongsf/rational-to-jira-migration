@@ -1,0 +1,1175 @@
+Custom field (Legacy Issue ID),Created,Resolution,Status,Issue Type,Custom field (Business Impact),Priority,Component/s,Affects Version/s,Fix Version/s,Assignee,Reporter,Custom field (QA Owner),Labels,Labels,Labels,Labels,Due Date,Resolved
+192075,25/Nov/19 4:33 PM,Fixed,Done,Bug,Medium,Blocker,Platform,20.1,,rongming.pan@hcl.com,steven.tong@hcl.com,steven.tong@hcl.com,,,,,,31/Dec/19 4:03 AM
+193216,03/Feb/20 11:29 AM,,To Do,Bug,High,Blocker,MATH,20.2,,prakash-si@hcl.com,Michael.Sutherland@acoustic.co,,csi,,,,,
+188713,25/Jun/19 8:05 AM,Fixed,Done,Bug,Medium,Blocker,MarkDown,,19.3.1,,smita_p@hcl.com,smita_p@hcl.com,,,,,,12/Jul/19 1:20 AM
+192969,17/Jan/20 4:10 PM,As Designed,Done,Bug,High,Blocker,PE,19.4,,,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,17/Jan/20 4:25 PM
+192914,15/Jan/20 4:20 PM,Fixed Indirectly,Done,Bug,Medium,Blocker,Deal Management,20.2,,,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,16/Jan/20 4:24 AM
+191575,06/Nov/19 8:42 AM,Fixed,Done,Bug,High,Blocker,MarkDown,20.1,20.1,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,14/Jan/20 2:48 AM
+193286,06/Feb/20 5:51 AM,,To Do,Bug,High,Critical,Platform,20.2,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+191887,15/Nov/19 6:22 PM,Not a bug,To Do,Bug,High,Critical,PE,19.4,20.1.2,,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,06/Feb/20 4:30 AM
+193051,22/Jan/20 3:31 PM,Fixed Indirectly,Done,Bug,High,Critical,Price,19.4,,xianghua.bao@hcl.com,janardan.bhardwaj@acoustic.co,yan.lu@hcl.com,csi,,,,,06/Feb/20 2:53 AM
+193257,05/Feb/20 5:29 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,,,rolf.haugen@hcl.com,rtcuser,,,,,,,06/Feb/20 1:13 AM
+188974,08/Jul/19 5:31 PM,Fixed,Done,Bug,High,Critical,PPM(i) Publishing Manager,19.3,,bvenu@hcl.com,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,19.3,csi,test,,,15/Aug/19 5:54 PM
+189414,29/Jul/19 11:55 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,bvenu@hcl.com,Kevin.Lee@acoustic.co,,,,,,,03/Feb/20 7:34 PM
+192973,17/Jan/20 7:23 PM,Fixed,Done,Bug,High,Critical,MarkDown,,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 2:19 PM
+167556,26/Apr/17 1:03 PM,Fixed Indirectly,Done,Bug,Medium,Critical,MarkDown,17.1,,rtcuser,rtcuser,,csi,,,,,26/Apr/17 2:02 PM
+190047,27/Aug/19 5:17 AM,As Designed,Done,Bug,High,Critical,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 8:29 AM
+185015,13/Dec/18 10:09 AM,Fixed,Done,Bug,High,Critical,MarkDown,18.3,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,03/Feb/20 8:24 AM
+190582,22/Sep/19 1:59 PM,Fixed,Done,Bug,High,Critical,MarkDown,19.3,19.3.10,rongming.pan@hcl.com,deepak.malik@acoustic.co,,csi,,,,,28/Sep/19 11:41 PM
+191662,09/Nov/19 8:53 PM,Cannot Reproduce,Done,Bug,Medium,Critical,MarkDown,19.4,,rongming.pan@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,03/Feb/20 7:48 AM
+190033,27/Aug/19 4:02 AM,Fixed,Done,Bug,High,Critical,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 7:42 AM
+188688,24/Jun/19 6:36 PM,Cannot Reproduce,Done,Bug,High,Critical,MarkDown,19.2,19.2,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,03/Feb/20 7:37 AM
+187415,22/Apr/19 2:25 PM,Cannot Reproduce,Done,Bug,High,Critical,MarkDown,19.1,,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,ganeshmanjunath.b@hcl.com,csi,,,,,03/Feb/20 7:31 AM
+193089,24/Jan/20 10:04 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,bvenu@hcl.com,Ram.Gour@acoustic.co,,,,,,,27/Jan/20 8:35 AM
+189771,16/Aug/19 10:07 PM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,poungodai.e@hcl.com,Preethi.Igoor@acoustic.co,,csi,,,,,29/Aug/19 4:52 PM
+193096,27/Jan/20 4:00 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,27/Jan/20 4:19 AM
+187945,16/May/19 5:27 PM,Fixed,Done,Bug,High,Critical,Deal Management,19.2,,poungodai.e@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,18/Dec/19 3:27 AM
+192416,10/Dec/19 7:47 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,10/Dec/19 8:51 AM
+192639,23/Dec/19 8:37 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,31/Dec/19 5:39 PM
+192682,27/Dec/19 9:37 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,27/Dec/19 12:37 PM
+192980,19/Jan/20 5:43 PM,Fixed,Done,Bug,Medium,Critical,Deal Management,19.4,,bvenu@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,19/Jan/20 11:25 PM
+192414,10/Dec/19 7:37 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,10/Dec/19 8:15 AM
+192965,17/Jan/20 10:36 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,17/Jan/20 3:38 PM
+192732,01/Jan/20 11:03 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,rtcuser,,,,,,,02/Jan/20 5:05 PM
+192738,01/Jan/20 11:30 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,rtcuser,,,,,,,02/Jan/20 5:15 PM
+192966,17/Jan/20 11:42 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,rtcuser,,,,,,,17/Jan/20 4:29 PM
+193106,27/Jan/20 9:47 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,28/Jan/20 2:10 AM
+192219,02/Dec/19 8:05 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,03/Dec/19 4:34 PM
+191970,20/Nov/19 10:28 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,20/Nov/19 6:59 PM
+192170,28/Nov/19 9:15 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,28/Nov/19 9:38 AM
+191866,15/Nov/19 6:52 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,rtcuser,,,,,,,18/Nov/19 5:00 PM
+191826,14/Nov/19 8:23 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,14/Nov/19 6:21 PM
+189738,14/Aug/19 4:56 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.3,,poungodai.e@hcl.com,Ram.Gour@acoustic.co,,,,,,,18/Dec/19 6:09 PM
+189452,30/Jul/19 10:52 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.2,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,01/Aug/19 2:09 PM
+182057,20/Jul/18 11:38 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,18.4,,poungodai.e@hcl.com,rtcuser,ravirajukasturir@hcl.com,csi,,,,,20/Jul/18 4:08 PM
+189535,04/Aug/19 9:39 AM,Fixed,Done,Bug,Medium,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,06/Aug/19 6:42 PM
+189606,07/Aug/19 4:14 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,07/Aug/19 7:25 AM
+189668,10/Aug/19 4:53 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,15/Aug/19 2:46 PM
+189669,11/Aug/19 2:42 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,12/Aug/19 3:20 PM
+189678,12/Aug/19 6:21 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,26/Aug/19 10:44 PM
+189835,20/Aug/19 8:19 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,20/Aug/19 3:19 PM
+189898,22/Aug/19 1:41 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,23/Aug/19 6:19 AM
+189938,22/Aug/19 6:37 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,22/Aug/19 9:08 PM
+189963,23/Aug/19 4:23 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,23/Aug/19 10:56 AM
+189966,23/Aug/19 4:39 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.3,,bvenu@hcl.com,Ram.Gour@acoustic.co,,,,,,,23/Aug/19 5:09 AM
+189965,23/Aug/19 4:34 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,23/Aug/19 9:02 PM
+190275,05/Sep/19 8:24 AM,Duplicate,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,05/Sep/19 8:40 AM
+190348,09/Sep/19 6:34 AM,Fixed Indirectly,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,09/Sep/19 3:17 PM
+190492,17/Sep/19 6:44 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,17/Sep/19 12:01 PM
+190803,01/Oct/19 7:38 AM,Not a bug,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,01/Oct/19 11:51 PM
+191047,14/Oct/19 8:34 AM,Fixed,Done,Bug,Medium,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,14/Oct/19 3:10 PM
+191420,31/Oct/19 8:26 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,31/Oct/19 9:17 PM
+191476,04/Nov/19 9:18 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.4,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,04/Nov/19 3:17 PM
+191579,06/Nov/19 9:59 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,06/Nov/19 11:29 AM
+192458,11/Dec/19 5:08 AM,Fixed,Done,Bug,High,Critical,Deal Management,19.4,,poungodai.e@hcl.com,Ram.Gour@acoustic.co,,,,,,,12/Dec/19 12:15 AM
+193054,23/Jan/20 12:00 AM,,To Do,Bug,High,Critical,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,
+193062,23/Jan/20 6:39 PM,Duplicate,Done,Bug,High,Critical,MATH,19.4,,,deepak.malik@acoustic.co,,csi,,,,,23/Jan/20 7:12 PM
+190583,22/Sep/19 2:27 PM,Fixed Indirectly,Done,Bug,High,Critical,Price,19.3,,yunqi.li@hcl.com,deepak.malik@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:03 AM
+192946,16/Jan/20 1:44 PM,Not a bug,To Do,Bug,Medium,Critical,PE,20.1,,,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,16/Jan/20 11:42 PM
+189258,23/Jul/19 4:39 PM,Fixed Indirectly,Done,Bug,Medium,Critical,Platform,19.2,20.2,rongming.pan@hcl.com,janardan.bhardwaj@acoustic.co,jia.liu@hcl.com,csi,,,,,15/Jan/20 3:05 AM
+191946,19/Nov/19 2:43 PM,Fixed,Done,Bug,High,Critical,Platform,19.4,,xingyi.wei@hcl.com,nayan.swaroop@acoustic.co,,csi,,,,,20/Nov/19 6:25 AM
+171687,26/Jul/17 6:11 PM,Fixed,Done,Bug,Medium,Critical,Platform,17.2,,srinivas.dorairaj@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,15/Jul/19 4:50 AM
+181294,12/Jun/18 5:13 PM,Fixed Indirectly,Done,Bug,High,Critical,Price,18.2,,xianghua.bao@hcl.com,rtcuser,,csi,dtsupport,,,,14/Jan/20 11:49 PM
+177392,13/Dec/17 10:29 AM,Fixed Indirectly,Done,Bug,High,Critical,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:46 PM
+192746,02/Jan/20 7:21 AM,Fixed Indirectly,Done,Bug,High,Critical,Price,19.4,,xueling.mi@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:07 AM
+193108,27/Jan/20 10:39 AM,Fixed,Done,Bug,Medium,Major,PE,20.1,,junfeng.guo@hcl.com,gyanaranjan.sahani@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,04/Feb/20 4:42 AM
+193007,20/Jan/20 7:57 PM,Not a bug,To Do,Bug,High,Major,PE,19.4,,jiu.jiang@hcl.com,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,preview,,,,06/Feb/20 10:37 AM
+192648,23/Dec/19 2:02 PM,Fixed Indirectly,Done,Bug,Medium,Major,Promotion,,,jiu.jiang@hcl.com,Kevin.Lee@acoustic.co,,,,,,,06/Feb/20 4:38 AM
+188769,27/Jun/19 2:52 AM,,To Do,Bug,Medium,Major,MarkDown,19.2,20.2,ganeshmanjunath.b@hcl.com,rtcuser,smita_p@hcl.com,csi,,,,,
+193229,04/Feb/20 3:42 AM,,To Do,Bug,Medium,Major,Platform,20.2,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+191553,05/Nov/19 10:14 PM,,In Progress,Bug,Medium,Major,OpenLink,19.4,,ning.cao@hcl.com,janardan.bhardwaj@acoustic.co,yamei.ji@hcl.com,csi,,,,,
+192371,09/Dec/19 3:52 PM,Fixed,Done,Bug,High,Major,PE,19.4,,,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,06/Feb/20 5:24 AM
+192990,20/Jan/20 7:46 AM,Not a bug,To Do,Bug,High,Major,Promotion,20.2,20.2,kumarr.a@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,06/Feb/20 4:36 AM
+192455,11/Dec/19 4:41 AM,Fixed,Done,Bug,Medium,Major,Promotion,20.1,20.2,ning.qi@hcl.com,danfeng.xu@hcl.com,danfeng.xu@hcl.com,,,,,,06/Feb/20 4:24 AM
+193256,05/Feb/20 5:24 AM,Fixed,Done,Bug,Medium,Major,Promotion,,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 6:17 AM
+193282,06/Feb/20 3:40 AM,Not a bug,To Do,Bug,High,Major,Promotion,20.2,20.2,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 3:44 AM
+193100,27/Jan/20 7:25 AM,,To Do,Bug,Medium,Major,Platform,19.4,,rongming.pan@hcl.com,vipin.sharma@acoustic.co,jia.liu@hcl.com,csi,,,,,
+188348,05/Jun/19 8:50 PM,Fixed Indirectly,Done,Bug,High,Major,OpenLink,19.2,,ning.cao@hcl.com,Nick.Titangos@acoustic.co,,csi,,,,,06/Feb/20 1:28 AM
+167078,19/Apr/17 9:42 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,17.1,,rtcuser,rtcuser,,csi,,,,,06/Feb/20 1:23 AM
+160887,12/Dec/16 1:50 PM,Fixed Indirectly,Done,Bug,High,Major,OpenLink,16.4,,Zhibin.Pan@acoustic.co,rtcuser,,csi,,,,,06/Feb/20 1:21 AM
+188473,13/Jun/19 3:58 PM,Fixed Indirectly,Done,Bug,High,Major,OpenLink,19.2,,vipin.sharma@acoustic.co,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,06/Feb/20 1:14 AM
+192913,15/Jan/20 2:08 PM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.4,,Sheila.Meyer@acoustic.co,vipin.sharma@acoustic.co,Sheila.Meyer@acoustic.co,csi,,,,,06/Feb/20 1:12 AM
+193249,04/Feb/20 12:54 PM,,To Do,Bug,Medium,Major,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,
+192954,16/Jan/20 8:59 PM,Not a bug,To Do,Bug,Medium,Major,PE,20.1,,,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,05/Feb/20 1:07 PM
+192885,14/Jan/20 3:29 AM,Fixed,Done,Bug,High,Major,Promotion,20.2,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,05/Feb/20 12:19 PM
+193036,22/Jan/20 1:12 AM,Fixed,Done,Bug,Medium,Major,Price,19.4,20.2,hefei.luan@hcl.com,Nitin.Devara@acoustic.co,jia.zhu@hcl.com,20.1_patch,csi,,,,05/Feb/20 1:48 AM
+193107,27/Jan/20 10:13 AM,Not a bug,To Do,Bug,Medium,Major,PE,19.4,,,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,05/Feb/20 8:48 AM
+193109,27/Jan/20 11:01 AM,Not a bug,To Do,Bug,Medium,Major,PE,20.2,20.1.1,,gyanaranjan.sahani@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,05/Feb/20 5:11 AM
+185108,18/Dec/18 5:31 PM,,To Do,Bug,Medium,Major,MATH,19.2,,,Dirceu.Diasrosa@acoustic.co,,,,,,,
+193139,28/Jan/20 9:48 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,xianghua.bao@hcl.com,deepak.malik@acoustic.co,,csi,,,,,05/Feb/20 2:07 AM
+177173,05/Dec/17 5:16 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,17.4,,yunqi.li@hcl.com,mario.martinez@acoustic.co,jia.zhu@hcl.com,,,,,,04/Feb/20 12:10 AM
+188671,21/Jun/19 7:46 PM,Fixed,Done,Bug,Medium,Major,PPM(i) Publishing Manager,19.3,,,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,19.3,csi,test,,,14/Oct/19 6:56 PM
+190919,09/Oct/19 2:29 PM,Fixed,Done,Bug,High,Major,PE,19.3,19.4.3,xingbiao.qian@hcl.com,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,06/Nov/19 11:30 PM
+189362,26/Jul/19 3:37 PM,Fixed Indirectly,Done,Bug,Medium,Major,PE,19.2,,,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,14/Jan/20 8:03 AM
+193134,28/Jan/20 1:14 PM,,To Do,Bug,High,Major,Price,19.4,,Arkady.Gurevich@acoustic.co,Pedro.Cuadramora@acoustic.co,,,,,,,
+191901,18/Nov/19 8:04 AM,Fixed,Done,Bug,Medium,Major,Promotion,20.1,20.1,ye.xu@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,04/Feb/20 6:17 AM
+193228,04/Feb/20 3:37 AM,Fixed,Done,Bug,Medium,Major,Platform,20.2,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,04/Feb/20 4:14 AM
+192389,10/Dec/19 1:38 AM,Fixed,Done,Bug,Medium,Major,Promotion,20.1,20.1,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,21/Jan/20 2:17 PM
+193114,27/Jan/20 1:09 PM,,To Do,Bug,Medium,Major,Platform,19.4,,ashok.rathi@hcl.com,vipin.sharma@acoustic.co,jia.liu@hcl.com,csi,,,,,
+168850,16/May/17 2:27 PM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,17.2,,ashok.rathi@hcl.com,rtcuser,,csi,,,,,04/Feb/20 4:42 AM
+192273,04/Dec/19 5:11 AM,Not a bug,To Do,Bug,Medium,Major,Promotion,20.1,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,04/Feb/20 4:20 AM
+192867,12/Jan/20 11:58 PM,,In Progress,Task,Medium,Major,Platform,,20.2,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,,
+193231,04/Feb/20 3:49 AM,,To Do,Bug,Medium,Major,Platform,20.2,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+191665,11/Nov/19 6:02 AM,,To Do,Bug,Medium,Major,OpenLink,20.1,,partha_n@hcl.com,juanjuan.li@hcl.com,,,,,,,
+193200,03/Feb/20 2:02 AM,Fixed,Done,Bug,High,Major,Promotion,20.2,20.2,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,03/Feb/20 2:31 AM
+189483,31/Jul/19 2:41 PM,,To Do,Bug,Medium,Major,Price,19.3,,junlei.chen@hcl.com,Michael.Sutherland@acoustic.co,yan.lu@hcl.com,,,,,,
+189530,02/Aug/19 5:25 PM,,To Do,Bug,Medium,Major,DB Engg,19.3,,,Dirceu.Diasrosa@acoustic.co,,,,,,,
+174376,26/Sep/17 11:48 PM,,To Do,Bug,High,Major,MATH,17.3,,rtcuser,rtcuser,,csi,,,,,
+179156,09/Mar/18 5:48 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,18.1,,,suneeta.chandrasekar@acoustic.co,,,,,,,04/Feb/20 12:05 AM
+152111,08/Jul/16 1:24 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,16.2,,yunqi.li@hcl.com,rtcuser,yan.lu@hcl.com,csi,scenario_summary_new,,,,04/Feb/20 12:04 AM
+188805,28/Jun/19 4:32 PM,Fixed Indirectly,Done,Bug,High,Major,Promotion,,19.3,,Debbi.Ingersoll@acoustic.co,xiaofang.shi@hcl.com,,,,,,04/Feb/20 12:03 AM
+181531,21/Jun/18 11:46 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,18.4,,xianghua.bao@hcl.com,rtcuser,,,,,,,04/Feb/20 12:03 AM
+191768,13/Nov/19 3:21 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,yunqi.li@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,ni,,,,04/Feb/20 12:02 AM
+192016,21/Nov/19 10:50 AM,,To Do,Bug,High,Major,MarkDown,19.4,,,deepak.malik@acoustic.co,,csi,,,,,
+142593,03/Mar/16 8:28 PM,Fixed,Done,Bug,Medium,Major,MarkDown,15.1,,rtcuser,rtcuser,,,,,,,03/Feb/20 2:16 PM
+192984,20/Jan/20 1:20 AM,,In Progress,Bug,High,Major,MarkDown,19.4,19.4.9,ganeshmanjunath.b@hcl.com,gyanaranjan.sahani@acoustic.co,,csi,,,,,
+188054,22/May/19 6:46 PM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.2,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 9:50 AM
+168540,10/May/17 9:23 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.2,,rtcuser,rtcuser,,csi,,,,,26/May/17 4:45 AM
+167037,18/Apr/17 2:17 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.1,,rtcuser,rtcuser,,csi,,,,,25/Apr/17 12:46 PM
+167533,26/Apr/17 9:39 AM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.1,,rtcuser,rtcuser,,csi,,,,,11/May/17 6:12 AM
+147823,06/May/16 4:34 AM,Fixed,Done,Bug,Medium,Major,MarkDown,16.1,17.1,rtcuser,Maloney.Whitfield@acoustic.co,ganeshmanjunath.b@hcl.com,,,,,,21/Sep/16 7:56 PM
+157512,12/Oct/16 8:39 PM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,16.3,17.2,rtcuser,nataliya.veren@acoustic.co,rtcuser,csi,,,,,26/May/17 5:55 AM
+152607,19/Jul/16 3:21 AM,Fixed,Done,Bug,Medium,Major,MarkDown,16.2,16.3.5,rtcuser,Maloney.Whitfield@acoustic.co,ganeshmanjunath.b@hcl.com,,,,,,23/Aug/16 2:18 PM
+189265,24/Jul/19 1:23 AM,Fixed,Done,Bug,Medium,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 8:29 AM
+184297,05/Dec/18 8:37 AM,Fixed,Done,Bug,High,Major,MarkDown,18.3,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,03/Feb/20 8:25 AM
+177736,04/Jan/18 4:33 AM,Fixed,Done,Bug,High,Major,MarkDown,,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 8:22 AM
+173487,01/Sep/17 4:26 PM,Fixed,Done,Bug,Medium,Major,MarkDown,,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 8:21 AM
+181310,13/Jun/18 1:29 PM,Fixed,Done,Bug,High,Major,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,15/Jun/18 2:47 PM
+182936,06/Sep/18 11:16 PM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,18.4,18.4,Jay.Li@acoustic.co,ganeshmanjunath.b@hcl.com,,,,,,,23/Oct/18 2:13 AM
+181004,29/May/18 3:02 PM,Fixed,Done,Bug,Medium,Major,MarkDown,18.2,,,suneeta.chandrasekar@acoustic.co,,csi,,,,,03/Feb/20 8:19 AM
+180513,07/May/18 5:37 PM,Fixed,Done,Bug,Medium,Major,MarkDown,18.2,,,suneeta.chandrasekar@acoustic.co,,,,,,,03/Feb/20 8:20 AM
+174308,25/Sep/17 7:22 AM,Duplicate,Done,Bug,High,Major,MarkDown,17.3,,srinivas.dorairaj@hcl.com,rtcuser,,csi,,,,,06/Apr/18 5:58 AM
+179338,16/Mar/18 6:35 PM,Not a bug,Done,Bug,High,Major,MarkDown,18.1,,Arkady.Gurevich@acoustic.co,suneeta.chandrasekar@acoustic.co,,,,,,,03/Feb/20 8:18 AM
+179385,20/Mar/18 12:26 PM,Fixed,Done,Bug,Medium,Major,MarkDown,18.1,,rtcuser,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 8:18 AM
+179762,04/Apr/18 10:51 AM,Not a bug,Done,Bug,Medium,Major,MarkDown,18.1,,,rtcuser,,csi,,,,,05/Apr/18 4:01 AM
+179070,06/Mar/18 8:11 PM,Won't Fix,Done,Bug,Medium,Major,MarkDown,18.1,,srinivas.dorairaj@hcl.com,suneeta.chandrasekar@acoustic.co,,csi,,,,,03/Feb/20 8:16 AM
+177461,14/Dec/17 9:58 PM,Fixed,Done,Bug,High,Major,MarkDown,,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 8:15 AM
+178861,26/Feb/18 10:27 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,18.1,,rtcuser,nataliya.veren@acoustic.co,,csi,,,,,27/Feb/18 8:06 AM
+167051,18/Apr/17 7:30 PM,Not a bug,Done,Bug,Low,Major,MarkDown,17.1,,ning.cao@hcl.com,rtcuser,,csi,,,,,03/Feb/20 8:14 AM
+177055,04/Dec/17 3:57 AM,Not a bug,Done,Bug,Medium,Major,MarkDown,18.1,18.1,rtcuser,rtcuser,ganeshmanjunath.b@hcl.com,,,,,,04/Dec/17 4:36 AM
+172684,17/Aug/17 6:58 AM,Fixed,Done,Bug,Medium,Major,MarkDown,17.4,18.1,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,20/Nov/17 5:16 AM
+174802,10/Oct/17 4:40 AM,Fixed,Done,Bug,High,Major,MarkDown,17.3,Backlog,rtcuser,rtcuser,,,,,,,03/Feb/20 8:13 AM
+174494,29/Sep/17 6:18 AM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.3,,rtcuser,rtcuser,,csi,,,,,08/Nov/17 4:34 AM
+174801,10/Oct/17 4:20 AM,As Designed,Done,Bug,High,Major,MarkDown,17.3,,,rtcuser,,,,,,,19/Oct/17 3:21 AM
+175509,24/Oct/17 10:05 AM,Fixed,Done,Bug,Medium,Major,MarkDown,17.4,18.2,rtcuser,rtcuser,,csi,,,,,03/Feb/20 8:11 AM
+175679,26/Oct/17 4:50 PM,As Designed,Done,Bug,High,Major,MarkDown,17.4,,,suneeta.chandrasekar@acoustic.co,,,,,,,30/Oct/17 3:58 AM
+174972,12/Oct/17 8:52 PM,Fixed,Done,Bug,High,Major,MarkDown,17.3,,rtcuser,suneeta.chandrasekar@acoustic.co,,,,,,,03/Feb/20 8:10 AM
+174085,19/Sep/17 12:16 AM,Fixed,Done,Bug,High,Major,MarkDown,17.4,,rtcuser,suneeta.chandrasekar@acoustic.co,,,,,,,03/Feb/20 8:09 AM
+164473,03/Mar/17 5:21 AM,Fixed,Done,Bug,Medium,Major,MarkDown,17.2,18.1,rtcuser,rtcuser,ganeshmanjunath.b@hcl.com,,,,,,03/Mar/17 5:21 AM
+167160,20/Apr/17 9:52 AM,Not a bug,Done,Bug,Medium,Major,MarkDown,17.1,,Zhibin.Pan@acoustic.co,rtcuser,,csi,,,,,03/Feb/20 8:08 AM
+171857,31/Jul/17 1:15 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.2,,XiaoChun.Li@acoustic.co,rtcuser,,csi,,,,,03/Aug/17 5:46 AM
+171925,01/Aug/17 2:34 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.3,,rtcuser,rtcuser,,csi,,,,,04/Aug/17 1:34 AM
+154779,23/Aug/16 9:02 AM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,16.3,,,rtcuser,rtcuser,csi,,,,,27/Jun/17 11:44 AM
+170680,26/Jun/17 5:02 AM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,17.2,,Arkady.Gurevich@acoustic.co,rtcuser,,csi,,,,,27/Jun/17 9:23 AM
+190228,04/Sep/19 2:27 AM,Fixed,Done,Bug,High,Major,MarkDown,19.4,19.3.7,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,06/Sep/19 3:19 AM
+190562,20/Sep/19 4:05 AM,Fixed,Done,Bug,High,Major,MarkDown,19.4,19.3.10,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,20/Sep/19 2:13 PM
+190763,27/Sep/19 12:02 PM,Fixed,Done,Bug,Medium,Major,MarkDown,19.3,19.4.13,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,ganeshmanjunath.b@hcl.com,csi,,,,,01/Jan/20 12:30 PM
+193004,20/Jan/20 3:47 PM,Fixed,Done,Bug,Medium,Major,MarkDown,,20.2,ganeshmanjunath.b@hcl.com,ashok.rathi@hcl.com,smita_p@hcl.com,,,,,,03/Feb/20 7:54 AM
+190509,17/Sep/19 7:29 PM,Duplicate,Done,Bug,Medium,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,03/Feb/20 7:53 AM
+192330,06/Dec/19 1:40 AM,,To Do,Bug,Medium,Major,MATH,19.4,19.4,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,
+191251,22/Oct/19 6:35 AM,Fixed,Done,Bug,Medium,Major,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,04/Dec/19 7:20 AM
+191751,13/Nov/19 3:08 AM,Fixed,Done,Bug,Medium,Major,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 7:50 AM
+192329,05/Dec/19 10:46 PM,Fixed,Done,Bug,Medium,Major,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,03/Feb/20 7:50 AM
+190658,24/Sep/19 3:47 PM,Fixed,Done,Bug,Medium,Major,MATH,19.3,,Arkady.Gurevich@acoustic.co,Dejean.Brown@acoustic.co,,,,,,,01/Nov/19 2:32 PM
+189617,07/Aug/19 4:42 PM,Not a bug,Done,Bug,Medium,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,inayat.husain@acoustic.co,,csi,,,,,03/Feb/20 7:45 AM
+190500,17/Sep/19 1:41 PM,Fixed,Done,Bug,Medium,Major,MarkDown,19.3,19.3,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,03/Feb/20 7:44 AM
+190359,09/Sep/19 1:18 PM,,In Progress,Bug,Medium,Major,MATH,19.3,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,
+190379,10/Sep/19 2:51 PM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Dejean.Brown@acoustic.co,,csi,,,,,17/Sep/19 12:58 PM
+189708,13/Aug/19 1:45 AM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,11/Sep/19 2:42 PM
+189770,16/Aug/19 7:45 PM,Fixed,Done,Bug,High,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,03/Feb/20 7:41 AM
+189612,07/Aug/19 10:43 AM,Fixed,Done,Bug,Medium,Major,MarkDown,19.3,19.3,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,03/Feb/20 7:39 AM
+189652,09/Aug/19 8:39 AM,Fixed,Done,Bug,Medium,Major,MarkDown,19.3,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 7:38 AM
+189124,16/Jul/19 12:06 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 7:35 AM
+188289,03/Jun/19 6:24 PM,Fixed,Done,Bug,High,Major,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,inayat.husain@acoustic.co,,csi,,,,,03/Feb/20 7:36 AM
+188589,18/Jun/19 11:33 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 7:35 AM
+188431,12/Jun/19 1:51 PM,,To Do,Bug,High,Major,MATH,19.2,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,
+175138,17/Oct/17 12:55 PM,Duplicate,Done,Bug,High,Major,MarkDown,18.1,17.4,rtcuser,sergey.rozhkov@hcl.com,,,,,,,18/Oct/17 1:40 AM
+187758,10/May/19 5:28 AM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,14/May/19 10:23 AM
+186286,01/Mar/19 4:19 PM,Cannot Reproduce,Done,Bug,Medium,Major,MarkDown,18.4,,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,03/Feb/20 7:31 AM
+186018,13/Feb/19 1:13 PM,Cannot Reproduce,Done,Bug,Medium,Major,MarkDown,18.4,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,03/Feb/20 7:30 AM
+185490,14/Jan/19 6:10 AM,As Designed,Done,Bug,High,Major,MarkDown,18.3,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,03/Feb/20 7:29 AM
+188347,05/Jun/19 6:23 PM,Fixed,Done,Bug,Medium,Major,MarkDown,19.2,19.2.7,ganeshmanjunath.b@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,03/Feb/20 7:23 AM
+153981,09/Aug/16 6:33 AM,Won't Fix,Done,Bug,Medium,Major,MarkDown,17.1,,Maloney.Whitfield@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 7:16 AM
+190770,27/Sep/19 3:19 PM,Cannot Reproduce,Done,Bug,Medium,Major,MarkDown,19.4,,,Dejean.Brown@acoustic.co,,,,,,,03/Feb/20 7:04 AM
+189792,19/Aug/19 2:12 PM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,,,,Sheila.Meyer@acoustic.co,,,,,,,03/Feb/20 4:53 AM
+172492,11/Aug/17 6:28 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,16.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:27 PM
+180099,18/Apr/18 3:34 PM,Cannot Reproduce,Done,Bug,Medium,Major,Deal Management,17.4,,,rtcuser,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:25 PM
+173888,12/Sep/17 5:54 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,17.3,,Dirceu.Diasrosa@acoustic.co,rtcuser,rtcuser,csi,,,,,30/Jan/20 10:05 PM
+192024,21/Nov/19 6:35 PM,Fixed,Done,Bug,Medium,Major,PE,19.4,20.1,junfeng.guo@hcl.com,janardan.bhardwaj@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,03/Dec/19 8:09 AM
+192022,21/Nov/19 5:49 PM,Fixed,Done,Bug,Medium,Major,PE,19.4,20.1,ye.xu@hcl.com,vipin.sharma@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,15/Jan/20 5:49 AM
+192953,16/Jan/20 8:14 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,xianghua.bao@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,30/Jan/20 12:18 AM
+171801,28/Jul/17 12:46 AM,As Designed,Done,Bug,Medium,Major,Deal Management,17.2,,rtcuser,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,29/Jan/20 10:18 PM
+187551,30/Apr/19 11:32 AM,Fixed,Done,Bug,High,Major,Deal Management,19.1,,rakesh.patel@acoustic.co,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,29/Jan/20 10:13 PM
+172436,10/Aug/17 6:30 PM,Fixed,Done,Bug,Medium,Major,Deal Management/ADM - Interfaces ,17.3,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,28/Aug/17 11:26 AM
+183856,09/Nov/18 2:28 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,18.4,,poungodai.e@hcl.com,rtcuser,ravirajukasturir@hcl.com,csi,,,,,11/Sep/19 10:41 PM
+189367,27/Jul/19 9:30 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,ravirajukasturir@hcl.com,bvenu@hcl.com,palanisamy.s@hcl.com,deployment,preview,,,,29/Jan/20 8:43 PM
+192882,13/Jan/20 3:07 PM,,In Progress,Bug,Medium,Major,OpenLink,19.4,,ning.cao@hcl.com,deepak.malik@acoustic.co,yamei.ji@hcl.com,csi,,,,,
+192628,22/Dec/19 11:54 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.4,,bvenu@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,23/Dec/19 2:33 AM
+193094,26/Jan/20 7:36 PM,Not a bug,Done,Bug,Medium,Major,Deal Management,19.4,,rolf.haugen@hcl.com,Kevin.Lee@acoustic.co,,,,,,,28/Jan/20 2:17 AM
+184163,28/Nov/18 2:14 PM,,In Progress,Bug,High,Major,OpenLink,18.3,,ning.cao@hcl.com,nataliya.veren@acoustic.co,yamei.ji@hcl.com,csi,,,,,
+193060,23/Jan/20 5:24 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,xianghua.bao@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,28/Jan/20 6:17 PM
+193115,27/Jan/20 1:20 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,xianghua.bao@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,28/Jan/20 6:16 PM
+192221,02/Dec/19 12:31 PM,Fixed,Done,Bug,Medium,Major,Deal Management,19.4,,poungodai.e@hcl.com,Kevin.Lee@acoustic.co,,,,,,,18/Dec/19 3:28 AM
+192368,09/Dec/19 2:05 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.4,,poungodai.e@hcl.com,Kevin.Lee@acoustic.co,,,,,,,09/Dec/19 6:25 PM
+192056,23/Nov/19 5:03 PM,Not a bug,Done,Bug,High,Major,Deal Management,19.4,,rolf.haugen@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,24/Nov/19 1:38 AM
+190295,06/Sep/19 4:28 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,06/Sep/19 11:59 AM
+190305,06/Sep/19 7:13 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,06/Sep/19 12:08 PM
+192071,25/Nov/19 12:44 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.4,,poungodai.e@hcl.com,Kevin.Lee@acoustic.co,,,,,,,03/Dec/19 8:08 PM
+170943,05/Jul/17 6:23 AM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,17.2,,rtcuser,Maloney.Whitfield@acoustic.co,,csi,,,,,05/Jul/17 6:41 AM
+168028,04/May/17 2:58 AM,Duplicate,Done,Bug,Medium,Major,Promotion,17.2,,,rtcuser,xiaofang.shi@hcl.com,csi,,,,,04/May/17 3:27 AM
+163853,21/Feb/17 12:04 AM,Fixed Indirectly,Done,Bug,Low,Major,OpenLink,17.1,,Zhibin.Pan@acoustic.co,rtcuser,,csi,,,,,21/Feb/17 12:36 AM
+164039,23/Feb/17 5:23 AM,Fixed Indirectly,Done,Bug,Medium,Major,Promotion,17.1,,ning.qi@hcl.com,rtcuser,xiaofang.shi@hcl.com,csi,,,,,26/Feb/17 11:29 PM
+163721,17/Feb/17 10:22 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,17.1,,rtcuser,rtcuser,,csi,,,,,05/Apr/17 10:12 PM
+163637,16/Feb/17 7:11 AM,Fixed Indirectly,Done,Bug,Medium,Major,Platform,17.1,,srinivas.dorairaj@hcl.com,rtcuser,,csi,,,,,18/Apr/17 11:08 PM
+164735,09/Mar/17 8:22 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,17.1,,Zhibin.Pan@acoustic.co,rtcuser,,csi,,,,,23/Mar/17 5:37 AM
+164742,09/Mar/17 10:56 AM,Duplicate,Done,Bug,Medium,Major,MATH,17.1,,,rtcuser,,csi,,,,,13/Mar/17 9:27 PM
+164947,14/Mar/17 3:47 AM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,17.1,,rtcuser,rtcuser,,csi,,,,,16/Mar/17 5:14 AM
+164684,08/Mar/17 11:59 AM,Fixed Indirectly,Done,Bug,Low,Major,OpenLink,17.1,,rtcuser,rtcuser,,csi,,,,,16/Mar/17 11:21 PM
+164733,09/Mar/17 8:13 AM,Fixed Indirectly,Done,Bug,Low,Major,OpenLink,17.1,,rtcuser,rtcuser,,csi,,,,,19/Mar/17 10:54 PM
+165518,23/Mar/17 3:22 AM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,17.1,,,rtcuser,,csi,,,,,28/Mar/17 4:31 AM
+166663,12/Apr/17 5:48 AM,Duplicate,Done,Bug,Medium,Major,Price,17.1,,rtcuser,rtcuser,,csi,,,,,12/Apr/17 6:07 AM
+160808,09/Dec/16 5:47 AM,Not a bug,Done,Bug,Medium,Major,Platform,17.1,,rongming.pan@hcl.com,juanjuan.li@hcl.com,,,,,,,28/Feb/17 4:38 AM
+166037,30/Mar/17 9:02 PM,Fixed,Done,Bug,High,Major,Deal Management,17.2,,,Manish.Patel@acoustic.co,rtcuser,error,,,,,28/Nov/18 9:40 PM
+192440,10/Dec/19 5:30 PM,Cannot Reproduce,Done,Bug,Medium,Major,Deal Management,20.1,20.1,poungodai.e@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,11/Dec/19 5:35 AM
+177937,12/Jan/18 3:30 PM,Fixed,Done,Bug,Medium,Major,Deal Management,18.4,19.1,ashvinkumar.r@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,11/Dec/18 9:20 AM
+188472,13/Jun/19 3:53 PM,Fixed Indirectly,Done,Bug,High,Major,Deal Management,19.2,,rtcuser,rtcuser,,,,,,,18/Jun/19 3:30 AM
+189534,03/Aug/19 10:54 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,06/Aug/19 6:43 PM
+189555,05/Aug/19 9:20 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,06/Aug/19 6:41 PM
+189556,05/Aug/19 9:26 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,16/Aug/19 4:38 PM
+189587,06/Aug/19 11:09 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,06/Aug/19 4:17 PM
+189581,06/Aug/19 7:25 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,06/Aug/19 12:06 PM
+189579,06/Aug/19 7:21 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,06/Aug/19 6:40 PM
+189638,08/Aug/19 1:20 PM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,08/Aug/19 8:47 PM
+189640,08/Aug/19 2:26 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,poungodai.e@hcl.com,rtcuser,,,,,,,29/Aug/19 4:53 PM
+189646,08/Aug/19 10:39 PM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,ashvinkumar.r@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,30/Sep/19 2:14 PM
+189773,18/Aug/19 4:55 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,18/Aug/19 11:19 PM
+189772,17/Aug/19 8:15 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,poungodai.e@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,21/Aug/19 4:25 PM
+189995,23/Aug/19 1:57 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,23/Aug/19 9:15 PM
+190255,04/Sep/19 1:01 PM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,bvenu@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,30/Sep/19 2:14 PM
+190268,05/Sep/19 7:22 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,bvenu@hcl.com,rtcuser,,,,,,,05/Sep/19 6:24 PM
+190274,05/Sep/19 8:18 AM,Not a bug,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,06/Sep/19 11:55 AM
+190271,05/Sep/19 7:53 AM,Duplicate,Done,Bug,Medium,Major,Deal Management,19.3,,poungodai.e@hcl.com,rtcuser,,,,,,,10/Sep/19 2:57 AM
+190296,06/Sep/19 4:41 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,poungodai.e@hcl.com,rtcuser,,,,,,,06/Sep/19 5:16 PM
+190297,06/Sep/19 4:46 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,06/Sep/19 11:56 AM
+190298,06/Sep/19 4:54 AM,Duplicate,Done,Bug,Medium,Major,Deal Management,19.3,,poungodai.e@hcl.com,rtcuser,,,,,,,10/Sep/19 2:56 AM
+190306,06/Sep/19 7:18 AM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,06/Sep/19 12:48 PM
+190343,09/Sep/19 4:25 AM,Fixed,Done,Bug,Medium,Major,Deal Management,19.3,,rolf.haugen@hcl.com,rtcuser,,,,,,,10/Sep/19 11:37 PM
+190700,25/Sep/19 4:02 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.3,,poungodai.e@hcl.com,Nick.Titangos@acoustic.co,,,,,,,25/Sep/19 7:25 PM
+191341,27/Oct/19 12:05 PM,Fixed,Done,Bug,Medium,Major,Deal Management,19.4,,rolf.haugen@hcl.com,Kevin.Lee@acoustic.co,,,,,,,28/Oct/19 1:00 PM
+191431,31/Oct/19 6:24 PM,Fixed,Done,Bug,Medium,Major,Deal Management,19.4,,ashvinkumar.r@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,01/Nov/19 3:21 AM
+191674,11/Nov/19 1:10 PM,Fixed Indirectly,Done,Bug,Medium,Major,Deal Management,19.4,,rolf.haugen@hcl.com,Kevin.Lee@acoustic.co,,,,,,,11/Nov/19 1:39 PM
+193103,27/Jan/20 9:10 AM,Fixed,Done,Bug,High,Major,Platform,19.4,,srinivas.dorairaj@hcl.com,vipin.sharma@acoustic.co,jia.liu@hcl.com,csi,,,,,28/Jan/20 1:20 AM
+192617,20/Dec/19 4:08 AM,,Done,Story,Medium,Major,Deal Management,20.1,20.1,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+193063,23/Jan/20 8:53 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,24/Jan/20 3:05 AM
+191786,13/Nov/19 5:49 PM,,Done,Story,High,Major,MarkDown,19.3,20.1.1,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,ganeshmanjunath.b@hcl.com,,,,,,
+193048,22/Jan/20 1:35 PM,Fixed,Done,Bug,Medium,Major,Price,17.4,,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,22/Jan/20 2:19 PM
+192889,14/Jan/20 4:51 AM,,To Do,Bug,Medium,Major,OpenLink,20.2,,ning.cao@hcl.com,juanjuan.li@hcl.com,juanjuan.li@hcl.com,,,,,,
+192460,11/Dec/19 5:29 AM,Fixed,Done,Bug,Medium,Major,Promotion,20.1,,junfeng.guo@hcl.com,danfeng.xu@hcl.com,xiaofang.shi@hcl.com,,,,,,21/Jan/20 3:05 PM
+192388,10/Dec/19 1:35 AM,Not a bug,To Do,Bug,Medium,Major,Promotion,20.1,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,21/Jan/20 1:18 PM
+193021,21/Jan/20 7:32 AM,,To Do,Bug,Medium,Major,OpenLink,20.2,,chakravarthi_s@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,,,,,,
+190354,09/Sep/19 11:32 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.3,,yunqi.li@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:11 AM
+187669,07/May/19 10:07 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.2,,xianghua.bao@hcl.com,rtcuser,,csi,,,,,21/Jan/20 7:10 AM
+190885,07/Oct/19 12:38 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.3,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:06 AM
+190648,24/Sep/19 10:16 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.3,,xiang.zhou@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:05 AM
+190353,09/Sep/19 10:42 AM,Fixed Indirectly,Done,Bug,High,Major,Price,19.3,,rongming.pan@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:04 AM
+159779,21/Nov/16 9:43 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,16.4,Backlog,rtcuser,nataliya.veren@acoustic.co,JinFan.Zhu@acoustic.co,csi,,,,,21/Jan/20 7:01 AM
+187771,10/May/19 4:55 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.2,,jingbo.yang@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:00 AM
+172901,22/Aug/17 4:50 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,17.3,,xianghua.bao@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,21/Jan/20 6:59 AM
+171366,18/Jul/17 2:25 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,17.2,,rongming.pan@hcl.com,rtcuser,,csi,,,,,21/Jan/20 6:58 AM
+186660,15/Mar/19 6:26 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,,,xianghua.bao@hcl.com,rtcuser,jia.zhu@hcl.com,anomaly_detection,csi,,,,21/Jan/20 6:58 AM
+190800,01/Oct/19 4:16 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.3,20.1,gyanaranjan.sahani@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 6:31 AM
+192605,19/Dec/19 6:00 AM,Fixed,Done,Bug,Medium,Major,OpenLink,,,ning.cao@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,datastageupgrade11,,,,,21/Jan/20 4:27 AM
+192976,19/Jan/20 4:13 AM,,To Do,Bug,Medium,Major,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+192804,07/Jan/20 5:35 AM,Fixed,Done,Bug,High,Major,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,08/Jan/20 5:06 AM
+192888,14/Jan/20 4:33 AM,Fixed,Done,Bug,High,Major,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,15/Jan/20 12:20 AM
+192933,16/Jan/20 6:37 AM,Fixed,Done,Bug,High,Major,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,16/Jan/20 1:31 PM
+192895,14/Jan/20 8:39 AM,Fixed,Done,Bug,Medium,Major,Price,20.1,20.2,xiang.zhou@hcl.com,yan.lu@hcl.com,yan.lu@hcl.com,,,,,,19/Jan/20 12:57 AM
+192912,15/Jan/20 10:20 AM,,To Do,Bug,Medium,Major,MATH,19.4,,chun.wang@hcl.com,deepak.malik@acoustic.co,,csi,,,,,
+192823,08/Jan/20 5:31 AM,,To Do,Bug,Medium,Major,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+192922,16/Jan/20 5:39 AM,Not a bug,To Do,Bug,High,Major,Promotion,20.2,20.2,badalh@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,17/Jan/20 1:01 AM
+192739,02/Jan/20 12:04 AM,,To Do,Story,Medium,Major,DB Engg,,20.2,kumar.pawan@hcl.com,rongming.pan@hcl.com,,,,,,,
+192862,10/Jan/20 3:26 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.4,,yunqi.li@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,16/Jan/20 12:53 PM
+192907,15/Jan/20 6:41 AM,,To Do,Bug,Medium,Major,OpenLink,20.2,,kumar.pawan@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,,,,,,
+189696,12/Aug/19 3:16 PM,Fixed Indirectly,Done,Bug,High,Major,OpenLink,19.3,,ganeshmanjunath.b@hcl.com,gyanaranjan.sahani@acoustic.co,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:12 AM
+190499,17/Sep/19 12:51 PM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.3,,ning.cao@hcl.com,vipin.sharma@acoustic.co,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:09 AM
+190880,07/Oct/19 9:53 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.3,,ning.cao@hcl.com,vipin.sharma@acoustic.co,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:08 AM
+173380,31/Aug/17 6:49 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,14.3,,ning.cao@hcl.com,rtcuser,,csi,,,,,16/Jan/20 1:04 AM
+187515,29/Apr/19 5:31 AM,Won't Fix,Done,Bug,Medium,Major,OpenLink,19.1,,ning.cao@hcl.com,rtcuser,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:02 AM
+158136,24/Oct/16 10:13 AM,Fixed Indirectly,Done,Bug,High,Major,OpenLink,16.4,,ashok.rathi@hcl.com,rtcuser,,csi,,,,,16/Jan/20 12:59 AM
+187752,10/May/19 12:23 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.2,,ning.cao@hcl.com,rtcuser,,csi,,,,,16/Jan/20 12:57 AM
+190560,20/Sep/19 3:48 AM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.3,,ning.cao@hcl.com,rtcuser,,csi,,,,,15/Jan/20 7:23 AM
+192819,07/Jan/20 3:17 PM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.4,,ning.cao@hcl.com,Nick.Titangos@acoustic.co,,csi,,,,,15/Jan/20 7:21 AM
+187501,26/Apr/19 4:12 PM,Fixed Indirectly,Done,Bug,Medium,Major,Promotion,19.1,,,inayat.husain@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,15/Jan/20 5:41 AM
+187423,22/Apr/19 6:54 PM,Fixed,Done,Bug,High,Major,Platform,19.1,19.2,xingyi.wei@hcl.com,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,platform,,,,24/Apr/19 10:34 PM
+181528,21/Jun/18 10:50 PM,Fixed Indirectly,Done,Bug,Medium,Major,Platform,18.2,,ning.cao@hcl.com,rtcuser,,csi,,,,,15/Jan/20 12:32 AM
+183607,24/Oct/18 11:52 PM,Fixed Indirectly,Done,Bug,Medium,Major,Platform,18.3,,ning.cao@hcl.com,rtcuser,,csi,,,,,15/Jan/20 12:36 AM
+189442,30/Jul/19 12:32 AM,Fixed Indirectly,Done,Bug,High,Major,Portal,19.3,,rongming.pan@hcl.com,vipin.sharma@acoustic.co,jia.liu@hcl.com,csi,,,,,30/Aug/19 4:23 AM
+179466,22/Mar/18 3:15 PM,Fixed Indirectly,Done,Bug,Medium,Major,Platform,18.1,,xingyi.wei@hcl.com,rtcuser,jia.liu@hcl.com,csi,,,,,01/May/18 11:39 PM
+186485,07/Mar/19 11:55 AM,Fixed,Done,Bug,High,Major,Platform,19.1,,rongming.pan@hcl.com,rtcuser,,csi,,,,,13/Mar/19 4:20 AM
+183807,07/Nov/18 6:59 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,18.3,,Arkady.Gurevich@acoustic.co,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:50 PM
+177764,05/Jan/18 5:35 AM,Fixed Indirectly,Done,Bug,Medium,Major,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:46 PM
+187502,26/Apr/19 5:38 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.1,,Hilarie.Cox@acoustic.co,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:43 PM
+172564,14/Aug/17 3:14 PM,Fixed Indirectly,Done,Bug,High,Major,Price,17.3,,rtcuser,rtcuser,,csi,,,,,14/Jan/20 11:42 PM
+186206,26/Feb/19 5:50 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,18.4,,Gajanan.Thakare@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:41 PM
+185816,29/Jan/19 7:40 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,18.3,,xianghua.bao@hcl.com,rtcuser,jia.zhu@hcl.com,anomaly_detection,csi,,,,14/Jan/20 11:41 PM
+186624,14/Mar/19 2:56 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.1,,Hilarie.Cox@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:41 PM
+188664,21/Jun/19 12:33 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.2,,yunqi.li@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:39 PM
+187122,08/Apr/19 7:54 PM,Fixed Indirectly,Done,Bug,Medium,Major,Price,19.1,,xianghua.bao@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:38 PM
+192900,14/Jan/20 3:18 PM,Not a bug,Done,Bug,High,Major,PE,,,,Debbi.Ingersoll@acoustic.co,xiaofang.shi@hcl.com,,,,,,14/Jan/20 8:28 PM
+192881,13/Jan/20 2:27 PM,,In Progress,Bug,Medium,Major,Price,19.4,,Arkady.Gurevich@acoustic.co,deepak.malik@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+189445,30/Jul/19 2:34 AM,Fixed Indirectly,Done,Bug,Medium,Major,Promotion,19.3,19.3.2,rongming.pan@hcl.com,suneeta.chandrasekar@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,14/Jan/20 7:42 AM
+192883,13/Jan/20 4:32 PM,,To Do,Bug,Medium,Major,Price,17.4,,jia.zhu@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+192778,06/Jan/20 5:10 AM,Fixed,Done,Bug,High,Major,PE,20.1,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,08/Jan/20 5:41 AM
+187675,07/May/19 2:34 PM,Fixed Indirectly,Done,Bug,Medium,Major,MarkDown,19.2,,anuragdu@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,14/Jan/20 4:33 AM
+188368,07/Jun/19 3:51 AM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.2,,anuragdu@hcl.com,rtcuser,,csi,,,,,14/Jan/20 4:32 AM
+188476,13/Jun/19 4:45 PM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.4,,anuragdu@hcl.com,rtcuser,qiaoqiao.shen@hcl.com,csi,,,,,14/Jan/20 4:31 AM
+189628,07/Aug/19 9:22 PM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.3,,anuragdu@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,14/Jan/20 4:30 AM
+188988,09/Jul/19 10:45 AM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.3,,anuragdu@hcl.com,rtcuser,,csi,,,,,14/Jan/20 4:30 AM
+190810,01/Oct/19 6:25 PM,Fixed Indirectly,Done,Bug,High,Major,MarkDown,19.3,,junlei.chen@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,14/Jan/20 4:28 AM
+191580,06/Nov/19 12:21 PM,Fixed Indirectly,Done,Bug,High,Major,MATH,19.4,,junlei.chen@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:26 AM
+191603,07/Nov/19 6:15 AM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.4,,junlei.chen@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:25 AM
+191616,07/Nov/19 1:20 PM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.4,,chun.wang@hcl.com,vipin.sharma@acoustic.co,qiaoqiao.shen@hcl.com,csi,,,,,14/Jan/20 4:25 AM
+191747,12/Nov/19 8:06 PM,Fixed Indirectly,Done,Bug,Medium,Major,MATH,19.4,,chun.wang@hcl.com,suneeta.chandrasekar@acoustic.co,qiaoqiao.shen@hcl.com,csi,,,,,14/Jan/20 4:24 AM
+191787,13/Nov/19 6:30 PM,Fixed Indirectly,Done,Bug,High,Major,MATH,19.4,20.1,chun.wang@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:24 AM
+190895,08/Oct/19 6:00 AM,Fixed Indirectly,Done,Bug,High,Major,Price,19.3,,rongming.pan@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:09 AM
+189459,30/Jul/19 3:20 PM,Fixed Indirectly,Done,Bug,Medium,Major,OpenLink,19.3,,ning.cao@hcl.com,nataliya.veren@acoustic.co,yamei.ji@hcl.com,csi,,,,,13/Jan/20 7:41 PM
+192596,19/Dec/19 3:16 AM,Fixed Indirectly,Done,Bug,Medium,Major,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,10/Jan/20 4:18 AM
+192593,19/Dec/19 2:45 AM,Fixed Indirectly,Done,Bug,Medium,Major,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,10/Jan/20 4:16 AM
+190862,05/Oct/19 4:21 AM,Fixed,Done,Bug,High,Major,Deal Management,20.1,20.1,rolf.haugen@hcl.com,palanisamy.s@hcl.com,,,,,,,10/Jan/20 4:06 AM
+192594,19/Dec/19 3:00 AM,,To Do,Task,Medium,Major,Platform,,20.2,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,,
+192857,10/Jan/20 3:54 AM,,To Do,Bug,Medium,Major,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+191618,07/Nov/19 4:13 PM,,To Do,Bug,High,Major,MATH,19.4,,ganeshmanjunath.b@hcl.com,deepak.malik@acoustic.co,,csi,,,,,
+192490,12/Dec/19 6:04 AM,Fixed,Done,Bug,Medium,Major,Promotion,20.1,20.1.1,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,30/Dec/19 12:34 AM
+192539,16/Dec/19 12:43 AM,Fixed,Done,Bug,High,Major,Promotion,20.1,20.1.1,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Jan/20 4:08 AM
+189219,22/Jul/19 9:51 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,19.4,,avulay@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,05/Feb/20 8:31 AM
+193265,05/Feb/20 6:43 AM,,To Do,Bug,Low,Minor,Platform,20.2,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+193236,04/Feb/20 5:25 AM,Fixed Indirectly,Done,Bug,Medium,Minor,Deal Management,20.2,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,04/Feb/20 6:42 AM
+190159,30/Aug/19 7:15 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.2,avulay@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,03/Feb/20 9:29 AM
+193098,27/Jan/20 6:40 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,03/Feb/20 4:32 AM
+193206,03/Feb/20 6:35 AM,Duplicate,Done,Bug,Medium,Minor,Deal Management,20.2,,sreekanths@hcl.com,kakulurus@hcl.com,kakulurus@hcl.com,,,,,,04/Feb/20 3:29 AM
+193099,27/Jan/20 6:46 AM,,To Do,Bug,Medium,Minor,Deal Management,20.2,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+190027,27/Aug/19 1:05 AM,,To Do,Bug,Low,Minor,Promotion,19.3,,,mansi.gupta@hcl.com,xiaofang.shi@hcl.com,,,,,,
+188397,11/Jun/19 3:29 AM,,To Do,Bug,Medium,Minor,Price,19.3,,xianghua.bao@hcl.com,Pedro.Cuadramora@acoustic.co,,,,,,,
+190014,26/Aug/19 11:19 AM,,To Do,Bug,High,Minor,Deal Management,19.4,,,bvenu@hcl.com,,,,,,,
+172453,10/Aug/17 11:06 PM,,To Do,Bug,Low,Minor,Price,17.4,20.2,jia.zhu@hcl.com,xinjian.fang@hcl.com,jia.zhu@hcl.com,,,,,,
+189366,27/Jul/19 9:11 AM,,To Do,Bug,Medium,Minor,Deal Management,19.3,,mittala@hcl.com,bvenu@hcl.com,palanisamy.s@hcl.com,,,,,,
+189247,23/Jul/19 6:47 AM,,To Do,Bug,Medium,Minor,Deal Management,19.4,,avulay@hcl.com,kakulurus@hcl.com,kakulurus@hcl.com,,,,,,
+192198,29/Nov/19 9:54 AM,,To Do,Bug,Medium,Minor,Deal Management,20.1,20.2,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+193090,24/Jan/20 3:22 PM,,In Progress,Bug,Medium,Minor,Deal Management,20.2,20.2,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+192894,14/Jan/20 7:55 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,20.2,avulay@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,28/Jan/20 5:44 AM
+190698,25/Sep/19 1:47 PM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.1,avulay@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,26/Nov/19 4:57 AM
+191891,18/Nov/19 4:12 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.2,avulay@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,27/Jan/20 5:34 AM
+193095,27/Jan/20 3:47 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,27/Jan/20 9:58 AM
+192875,13/Jan/20 7:54 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,20.2,avulay@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,23/Jan/20 6:46 AM
+192810,07/Jan/20 7:31 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,20.2,avulay@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,24/Jan/20 9:39 AM
+192288,04/Dec/19 8:01 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.1.1,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,09/Jan/20 7:26 AM
+192785,06/Jan/20 8:38 PM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.1.1,avulay@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,09/Jan/20 5:00 AM
+192766,03/Jan/20 10:05 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,20.1.1,avulay@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,10/Jan/20 9:57 AM
+192620,20/Dec/19 8:32 AM,Won't Fix,Done,Bug,Medium,Minor,Deal Management,20.1,,ashvinkumar.r@hcl.com,syedbashac@hcl.com,,,,,,,10/Jan/20 4:13 AM
+192480,11/Dec/19 7:45 PM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.1.1,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,14/Jan/20 8:48 AM
+192814,07/Jan/20 9:42 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,20.1.1,avulay@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,10/Jan/20 9:51 AM
+192836,08/Jan/20 9:46 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,20.1.1,avulay@hcl.com,kakulurus@hcl.com,kakulurus@hcl.com,,,,,,10/Jan/20 10:25 AM
+183875,12/Nov/18 5:08 PM,,To Do,Story,Medium,Minor,OpenLink,,20.2,ning.cao@hcl.com,Phillip.Rashidi@acoustic.co,juanjuan.li@hcl.com,,,,,,
+192816,07/Jan/20 9:46 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,,avulay@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,21/Jan/20 8:55 AM
+192349,09/Dec/19 1:16 AM,Won't Fix,Done,Bug,Medium,Minor,Price,20.1,20.2,aaditi.j@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,21/Jan/20 6:53 AM
+191639,08/Nov/19 9:58 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,20/Jan/20 9:34 AM
+192991,20/Jan/20 7:51 AM,,To Do,Bug,Medium,Minor,Deal Management,20.2,,ashvinkumar.r@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,
+192468,11/Dec/19 8:14 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,20/Jan/20 4:57 AM
+192940,16/Jan/20 7:17 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.2,,sreekanths@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,20/Jan/20 4:58 AM
+189949,22/Aug/19 7:48 PM,,To Do,Bug,Medium,Minor,Deal Management,20.1,20.2,sreekanths@hcl.com,bvenu@hcl.com,ravirajukasturir@hcl.com,,,,,,
+191876,15/Nov/19 9:02 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,16/Jan/20 5:01 AM
+191286,23/Oct/19 2:50 PM,,To Do,Bug,Medium,Minor,Deal Management,20.2,,bvenu@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+190695,25/Sep/19 8:48 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,,sreekanths@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,14/Jan/20 8:54 PM
+190541,18/Sep/19 11:30 PM,,To Do,Bug,Medium,Minor,Price,19.4,20.2,xiang.zhou@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,
+192543,16/Dec/19 5:15 AM,,To Do,Bug,Medium,Minor,Deal Management,20.2,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+192591,18/Dec/19 9:30 PM,,To Do,Bug,Medium,Minor,Deal Management,20.2,20.1,,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,serviceability,,,,,
+192708,31/Dec/19 7:48 AM,Fixed,Done,Bug,Medium,Minor,Deal Management,20.1,20.1,sreekanths@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,02/Jan/20 9:08 AM
+183754,02/Nov/18 1:54 PM,Fixed Indirectly,Done,Bug,High,Medium,MATH,19.1,,rtcuser,Michael.Sutherland@acoustic.co,Jay.Li@acoustic.co,,,,,,06/Jun/19 9:51 AM
+175325,20/Oct/17 4:37 AM,,To Do,Bug,Medium,Medium,DemandTec Others,17.3,19.4,Jay.Li@acoustic.co,yan.lu@hcl.com,Jay.Li@acoustic.co,owasp,psirt_17.3,,,12/May/18 12:00 AM,
+193307,06/Feb/20 6:51 PM,,To Do,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+192020,21/Nov/19 5:07 PM,,Done,Story,Medium,Medium,Deal Management,,20.1.1,poungodai.e@hcl.com,Heidi.Beetz@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+193151,29/Jan/20 12:08 PM,,To Do,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193304,06/Feb/20 4:01 PM,,To Do,Story,Medium,Medium,Deal Management,,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193303,06/Feb/20 1:08 PM,,To Do,Story,Medium,Medium,Deal Management,,,bvenu@hcl.com,Chris.Lim@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193274,05/Feb/20 5:30 PM,Not a bug,Done,Bug,Medium,Medium,PE,19.4,,,inayat.husain@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,06/Feb/20 2:37 PM
+191587,06/Nov/19 5:20 PM,,To Do,Bug,Medium,Medium,Price,19.4,,xueling.mi@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+193300,06/Feb/20 11:13 AM,,To Do,Bug,Medium,Medium,Price,19.4,20.2,xianghua.bao@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+193271,05/Feb/20 12:00 PM,,To Do,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+193302,06/Feb/20 12:04 PM,,To Do,Bug,Medium,Medium,Deal Management,20.2,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+193193,02/Feb/20 4:00 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 10:54 AM
+193299,06/Feb/20 10:23 AM,,To Do,Story,Medium,Medium,Deal Management,,,palanisamy.s@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,automation,,,,,
+193298,06/Feb/20 10:12 AM,,To Do,Story,Medium,Medium,Deal Management,,,syedbashac@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,automation,,,,,
+193297,06/Feb/20 8:56 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,,20.2,aaditi.j@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,06/Feb/20 9:29 AM
+193295,06/Feb/20 8:43 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,20.2,aaditi.j@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,06/Feb/20 8:54 AM
+193002,20/Jan/20 1:43 PM,,In Progress,Story,Medium,Medium,Price,,20.2,sudhanshuk@hcl.com,Anthony.Bell@acoustic.co,kangana.g@hcl.com,,,,,,
+193293,06/Feb/20 8:08 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,20.2,aaditi.j@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,06/Feb/20 8:43 AM
+193291,06/Feb/20 7:44 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,06/Feb/20 7:58 AM
+193287,06/Feb/20 6:01 AM,,To Do,Story,Medium,Medium,Price,,20.2,yan.lu@hcl.com,yan.lu@hcl.com,yan.lu@hcl.com,,,,,,
+193250,04/Feb/20 4:33 PM,,In Progress,Bug,Medium,Medium,Deal Management,20.2,,avulay@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+193280,06/Feb/20 2:32 AM,,In Progress,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,
+193185,31/Jan/20 8:25 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,20.2,,ashvinkumar.r@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,06/Feb/20 4:40 AM
+190866,05/Oct/19 3:05 PM,Fixed,Done,Bug,High,Medium,Promotion,20.1,20.1,wenxiao.pan@hcl.com,mansi.gupta@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 4:36 AM
+191632,08/Nov/19 6:57 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,22/Jan/20 6:06 AM
+192909,15/Jan/20 7:22 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,03/Feb/20 3:43 PM
+193191,01/Feb/20 7:35 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 3:26 AM
+193232,04/Feb/20 4:34 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,wenxiao.pan@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 1:48 AM
+193234,04/Feb/20 5:17 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 3:28 AM
+193284,06/Feb/20 4:06 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,06/Feb/20 4:14 AM
+193268,05/Feb/20 7:23 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 2:48 PM
+193283,06/Feb/20 3:46 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 3:49 AM
+192926,16/Jan/20 6:08 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,04/Feb/20 4:21 AM
+192930,16/Jan/20 6:16 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,05/Feb/20 6:55 AM
+193281,06/Feb/20 3:29 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 3:37 AM
+193192,02/Feb/20 3:51 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,05/Feb/20 4:14 AM
+193279,06/Feb/20 2:13 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 3:08 AM
+189309,24/Jul/19 11:48 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.3,19.4,rongming.pan@hcl.com,rongming.pan@hcl.com,jia.liu@hcl.com,,,,,,06/Feb/20 2:48 AM
+192226,02/Dec/19 5:15 PM,Fixed,Done,Bug,Medium,Medium,Platform,,,,steven.tong@hcl.com,,,,,,,06/Feb/20 2:47 AM
+190711,26/Sep/19 5:11 AM,,In Progress,Story,Medium,Medium,Platform,,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+164335,01/Mar/17 12:55 AM,,To Do,Bug,Medium,Medium,Platform,17.1,20.2,jaiveers@hcl.com,rtcuser,,csi,,,,,
+187816,13/May/19 2:28 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,19.2,,rongming.pan@hcl.com,mario.martinez@acoustic.co,jia.liu@hcl.com,csi,,,,,06/Feb/20 2:37 AM
+188103,23/May/19 11:20 PM,,To Do,Bug,Medium,Medium,Platform,19.3,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,non-regression,,,,,
+193195,02/Feb/20 6:47 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,05/Feb/20 4:51 AM
+193233,04/Feb/20 5:16 AM,,To Do,Story,High,Medium,MarkDown,,20.2,kumar.pawan@hcl.com,rtcuser,,,,,,,
+193226,04/Feb/20 1:56 AM,Fixed,Done,Bug,High,Medium,Promotion,,20.2,ning.qi@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,05/Feb/20 5:44 AM
+193227,04/Feb/20 3:21 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,05/Feb/20 6:18 AM
+192681,27/Dec/19 5:58 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,wenxiao.pan@hcl.com,danfeng.xu@hcl.com,danfeng.xu@hcl.com,,,,,,06/Feb/20 2:22 AM
+193019,21/Jan/20 5:26 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 1:45 AM
+192481,11/Dec/19 8:45 PM,As Designed,Done,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,deepak.malik@acoustic.co,yamei.ji@hcl.com,csi,,,,,06/Feb/20 1:12 AM
+193018,21/Jan/20 5:20 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,06/Feb/20 1:43 AM
+193038,22/Jan/20 5:36 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,06/Feb/20 1:39 AM
+193211,03/Feb/20 10:30 AM,,To Do,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,gyanaranjan.sahani@acoustic.co,yamei.ji@hcl.com,csi,,,,,
+170930,04/Jul/17 4:36 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,17.2,,rtcuser,rtcuser,,csi,,,,,06/Feb/20 1:35 AM
+187443,23/Apr/19 11:03 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.1,,ning.cao@hcl.com,rtcuser,,csi,,,,,06/Feb/20 1:25 AM
+139956,25/Jan/16 8:33 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,15.4,,rtcuser,rtcuser,,csi,,,,,06/Feb/20 1:19 AM
+190365,09/Sep/19 11:51 PM,Won't Fix,Done,Bug,Medium,Medium,Platform,19.3,,jia.liu@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,06/Feb/20 1:17 AM
+189427,29/Jul/19 10:44 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.3,20.2,jia.zhu@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,06/Feb/20 1:16 AM
+193102,27/Jan/20 8:18 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,19.4,,Arkady.Gurevich@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,06/Feb/20 1:12 AM
+191706,12/Nov/19 5:59 AM,,To Do,Bug,Low,Medium,PE,20.1,,jiu.jiang@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,webscan_20.1,,,,,
+191712,12/Nov/19 6:33 AM,,To Do,Bug,Low,Medium,PE,20.1,,jiu.jiang@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,webscan_20.1,,,,,
+190388,11/Sep/19 4:18 AM,Fixed,Done,Bug,Medium,Medium,Platform,20.1,19.4,jia.liu@hcl.com,rtcuser,,,,,,,19/Sep/19 3:18 AM
+190521,18/Sep/19 6:07 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,20.1,20.1,rongming.pan@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,,,,,,06/Feb/20 12:28 AM
+191856,14/Nov/19 8:55 PM,Fixed,Done,Bug,High,Medium,Platform,20.1,,rongming.pan@hcl.com,steven.tong@hcl.com,min.kong@hcl.com,,,,,,06/Feb/20 12:20 AM
+193220,03/Feb/20 9:13 PM,,To Do,Bug,Medium,Medium,Deal Management/ADM - Interfaces ,20.2,,,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193275,05/Feb/20 7:11 PM,,To Do,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,deepak.malik@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+193273,05/Feb/20 5:23 PM,,In Progress,Bug,Medium,Medium,Deal Management,19.4,,poungodai.e@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193253,04/Feb/20 10:47 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,xueling.mi@hcl.com,deepak.malik@acoustic.co,jia.zhu@hcl.com,csi,,,,,05/Feb/20 1:57 AM
+191556,06/Nov/19 1:54 AM,,To Do,Story,Medium,Medium,MarkDown,,20.1,ganeshmanjunath.b@hcl.com,ashok.rathi@hcl.com,,performance,,,,,
+191555,06/Nov/19 1:21 AM,,To Do,Story,Medium,Medium,MarkDown,,20.1,ganeshmanjunath.b@hcl.com,ashok.rathi@hcl.com,,performance,,,,,
+193020,21/Jan/20 6:09 AM,,To Do,Story,Medium,Medium,MATH,,20.2,prakash-si@hcl.com,xianghua.bao@hcl.com,,,,,,,
+190208,03/Sep/19 12:14 AM,,Done,Story,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,xingyi.wei@hcl.com,jia.liu@hcl.com,,,,,,
+192091,26/Nov/19 6:32 AM,,Done,Story,Medium,Medium,Platform,,20.1.4,xingyi.wei@hcl.com,xingyi.wei@hcl.com,jia.liu@hcl.com,,,,,,
+193270,05/Feb/20 7:59 AM,,To Do,Story,Medium,Medium,Deal Management,,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+192773,03/Jan/20 7:03 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,xianghua.bao@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 5:23 AM
+193269,05/Feb/20 7:30 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,wenxiao.pan@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 7:49 AM
+193260,05/Feb/20 6:16 AM,Complete,Done,Task,Medium,Medium,Price,,20.2,xianghua.bao@hcl.com,xianghua.bao@hcl.com,,,,,,,05/Feb/20 7:41 AM
+192232,03/Dec/19 12:26 AM,,In Progress,Story,High,Medium,Platform,,20.1,sergey.rozhkov@hcl.com,jia.liu@hcl.com,,,,,,,
+193204,03/Feb/20 6:20 AM,,In Progress,Bug,Low,Medium,Platform,20.2,20.2,vitaly.grechko@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+193266,05/Feb/20 6:52 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 7:09 AM
+193207,03/Feb/20 6:35 AM,,In Progress,Task,Medium,Medium,Platform,,20.2,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,,
+193263,05/Feb/20 6:32 AM,,In Progress,Task,Medium,Medium,Platform,,20.2,jia.liu@hcl.com,xingyi.wei@hcl.com,,,,,,,
+193262,05/Feb/20 6:31 AM,,In Progress,Story,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,xingyi.wei@hcl.com,jia.liu@hcl.com,,,,,,
+193264,05/Feb/20 6:33 AM,Complete,Done,Task,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,xingyi.wei@hcl.com,,,,,,,05/Feb/20 6:33 AM
+193259,05/Feb/20 6:10 AM,,To Do,Task,Medium,Medium,Price,,20.2,xianghua.bao@hcl.com,xianghua.bao@hcl.com,,,,,,,
+193261,05/Feb/20 6:18 AM,,To Do,Task,Medium,Medium,Price,,20.2,xianghua.bao@hcl.com,xianghua.bao@hcl.com,,,,,,,
+193194,02/Feb/20 6:26 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 2:26 AM
+193258,05/Feb/20 6:09 AM,,To Do,Story,Medium,Medium,Price,,20.2,xianghua.bao@hcl.com,xianghua.bao@hcl.com,,,,,,,
+193203,03/Feb/20 6:14 AM,As Designed,Done,Bug,Low,Medium,Platform,20.2,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,05/Feb/20 6:05 AM
+193222,04/Feb/20 12:33 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 3:31 AM
+193237,04/Feb/20 6:02 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 8:36 AM
+193255,05/Feb/20 4:42 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 4:48 AM
+192751,02/Jan/20 5:39 PM,,In Progress,Bug,Medium,Medium,OpenLink,19.4,20.2,ning.cao@hcl.com,Sheila.Meyer@acoustic.co,,csi,,,,,
+193208,03/Feb/20 7:48 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,xianghua.bao@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,03/Feb/20 11:55 PM
+193133,28/Jan/20 12:48 PM,,In Progress,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,Kevin.Lee@acoustic.co,,csi,,,,,
+193199,03/Feb/20 2:01 AM,,In Progress,Story,Medium,Medium,Price,,20.2,kangana.g@hcl.com,xueling.mi@hcl.com,,,,,,,
+192998,20/Jan/20 11:27 AM,,In Progress,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,inayat.husain@acoustic.co,yamei.ji@hcl.com,csi,,,,,
+192932,16/Jan/20 6:23 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,wenxiao.pan@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 3:50 AM
+189237,23/Jul/19 3:12 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.3,,,juanjuan.li@hcl.com,,,,,,,05/Feb/20 1:37 AM
+192536,15/Dec/19 11:19 PM,,Done,Story,Medium,Medium,Price,,20.2,xianghua.bao@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+190165,30/Aug/19 11:04 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.3,,ashok.rathi@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,05/Feb/20 1:01 AM
+190015,26/Aug/19 12:47 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.3,,ning.cao@hcl.com,Preethi.Igoor@acoustic.co,,csi,,,,,05/Feb/20 12:54 AM
+193235,04/Feb/20 5:23 AM,,To Do,Story,Medium,Medium,OpenLink,,20.2,ning.cao@hcl.com,ning.cao@hcl.com,yamei.ji@hcl.com,,,,,,
+188573,18/Jun/19 11:21 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.3,,ning.cao@hcl.com,Sheila.Meyer@acoustic.co,,csi,,,,,05/Feb/20 12:29 AM
+193254,05/Feb/20 12:09 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,05/Feb/20 12:29 AM
+191455,01/Nov/19 6:47 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management/ADM - Interfaces ,19.4,,,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 8:39 PM
+180955,24/May/18 6:12 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,18.2,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 8:33 PM
+181904,12/Jul/18 5:06 PM,,To Do,Bug,Medium,Medium,Deal Management,18.2,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+175750,30/Oct/17 2:56 AM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,17.4,,bvenu@hcl.com,Manish.Patel@acoustic.co,,price,value,,,,04/Feb/20 8:27 PM
+174100,19/Sep/17 12:47 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,17.4,,,Manish.Patel@acoustic.co,,kroger,location,name,,,04/Feb/20 8:26 PM
+183797,06/Nov/18 8:09 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Promotion,18.3,,,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,06/Sep/19 12:00 AM
+188487,13/Jun/19 7:07 PM,Fixed,Done,Bug,Medium,Medium,PPM(i) Publishing Manager,19.3,19.3,,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,19.3,csi,test,,,14/Oct/19 6:51 PM
+193177,31/Jan/20 2:41 PM,As Designed,Done,Bug,Medium,Medium,Deal Management,19.4,,ravirajukasturir@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 8:01 PM
+193141,29/Jan/20 3:17 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,04/Feb/20 6:28 PM
+193251,04/Feb/20 5:41 PM,,To Do,Story,Medium,Medium,Price,,,xueling.mi@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+193113,27/Jan/20 12:53 PM,,To Do,Bug,Medium,Medium,MATH,19.4,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+170780,28/Jun/17 8:46 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,14.3,,ning.cao@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,04/Feb/20 4:26 AM
+192960,17/Jan/20 4:45 AM,,In Progress,Story,Medium,Medium,Price,,20.2,sudhanshuk@hcl.com,xueling.mi@hcl.com,,,,,,,
+192487,12/Dec/19 4:30 AM,Fixed,Done,Bug,High,Medium,Promotion,20.1,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,04/Feb/20 2:12 PM
+192899,14/Jan/20 3:11 PM,,Done,Story,Medium,Medium,Deal Management,19.4,,mittala@hcl.com,Chris.Lim@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+189149,17/Jul/19 2:36 PM,Fixed Indirectly,Done,Bug,High,Medium,Deal Management,19.2,,bvenu@hcl.com,rtcuser,,,,,,,04/Feb/20 12:38 PM
+187337,17/Apr/19 11:06 AM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.1,,rolf.haugen@hcl.com,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,03/Feb/20 3:29 PM
+192994,20/Jan/20 8:58 AM,Fixed Indirectly,Done,Bug,High,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,04/Feb/20 8:36 AM
+186138,21/Feb/19 5:13 PM,As Designed,Done,Bug,Medium,Medium,Deal Management,18.4,19.4,ashvinkumar.r@hcl.com,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 1:33 AM
+190790,30/Sep/19 6:02 AM,,To Do,Story,Medium,Medium,Deal Management,20.1,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+188344,05/Jun/19 2:28 PM,,To Do,Bug,Medium,Medium,Deal Management,20.2,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+193247,04/Feb/20 9:41 AM,,To Do,Story,Medium,Medium,Deal Management,,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+185976,11/Feb/19 9:33 AM,,To Do,Task,Medium,Medium,Deal Management,19.2,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+186071,15/Feb/19 11:15 AM,,To Do,Task,Medium,Medium,Deal Management,19.2,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+186440,06/Mar/19 7:29 AM,,To Do,Task,Medium,Medium,Deal Management,19.2,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+187063,04/Apr/19 6:42 AM,,To Do,Task,Medium,Medium,Deal Management,19.2,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+193205,03/Feb/20 6:29 AM,As Designed,Done,Bug,Low,Medium,Platform,20.2,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,04/Feb/20 9:26 AM
+188163,28/May/19 9:06 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.2,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,04/Feb/20 9:24 AM
+193202,03/Feb/20 6:05 AM,Fixed,Done,Bug,Low,Medium,Platform,20.2,20.2,rongming.pan@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,04/Feb/20 9:21 AM
+193242,04/Feb/20 9:17 AM,,To Do,Story,Medium,Medium,Deal Management,,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+164578,06/Mar/17 10:16 PM,Fixed,Done,Bug,Medium,Medium,Price,17.1,,,rtcuser,,csi,,,,,04/Feb/20 8:50 AM
+183395,10/Oct/18 5:14 PM,,To Do,Bug,Medium,Medium,MATH,18.4,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,
+192581,18/Dec/19 12:52 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.4,19.4,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,04/Feb/20 8:32 AM
+182151,25/Jul/18 1:51 PM,,To Do,Bug,Medium,Medium,MATH,18.2,18.3,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,
+190809,01/Oct/19 4:07 PM,,To Do,Bug,Medium,Medium,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,Dejean.Brown@acoustic.co,,,,,,,
+185525,15/Jan/19 4:14 PM,,To Do,Bug,Medium,Medium,MarkDown,18.4,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,
+192423,10/Dec/19 11:37 AM,,Done,Story,Low,Medium,Price,18.3,20.2,kangana.g@hcl.com,xueling.mi@hcl.com,,,,,,,
+193210,03/Feb/20 8:55 AM,Not a bug,Done,Bug,Medium,Medium,Promotion,20.2,20.2,aaditi.j@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,04/Feb/20 8:28 AM
+190056,27/Aug/19 6:36 AM,,To Do,Bug,Medium,Medium,MarkDown,19.3,,rtcuser,rtcuser,,csi,,,,,
+187988,21/May/19 12:40 AM,,To Do,Bug,Medium,Medium,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,
+189903,22/Aug/19 2:32 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,04/Feb/20 8:19 AM
+193239,04/Feb/20 7:54 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 8:03 AM
+192332,06/Dec/19 4:16 AM,,To Do,Story,Medium,Medium,OpenLink,,20.2,partha_n@hcl.com,ning.cao@hcl.com,yamei.ji@hcl.com,,,,,,
+192989,20/Jan/20 5:57 AM,,To Do,Story,Medium,Medium,OpenLink,,20.2,ning.cao@hcl.com,ning.cao@hcl.com,yamei.ji@hcl.com,,,,,,
+188123,24/May/19 3:35 PM,,To Do,Bug,Medium,Medium,OpenLink,19.3,,,Sheila.Meyer@acoustic.co,,,,,,,
+190401,11/Sep/19 7:58 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.3,,jia.zhu@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,04/Feb/20 12:16 AM
+193238,04/Feb/20 6:31 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,badalh@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 7:07 AM
+188281,03/Jun/19 6:09 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.3,19.4,rtcuser,rtcuser,,,,,,,27/Aug/19 4:18 AM
+192110,27/Nov/19 3:53 AM,,To Do,Bug,Medium,Medium,OpenLink,20.1,20.2,chakravarthi_s@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,,,,,,
+192109,27/Nov/19 3:27 AM,,To Do,Bug,Medium,Medium,OpenLink,20.1,20.2,chakravarthi_s@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,,,,,,
+192465,11/Dec/19 6:44 AM,,To Do,Bug,Medium,Medium,OpenLink,20.1,20.2,ning.cao@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,,,,,,
+187431,23/Apr/19 9:04 AM,,To Do,Bug,Medium,Medium,Deal Management,19.2,,sreekanths@hcl.com,bvenu@hcl.com,ravirajukasturir@hcl.com,,,,,,
+192993,20/Jan/20 8:16 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,aaditi.j@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,04/Feb/20 5:49 AM
+192928,16/Jan/20 6:12 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,03/Feb/20 5:06 AM
+192924,16/Jan/20 5:47 AM,Won't Fix,Done,Bug,High,Medium,Promotion,20.2,,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,20/Jan/20 11:58 PM
+192985,20/Jan/20 4:01 AM,Not a bug,Done,Bug,Medium,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,xiaofang.shi@hcl.com,,,,,,04/Feb/20 5:05 AM
+192840,09/Jan/20 12:43 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,04/Feb/20 4:58 AM
+192856,10/Jan/20 3:53 AM,Fixed,Done,Bug,Medium,Medium,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,04/Feb/20 4:57 AM
+192941,16/Jan/20 7:26 AM,Not a bug,Done,Bug,Medium,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,04/Feb/20 2:01 AM
+187749,09/May/19 8:48 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.2,,ning.cao@hcl.com,janardan.bhardwaj@acoustic.co,yamei.ji@hcl.com,csi,,,,,04/Feb/20 4:45 AM
+192846,09/Jan/20 7:13 AM,Fixed,Done,Bug,Medium,Medium,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,04/Feb/20 4:19 AM
+192938,16/Jan/20 7:15 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,wenxiao.pan@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,23/Jan/20 5:23 AM
+171107,11/Jul/17 12:38 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,17.3,,ning.cao@hcl.com,rtcuser,,csi,,,,,04/Feb/20 4:29 AM
+181165,06/Jun/18 1:50 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,18.2,,ashvinkumar.r@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 4:28 AM
+191046,14/Oct/19 7:44 AM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,04/Feb/20 4:27 AM
+188968,08/Jul/19 12:09 PM,,To Do,Bug,Medium,Medium,Deal Management,19.3,19.4,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+184220,30/Nov/18 7:30 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,18.4,,ashvinkumar.r@hcl.com,Chris.Lim@acoustic.co,ravirajukasturir@hcl.com,,,,,,04/Feb/20 4:25 AM
+181703,29/Jun/18 5:57 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,18.2,,ashvinkumar.r@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 4:22 AM
+182760,27/Aug/18 2:27 PM,,To Do,Bug,Medium,Medium,Deal Management,18.3,Backlog,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+185862,31/Jan/19 7:41 PM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,18.4,19.4,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,04/Feb/20 4:16 AM
+192690,30/Dec/19 9:44 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,20.2,,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,serviceability,,,,,04/Feb/20 4:17 AM
+186890,27/Mar/19 6:31 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.1,,ashvinkumar.r@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 1:29 AM
+190692,25/Sep/19 8:04 AM,,To Do,Story,Medium,Medium,Deal Management,20.1,,ashvinkumar.r@hcl.com,kakulurus@hcl.com,kakulurus@hcl.com,,,,,,
+188950,05/Jul/19 5:17 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,19.2,,ashvinkumar.r@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 4:00 AM
+189115,16/Jul/19 6:04 AM,,To Do,Story,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+189594,06/Aug/19 2:31 PM,,To Do,Bug,Medium,Medium,Deal Management,19.4,,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+190020,26/Aug/19 5:23 PM,Duplicate,Done,Bug,Medium,Medium,Deal Management,19.3,,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,04/Feb/20 3:46 AM
+193016,21/Jan/20 4:30 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,21/Jan/20 11:39 AM
+193015,21/Jan/20 4:28 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,21/Jan/20 7:06 AM
+189844,20/Aug/19 3:24 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,19.4,,,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,04/Feb/20 3:23 AM
+193017,21/Jan/20 5:16 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,21/Jan/20 7:06 AM
+193059,23/Jan/20 11:09 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,,bvenu@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,04/Feb/20 1:16 AM
+189497,01/Aug/19 10:05 AM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,04/Feb/20 1:08 AM
+190802,01/Oct/19 7:33 AM,Won't Fix,Done,Bug,High,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,04/Feb/20 1:09 AM
+189667,10/Aug/19 3:05 AM,Won't Fix,Done,Bug,High,Medium,Deal Management,19.3,,bvenu@hcl.com,rtcuser,,,,,,,04/Feb/20 1:13 AM
+189676,12/Aug/19 6:05 AM,Fixed,Done,Bug,High,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,04/Feb/20 1:10 AM
+191388,30/Oct/19 5:48 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,rtcuser,poungodai.e@hcl.com,,,,,,04/Feb/20 1:12 AM
+190272,05/Sep/19 7:54 AM,Won't Fix,Done,Bug,High,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,04/Feb/20 1:14 AM
+192653,24/Dec/19 12:27 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,bvenu@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,04/Feb/20 1:16 AM
+190069,27/Aug/19 6:09 PM,Won't Fix,Done,Bug,High,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,04/Feb/20 1:34 AM
+190115,29/Aug/19 1:00 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,Kevin.Lee@acoustic.co,,,,,,,04/Feb/20 1:34 AM
+193176,31/Jan/20 2:11 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,03/Feb/20 4:04 PM
+193168,31/Jan/20 7:07 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ning.qi@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,03/Feb/20 3:36 AM
+192251,03/Dec/19 8:59 AM,,Done,Story,Medium,Medium,Price,,20.2,sudhanshuk@hcl.com,Alan.Assad@acoustic.co,kangana.g@hcl.com,price,price_approval,report,,,
+192988,20/Jan/20 5:50 AM,Not a bug,Done,Bug,High,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 1:44 AM
+187955,17/May/19 4:16 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.2,,rtcuser,rtcuser,,,,,,,04/Feb/20 1:35 AM
+193190,01/Feb/20 6:01 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,03/Feb/20 4:33 AM
+193189,01/Feb/20 5:19 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,03/Feb/20 4:29 AM
+188791,27/Jun/19 8:01 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.2,,mittala@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,04/Feb/20 1:28 AM
+174099,19/Sep/17 12:42 PM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,17.4,,,Manish.Patel@acoustic.co,ravirajukasturir@hcl.com,kroger,status,,,,04/Feb/20 1:26 AM
+176344,14/Nov/17 5:43 AM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,17.4,,rtcuser,Manish.Patel@acoustic.co,ravirajukasturir@hcl.com,esp,esp2,,,,04/Feb/20 1:22 AM
+193225,04/Feb/20 1:11 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 1:18 AM
+191345,28/Oct/19 6:20 AM,Won't Fix,Done,Bug,Low,Medium,OpenLink,20.1,,ning.cao@hcl.com,juanjuan.li@hcl.com,juanjuan.li@hcl.com,,,,,,25/Nov/19 12:48 AM
+189633,08/Aug/19 5:37 AM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,Ram.Gour@acoustic.co,,,,,,,04/Feb/20 1:05 AM
+193224,04/Feb/20 1:00 AM,,To Do,Story,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,xingyi.wei@hcl.com,jia.liu@hcl.com,,,,,,
+172347,09/Aug/17 4:37 PM,,To Do,Bug,Medium,Medium,Deal Management,17.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+190947,10/Oct/19 12:50 PM,,To Do,Bug,High,Medium,Deal Management,19.4,Backlog,,Samuel.Walters@acoustic.co,,,,,,,
+191045,14/Oct/19 7:43 AM,,To Do,Bug,High,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+187025,03/Apr/19 6:14 AM,,To Do,Bug,Medium,Medium,Deal Management,19.2,,ashvinkumar.r@hcl.com,xingyi.wei@hcl.com,,,,,,,
+191945,19/Nov/19 2:39 PM,,In Progress,Bug,High,Medium,Deal Management,19.4,,mittala@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+192215,02/Dec/19 4:05 AM,,To Do,Bug,Medium,Medium,Deal Management,19.3,,bvenu@hcl.com,suneeta.chandrasekar@acoustic.co,,,,,,,
+189035,11/Jul/19 1:22 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.2,19.4,jingbo.yang@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,04/Feb/20 12:53 AM
+191977,20/Nov/19 7:57 PM,Fixed Indirectly,Done,Bug,High,Medium,Price,16.2,,rtcuser,Debbi.Ingersoll@acoustic.co,,,,,,,04/Feb/20 12:52 AM
+174930,12/Oct/17 6:46 AM,,To Do,Story,Medium,Medium,Price,17.3,20.2,rtcuser,rtcuser,,csi,,,,,
+193223,04/Feb/20 12:48 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 12:51 AM
+193153,29/Jan/20 4:40 PM,,To Do,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,deepak.malik@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+192955,17/Jan/20 1:20 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,jiu.jiang@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Feb/20 12:32 AM
+192838,08/Jan/20 12:21 PM,,To Do,Bug,Medium,Medium,MATH,20.2,,,Michael.Sutherland@acoustic.co,,,,,,,
+193182,31/Jan/20 6:43 PM,,To Do,Bug,Medium,Medium,Deal Management,20.2,,poungodai.e@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,
+193219,03/Feb/20 2:48 PM,,In Progress,Bug,Medium,Medium,MATH,20.2,,Arkady.Gurevich@acoustic.co,Mario.Cuchet@acoustic.co,,,,,,,
+189673,12/Aug/19 5:06 AM,,To Do,Bug,Medium,Medium,Promotion,19.3,,jiu.jiang@hcl.com,wenxiao.pan@hcl.com,xiaofang.shi@hcl.com,,,,,,
+189722,13/Aug/19 7:57 AM,,To Do,Bug,Medium,Medium,Promotion,19.3,,ning.qi@hcl.com,mansi.gupta@hcl.com,xiaofang.shi@hcl.com,,,,,,
+189889,21/Aug/19 5:45 PM,,To Do,Bug,Medium,Medium,OpenLink,19.3,,,Sheila.Meyer@acoustic.co,,,,,,,
+189901,22/Aug/19 2:11 AM,,To Do,Bug,Medium,Medium,Promotion,19.3,,,mansi.gupta@hcl.com,xiaofang.shi@hcl.com,,,,,,
+190066,27/Aug/19 9:43 AM,,To Do,Bug,Medium,Medium,MATH,19.3,,junlei.chen@hcl.com,Alan.Assad@acoustic.co,junlei.chen@hcl.com,,,,,,
+188398,11/Jun/19 3:58 AM,,To Do,Bug,Medium,Medium,OpenLink,19.3,,ning.cao@hcl.com,qiaoqiao.shen@hcl.com,,,,,,,
+188459,13/Jun/19 8:30 AM,,To Do,Bug,Medium,Medium,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Zeb.Malik@acoustic.co,,,,,,,
+188456,13/Jun/19 7:33 AM,,To Do,Bug,Medium,Medium,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Zeb.Malik@acoustic.co,,,,,,,
+188803,28/Jun/19 12:28 PM,,To Do,Bug,Medium,Medium,OpenLink,19.3,,,Sheila.Meyer@acoustic.co,,,,,,,
+188987,09/Jul/19 7:00 AM,,To Do,Bug,Low,Medium,MarkDown,19.3,20.1,deepikaas@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,
+192893,14/Jan/20 6:06 AM,Fixed,Done,Bug,Medium,Medium,Platform,20.2,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,20/Jan/20 12:31 AM
+172720,18/Aug/17 3:31 AM,,In Progress,Bug,High,Medium,MATH,17.3,,rtcuser,rtcuser,,csi,,,,,
+190417,12/Sep/19 3:47 PM,,To Do,Bug,Medium,Medium,Price,,,,Anthony.Bell@acoustic.co,xueling.mi@hcl.com,,,,,,
+185674,23/Jan/19 1:11 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.4,,junlei.chen@hcl.com,Phillip.Rashidi@acoustic.co,qiaoqiao.shen@hcl.com,,,,,,04/Feb/20 12:14 AM
+182715,24/Aug/18 12:24 AM,,To Do,Bug,Medium,Medium,Price,18.3,20.3,hefei.luan@hcl.com,xinjian.fang@hcl.com,xinjian.fang@hcl.com,,,,,,
+181848,09/Jul/18 11:50 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,xinjian.fang@hcl.com,,,,,,04/Feb/20 12:12 AM
+188581,18/Jun/19 4:39 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,,,,,,04/Feb/20 12:09 AM
+185790,28/Jan/19 4:31 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.4,20.2,ning.cao@hcl.com,jasveer.singh@acoustic.co,yamei.ji@hcl.com,csi,,,,,04/Feb/20 12:05 AM
+170486,19/Jun/17 8:05 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,16.2,,rtcuser,rtcuser,,csi,,,,,04/Feb/20 12:03 AM
+182166,26/Jul/18 12:44 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.4,,yunqi.li@hcl.com,rtcuser,,,,,,,04/Feb/20 12:03 AM
+189724,13/Aug/19 8:03 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,,,xueling.mi@hcl.com,Nitin.Devara@acoustic.co,,,,,,,04/Feb/20 12:00 AM
+190805,01/Oct/19 11:41 AM,,To Do,Bug,Medium,Medium,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,
+192578,17/Dec/19 5:56 PM,,To Do,Bug,Medium,Medium,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,
+179160,09/Mar/18 6:10 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.1,,yunqi.li@hcl.com,suneeta.chandrasekar@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 11:59 PM
+193055,23/Jan/20 3:46 AM,,To Do,Bug,Medium,Medium,MarkDown,20.2,20.2,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,
+192740,02/Jan/20 3:48 AM,,To Do,Story,Medium,Medium,Price,,20.2,xianghua.bao@hcl.com,xueling.mi@hcl.com,,,,,,,
+193221,03/Feb/20 10:11 PM,,To Do,Story,Medium,Medium,Deal Management,,,bvenu@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+192444,10/Dec/19 11:14 PM,,Done,Story,Medium,Medium,Deal Management,,,poungodai.e@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+189331,25/Jul/19 4:17 PM,,To Do,Bug,Medium,Medium,Deal Management,19.4,19.4,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+189420,29/Jul/19 3:52 PM,,To Do,Bug,Medium,Medium,Deal Management,19.4,,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+189257,23/Jul/19 4:23 PM,,To Do,Bug,Medium,Medium,Deal Management,19.4,19.4,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+173840,12/Sep/17 12:50 AM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,17.4,,bvenu@hcl.com,Manish.Patel@acoustic.co,ravirajukasturir@hcl.com,esp,,,,,03/Feb/20 7:29 PM
+185808,29/Jan/19 12:28 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,19.3,,,rtcuser,ravirajukasturir@hcl.com,csi,,,,,03/Feb/20 7:23 PM
+185597,21/Jan/19 5:15 AM,,To Do,Bug,Medium,Medium,Deal Management,19.2,Backlog,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+190772,27/Sep/19 9:37 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,poungodai.e@hcl.com,Manish.Patel@acoustic.co,,186870,extract,kroger,,,
+190611,23/Sep/19 10:48 AM,,To Do,Story,Medium,Medium,Deal Management,20.1,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+187168,10/Apr/19 2:59 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.2,19.4,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,03/Feb/20 5:40 PM
+178193,25/Jan/18 12:26 AM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,17.4,,bvenu@hcl.com,Dirceu.Diasrosa@acoustic.co,,,,,,,03/Feb/20 4:33 PM
+185863,31/Jan/19 7:46 PM,Won't Fix,Done,Bug,Medium,Medium,Deal Management,18.4,19.4,Jay.Li@acoustic.co,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,03/Feb/20 4:31 PM
+182910,05/Sep/18 5:40 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,18.4,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 4:14 PM
+188341,05/Jun/19 1:48 PM,Fixed,Done,Bug,Medium,Medium,MATH,19.2,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 4:12 PM
+177264,07/Dec/17 6:44 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,17.3,,Arkady.Gurevich@acoustic.co,suneeta.chandrasekar@acoustic.co,,,,,,,03/Feb/20 3:43 PM
+170442,19/Jun/17 5:00 PM,Not a bug,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 3:13 PM
+192987,20/Jan/20 4:49 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,03/Feb/20 3:07 PM
+189444,30/Jul/19 1:02 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.2,,Jay.Li@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 2:50 PM
+189164,18/Jul/19 6:28 AM,As Designed,Done,Bug,Medium,Medium,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,03/Feb/20 2:48 PM
+186614,14/Mar/19 4:39 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.2,19.4,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,03/Feb/20 2:46 PM
+187621,06/May/19 2:08 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 2:44 PM
+188869,03/Jul/19 6:33 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.3,19.4,rtcuser,rtcuser,,,,,,,03/Feb/20 2:43 PM
+185892,04/Feb/19 1:06 PM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.4,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 2:38 PM
+182109,24/Jul/18 5:16 PM,,To Do,Story,Medium,Medium,MarkDown,18.2,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,,,,,,
+182801,29/Aug/18 4:57 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 2:34 PM
+178819,23/Feb/18 4:59 PM,Fixed,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 2:34 PM
+177806,09/Jan/18 12:50 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,17.4,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 2:31 PM
+178378,05/Feb/18 11:11 AM,,To Do,Story,Medium,Medium,MarkDown,18.1,,rtcuser,rtcuser,,csi,,,,,
+176312,13/Nov/17 11:55 AM,Not a bug,Done,Bug,Medium,Medium,MarkDown,17.4,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 2:28 PM
+188837,02/Jul/19 3:21 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,,20.2,rtcuser,rtcuser,smita_p@hcl.com,,,,,,03/Feb/20 2:25 PM
+186397,05/Mar/19 6:57 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.1,,ganeshmanjunath.b@hcl.com,rtcuser,,csi,,,,,03/Feb/20 2:24 PM
+180964,25/May/18 6:12 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,11/Jun/18 5:57 AM
+180699,16/May/18 7:36 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,11/Jun/18 5:54 AM
+145267,03/Apr/16 7:45 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,16.1,,rtcuser,Maloney.Whitfield@acoustic.co,,csi,,,,,12/Sep/16 9:42 AM
+140001,25/Jan/16 7:14 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,15.4,,rtcuser,rtcuser,,csi,,,,,15/Sep/16 2:27 PM
+145019,30/Mar/16 4:33 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,16.1,,rtcuser,Maloney.Whitfield@acoustic.co,,csi,,,,,12/Sep/16 9:42 AM
+166045,31/Mar/17 1:29 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,,,junlei.chen@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,05/Apr/17 5:34 AM
+156476,21/Sep/16 2:31 PM,As Designed,Done,Bug,Medium,Medium,MarkDown,16.3,,,Arkady.Gurevich@acoustic.co,,,,,,,14/Dec/16 8:53 AM
+160334,02/Dec/16 3:16 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,16.4,,rtcuser,Maloney.Whitfield@acoustic.co,,csi,,,,,02/Dec/16 9:33 AM
+167531,26/Apr/17 9:23 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,17.1,,rtcuser,rtcuser,,csi,,,,,26/Apr/17 9:37 AM
+162306,23/Jan/17 9:05 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,16.4,,rtcuser,rtcuser,,csi,,,,,24/Jan/17 5:45 AM
+169867,06/Jun/17 10:24 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,17.2,,rtcuser,rtcuser,,csi,,,,,07/Jun/17 2:19 AM
+165230,17/Mar/17 3:10 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,17.1,,rtcuser,Manish.Patel@acoustic.co,,autoapproval,autoreopt,csi,,,24/Mar/17 3:33 AM
+163149,07/Feb/17 4:30 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,17.2,,,Manish.Patel@acoustic.co,rtcuser,chain,division,plan,,,07/Feb/17 6:30 PM
+159763,21/Nov/16 5:04 PM,Won't Fix,Done,Bug,Medium,Medium,MarkDown,16.4,,rtcuser,Maloney.Whitfield@acoustic.co,,,,,,,04/Jul/17 3:01 PM
+172723,18/Aug/17 4:00 AM,Duplicate,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,18/Aug/17 1:52 PM
+170484,19/Jun/17 7:26 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,30/Jun/17 9:44 AM
+159408,16/Nov/16 4:27 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,16.4,17.1,Egor.Zakharov@acoustic.co,Maloney.Whitfield@acoustic.co,ganeshmanjunath.b@hcl.com,csi,,,,,17/Nov/16 12:09 PM
+173197,29/Aug/17 12:15 AM,Fixed,Done,Bug,Medium,Medium,MATH,,,Arkady.Gurevich@acoustic.co,rtcuser,,csi,,,,,19/Sep/17 10:44 AM
+178644,16/Feb/18 11:10 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.1,18.2,rtcuser,rtcuser,ganeshmanjunath.b@hcl.com,csi,,,,,23/Feb/18 12:36 AM
+180694,16/May/18 6:16 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,11/Jun/18 5:58 AM
+181266,11/Jun/18 4:35 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,11/Jun/18 6:21 AM
+181321,13/Jun/18 10:08 PM,Fixed,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,18/Jun/18 11:40 AM
+180833,22/May/18 2:11 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,13/Jun/18 6:28 AM
+179784,05/Apr/18 5:24 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,rtcuser,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,12/Jun/18 5:27 AM
+187171,10/Apr/19 3:38 PM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.2,19.2.1,ganeshmanjunath.b@hcl.com,rtcuser,smita_p@hcl.com,,,,,,26/Apr/19 9:29 AM
+182020,18/Jul/18 4:43 PM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.4,18.4,mridul.d@hcl.com,steven.tong@hcl.com,rtcuser,,,,,,30/Oct/18 3:23 PM
+183682,30/Oct/18 7:34 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.3,18.3,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,31/Oct/18 5:57 AM
+186547,11/Mar/19 7:18 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.2,19.1.5,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,,,,,,14/Mar/19 7:42 AM
+177979,16/Jan/18 2:04 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,18.1,,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,16/Nov/18 9:24 AM
+187006,02/Apr/19 8:09 PM,Fixed,Done,Bug,Medium,Medium,MATH,19.1,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,09/Jul/19 1:02 PM
+186126,20/Feb/19 9:49 PM,,To Do,Story,Medium,Medium,Deal Management,,20.1,avulay@hcl.com,Chris.Lim@acoustic.co,palanisamy.s@hcl.com,csi,,,,,
+185769,27/Jan/19 6:24 AM,Fixed,Done,Bug,Low,Medium,MATH,18.4,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 9:51 AM
+189092,15/Jul/19 11:19 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.2,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 9:49 AM
+188403,11/Jun/19 5:38 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.3,,ganeshmanjunath.b@hcl.com,yamei.ji@hcl.com,ganeshmanjunath.b@hcl.com,struts_replacement,,,,,03/Feb/20 8:59 AM
+193209,03/Feb/20 8:38 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,20.2,kumarr.a@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,03/Feb/20 8:54 AM
+174470,28/Sep/17 5:33 PM,Fixed,Done,Bug,Medium,Medium,MarkDown,17.3,,,suneeta.chandrasekar@acoustic.co,,,,,,,03/Feb/20 8:40 AM
+190769,27/Sep/19 3:00 PM,,To Do,Bug,Medium,Medium,MATH,,,Arkady.Gurevich@acoustic.co,Arkady.Gurevich@acoustic.co,,,,,,,
+188931,04/Jul/19 11:03 PM,Fixed,Done,Bug,Low,Medium,MarkDown,19.3,20.1,rtcuser,yan.lu@hcl.com,rtcuser,webscan_19.3,webscan_19.4,webscan_20.1,,,03/Feb/20 8:36 AM
+191436,31/Oct/19 11:16 PM,Won't Fix,Done,Bug,Medium,Medium,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,03/Feb/20 8:37 AM
+191691,12/Nov/19 12:08 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,03/Feb/20 8:35 AM
+189134,17/Jul/19 2:47 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.3,19.3.1,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,,,,,,03/Feb/20 8:34 AM
+189153,17/Jul/19 5:57 PM,Not a bug,Done,Bug,Medium,Medium,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,03/Feb/20 8:34 AM
+190744,26/Sep/19 5:31 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,,,mridul.d@hcl.com,Sheila.Meyer@acoustic.co,,,,,,,03/Feb/20 8:32 AM
+188717,25/Jun/19 9:10 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,19.4,19.4,rtcuser,smita_p@hcl.com,,,,,,,19/Jul/19 5:34 AM
+189246,23/Jul/19 6:14 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,,19.4,smita_p@hcl.com,smita_p@hcl.com,,,,,,,23/Jul/19 6:14 AM
+190677,25/Sep/19 5:18 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,20.1,,rtcuser,rtcuser,,,,,,,25/Sep/19 5:18 AM
+191507,05/Nov/19 4:59 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,,20.1,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,07/Nov/19 3:53 AM
+191889,18/Nov/19 3:39 AM,Fixed,Done,Bug,High,Medium,MarkDown,19.4,19.4.9,rtcuser,gyanaranjan.sahani@acoustic.co,,csi,,,,,25/Nov/19 4:02 AM
+192992,20/Jan/20 7:56 AM,,To Do,Bug,Medium,Medium,MarkDown,20.2,20.2,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,
+190382,10/Sep/19 9:51 PM,,To Do,Bug,Medium,Medium,MATH,19.3,,Arkady.Gurevich@acoustic.co,Dejean.Brown@acoustic.co,,,,,,,
+190090,28/Aug/19 12:43 PM,,To Do,Bug,Medium,Medium,MATH,19.3,,Arkady.Gurevich@acoustic.co,Maloney.Whitfield@acoustic.co,,,,,,,
+189360,26/Jul/19 12:23 PM,,To Do,Bug,Medium,Medium,MarkDown,19.2,,ganeshmanjunath.b@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,
+163222,07/Feb/17 6:37 PM,Won't Fix,Done,Bug,Medium,Medium,MarkDown,16.4,,,Manish.Patel@acoustic.co,rtcuser,datamaintenance,markdown,reports,,,03/Feb/20 7:20 AM
+189909,22/Aug/19 4:40 AM,,To Do,Bug,Medium,Medium,MarkDown,20.1,20.2,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,
+189229,22/Jul/19 6:33 PM,Not a bug,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,mario.martinez@acoustic.co,,,,,,,03/Feb/20 7:17 AM
+189512,02/Aug/19 2:56 AM,,To Do,Story,Medium,Medium,MarkDown,19.4,20.1,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,
+165589,24/Mar/17 2:05 AM,Won't Fix,Done,Bug,Medium,Medium,MarkDown,16.1,,rtcuser,Maloney.Whitfield@acoustic.co,,,,,,,03/Feb/20 7:14 AM
+187665,07/May/19 7:32 AM,Not a bug,Done,Bug,Medium,Medium,MarkDown,19.3,19.4,mridul.d@hcl.com,smita_p@hcl.com,,,,,,,03/Feb/20 7:11 AM
+184284,05/Dec/18 3:54 AM,Not a bug,Done,Bug,Medium,Medium,MarkDown,19.1,19.2.1,smita_p@hcl.com,smita_p@hcl.com,smita_p@hcl.com,,,,,,03/Feb/20 7:10 AM
+169678,01/Jun/17 2:56 PM,Cannot Reproduce,Done,Bug,Medium,Medium,MarkDown,17.2,,rtcuser,rtcuser,,,,,,,03/Feb/20 7:08 AM
+174574,03/Oct/17 11:41 AM,Won't Fix,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 7:07 AM
+158065,21/Oct/16 7:05 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,17.1,16.4,rtcuser,rtcuser,ganeshmanjunath.b@hcl.com,,,,,,03/Feb/20 7:05 AM
+190973,11/Oct/19 2:15 PM,Not a bug,Done,Bug,Medium,Medium,MarkDown,,,rtcuser,ganeshmanjunath.b@hcl.com,,,,,,,03/Feb/20 7:01 AM
+185980,11/Feb/19 4:26 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,18.4,,kumar.pawan@hcl.com,Sheila.Meyer@acoustic.co,yamei.ji@hcl.com,,,,,,03/Feb/20 6:14 AM
+175554,24/Oct/17 9:19 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,xueling.mi@hcl.com,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+177303,09/Dec/17 3:22 AM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+176111,08/Nov/17 12:04 AM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,xueling.mi@hcl.com,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+177688,30/Dec/17 12:36 AM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+178342,01/Feb/18 10:10 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+185072,17/Dec/18 5:22 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+185815,29/Jan/19 7:39 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+185829,30/Jan/19 11:11 AM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+184322,06/Dec/18 5:39 AM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,suneeta.chandrasekar@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+184559,06/Dec/18 5:23 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,suneeta.chandrasekar@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+189038,11/Jul/19 4:49 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+180550,08/May/18 6:53 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+181530,21/Jun/18 11:26 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+179833,06/Apr/18 4:23 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+182037,19/Jul/18 3:00 PM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+193127,28/Jan/20 8:57 AM,Fixed,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 5:58 AM
+191982,21/Nov/19 1:20 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,16.2,,rtcuser,xinjian.fang@hcl.com,,,,,,,03/Feb/20 5:57 AM
+193058,23/Jan/20 9:51 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.4,,xiang.zhou@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,,,,,,03/Feb/20 5:57 AM
+193196,02/Feb/20 9:29 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,03/Feb/20 5:26 AM
+192956,17/Jan/20 3:54 AM,,Done,Story,Medium,Medium,Price,,20.2,kangana.g@hcl.com,xueling.mi@hcl.com,,,,,,,
+158021,20/Oct/16 4:02 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,16.4,,rtcuser,rtcuser,,csi,,,,,03/Feb/20 4:51 AM
+141426,16/Feb/16 2:34 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,15.4,,rtcuser,rtcuser,,,,,,,03/Feb/20 4:42 AM
+192825,08/Jan/20 6:39 AM,,To Do,Bug,Medium,Medium,Price,20.2,20.2,xueling.mi@hcl.com,yan.lu@hcl.com,yan.lu@hcl.com,,,,,,
+193198,03/Feb/20 12:44 AM,,To Do,Story,Medium,Medium,Promotion,,20.2,ning.qi@hcl.com,ning.qi@hcl.com,xiaofang.shi@hcl.com,,,,,,
+192399,10/Dec/19 5:56 AM,Fixed,Done,Bug,Low,Medium,Platform,20.1,20.2,abhinav.rastogi@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,01/Feb/20 11:27 PM
+193188,01/Feb/20 3:15 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,jiu.jiang@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,01/Feb/20 4:05 AM
+192905,14/Jan/20 7:39 PM,Not a bug,To Do,Bug,High,Medium,Promotion,19.4,,,inayat.husain@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,01/Feb/20 4:01 AM
+193187,01/Feb/20 1:22 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,jiu.jiang@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,01/Feb/20 3:00 AM
+192473,11/Dec/19 3:19 PM,Not a bug,To Do,Bug,Medium,Medium,PE,19.4,,,janardan.bhardwaj@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,01/Feb/20 1:20 AM
+193186,01/Feb/20 12:36 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,jiu.jiang@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,01/Feb/20 1:16 AM
+189063,12/Jul/19 3:43 PM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,19.4,19.4,rtcuser,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,31/Jan/20 8:17 PM
+189494,01/Aug/19 9:52 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rtcuser,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,31/Jan/20 8:10 PM
+193184,31/Jan/20 7:59 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,31/Jan/20 8:06 PM
+189425,29/Jul/19 6:29 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.3,,rtcuser,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,31/Jan/20 6:14 PM
+188790,27/Jun/19 6:22 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,19.4,rtcuser,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,31/Jan/20 6:12 PM
+193181,31/Jan/20 5:15 PM,,To Do,Story,Medium,Medium,Deal Management,19.4,,,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193180,31/Jan/20 3:40 PM,,To Do,Story,Medium,Medium,Price,,,xueling.mi@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+193000,20/Jan/20 12:20 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.4,,JinFan.Zhu@acoustic.co,inayat.husain@acoustic.co,qiaoqiao.shen@hcl.com,csi,,,,,31/Jan/20 2:25 PM
+193049,22/Jan/20 2:54 PM,,In Progress,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+155319,31/Aug/16 3:11 PM,,To Do,Story,Medium,Medium,OpenLink,16.1,Backlog,xueling.mi@hcl.com,rtcuser,,csi,,,,,
+193167,31/Jan/20 6:56 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,31/Jan/20 7:07 AM
+192327,05/Dec/19 10:03 PM,Not a bug,To Do,Bug,Medium,Medium,Promotion,19.4,,junfeng.guo@hcl.com,janardan.bhardwaj@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,31/Jan/20 2:49 AM
+186844,26/Mar/19 11:28 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.1,,rtcuser,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:30 PM
+178070,19/Jan/18 1:23 AM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,,,ashvinkumar.r@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:24 PM
+185786,28/Jan/19 3:30 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,18.4,,mittala@hcl.com,rtcuser,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:12 PM
+179839,06/Apr/18 8:32 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,18.1,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:07 PM
+178540,09/Feb/18 7:21 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management/ADM - Interfaces ,18.1,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:06 PM
+172605,15/Aug/17 2:54 PM,,To Do,Bug,Medium,Medium,Deal Management,17.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+173737,08/Sep/17 6:45 PM,As Designed,Done,Bug,Medium,Medium,Deal Management,17.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 10:02 PM
+186822,25/Mar/19 1:47 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.1,,,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 7:58 PM
+171879,31/Jul/17 5:46 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,17.3,,mittala@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 7:39 PM
+183375,09/Oct/18 2:04 PM,,To Do,Bug,Medium,Medium,Deal Management,18.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+183400,10/Oct/18 8:11 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,18.3,,mittala@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 7:35 PM
+183421,11/Oct/18 4:50 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,18.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 7:34 PM
+182516,14/Aug/18 5:01 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,18.3,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 7:33 PM
+182517,14/Aug/18 5:27 PM,,To Do,Bug,Medium,Medium,Deal Management,18.3,,,rtcuser,ravirajukasturir@hcl.com,csi,,,,,
+193164,30/Jan/20 3:49 PM,,To Do,Story,Medium,Medium,Price,,,xueling.mi@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+193155,29/Jan/20 10:50 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Jan/20 1:25 PM
+193128,28/Jan/20 9:28 AM,,To Do,Bug,Medium,Medium,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,gyanaranjan.sahani@acoustic.co,,csi,,,,,
+189692,12/Aug/19 12:44 PM,,Done,Story,High,Medium,Promotion,,20.2,jiu.jiang@hcl.com,Samuel.Walters@acoustic.co,,,,,,,
+191811,14/Nov/19 2:30 AM,,To Do,Bug,Medium,Medium,MATH,19.4,,JinFan.Zhu@acoustic.co,gyanaranjan.sahani@acoustic.co,,csi,,,,,
+187536,29/Apr/19 6:49 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.1,,poungodai.e@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,29/Jan/20 10:23 PM
+169621,01/Jun/17 2:06 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,17.2,18.3,poungodai.e@hcl.com,Manish.Patel@acoustic.co,,cocacola,csi,extract,knumber,,29/Jan/20 10:22 PM
+187140,09/Apr/19 6:25 PM,,To Do,Bug,Medium,Medium,Deal Management,19.1,,mittala@hcl.com,Chris.Lim@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+188973,08/Jul/19 3:59 PM,Fixed,Done,Bug,High,Medium,Deal Management,19.2,,rtcuser,Chris.Lim@acoustic.co,rtcuser,csi,,,,,09/Jul/19 7:19 AM
+192970,17/Jan/20 4:39 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,mohammad.khatib@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,23/Jan/20 2:53 PM
+191352,28/Oct/19 2:20 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,,poungodai.e@hcl.com,Preethi.Igoor@acoustic.co,,,,,,,28/Oct/19 6:07 PM
+192865,10/Jan/20 7:57 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,13/Jan/20 8:48 PM
+192505,12/Dec/19 5:21 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,mohammad.khatib@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,12/Dec/19 7:40 PM
+192589,18/Dec/19 6:40 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,23/Dec/19 2:21 AM
+192029,21/Nov/19 8:49 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,mohammad.khatib@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,03/Dec/19 5:34 PM
+191432,31/Oct/19 8:19 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,,poungodai.e@hcl.com,Chris.Lim@acoustic.co,poungodai.e@hcl.com,csi,,,,,25/Nov/19 9:58 PM
+191801,13/Nov/19 8:31 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,sreekanths@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,19/Nov/19 9:37 AM
+190361,09/Sep/19 2:52 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.3,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,10/Sep/19 11:26 PM
+190507,17/Sep/19 6:34 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.3,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,09/Oct/19 11:44 PM
+188489,13/Jun/19 7:25 PM,As Designed,Done,Bug,Medium,Medium,Deal Management,19.2,,mittala@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,05/Nov/19 6:43 AM
+186236,27/Feb/19 10:24 PM,Fixed,Done,Bug,Medium,Medium,Deal Management/ADM - Interfaces ,18.4,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,30/Sep/19 1:36 PM
+181580,25/Jun/18 1:18 PM,Fixed,Done,Bug,Medium,Medium,Deal Management/ADM - Interfaces ,18.2,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,28/Jun/18 1:00 PM
+193140,28/Jan/20 11:00 PM,,To Do,Bug,Medium,Medium,Price,19.4,,xianghua.bao@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+187234,14/Apr/19 7:04 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,poungodai.e@hcl.com,rtcuser,poungodai.e@hcl.com,,,,,,
+192076,25/Nov/19 5:11 PM,,To Do,Bug,Medium,Medium,Deal Management,19.4,,,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193142,29/Jan/20 3:40 AM,,To Do,Bug,Medium,Medium,Price,19.4,,Arkady.Gurevich@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+193152,29/Jan/20 1:58 PM,,To Do,Story,Medium,Medium,Deal Management,,,poungodai.e@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+193022,21/Jan/20 7:50 AM,,To Do,Bug,Medium,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,
+190554,19/Sep/19 3:35 PM,,In Progress,Bug,Medium,Medium,MATH,19.3,,Arkady.Gurevich@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+193135,28/Jan/20 7:36 PM,,To Do,Story,Medium,Medium,Price,,,xueling.mi@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+192939,16/Jan/20 7:15 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,21/Jan/20 8:04 AM
+192943,16/Jan/20 7:33 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,21/Jan/20 8:04 AM
+192945,16/Jan/20 7:51 AM,As Designed,Done,Bug,Medium,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,mansi.gupta@hcl.com,mansi.gupta@hcl.com,,,,,,20/Jan/20 2:22 AM
+189404,29/Jul/19 5:07 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,20.2,avulay@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,29/Jan/20 5:59 AM
+191370,29/Oct/19 11:35 AM,,To Do,Story,High,Medium,Platform,,20.2,jaiveers@hcl.com,Debbi.Ingersoll@acoustic.co,jia.liu@hcl.com,platform,replatform,,,,
+192252,03/Dec/19 10:03 AM,,To Do,Bug,Medium,Medium,Deal Management,20.1,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+190279,05/Sep/19 2:16 PM,,In Progress,Story,Medium,Medium,Platform,,20.2,rongming.pan@hcl.com,Nitin.Devara@acoustic.co,jia.liu@hcl.com,,,,,,
+193138,28/Jan/20 8:22 PM,,To Do,Story,Medium,Medium,Deal Management,,,ravirajukasturir@hcl.com,Chris.Lim@acoustic.co,,csi,,,,,
+192974,17/Jan/20 8:45 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,chun.wang@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,28/Jan/20 8:45 PM
+192587,18/Dec/19 1:11 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,mohammad.khatib@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,20/Dec/19 3:45 PM
+176893,28/Nov/17 6:38 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,17.4,,poungodai.e@hcl.com,Kevin.Lee@acoustic.co,poungodai.e@hcl.com,,,,,,01/May/19 3:42 PM
+188047,22/May/19 1:50 PM,Fixed Indirectly,Done,Bug,High,Medium,Deal Management,19.2,,rtcuser,rtcuser,,,,,,,16/Jul/19 6:41 PM
+191363,29/Oct/19 8:18 AM,Fixed,Done,Bug,High,Medium,Deal Management,19.4,,poungodai.e@hcl.com,Preethi.Igoor@acoustic.co,ashvinkumar.r@hcl.com,,,,,,18/Dec/19 6:19 PM
+192476,11/Dec/19 3:45 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,17/Jan/20 1:35 PM
+189764,16/Aug/19 2:09 PM,,In Progress,Bug,Medium,Medium,MATH,19.3,,ganeshmanjunath.b@hcl.com,gyanaranjan.sahani@acoustic.co,,csi,,,,,
+186209,26/Feb/19 9:10 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.4,,,janardan.bhardwaj@acoustic.co,,csi,,,,,28/Jan/20 6:53 PM
+178208,25/Jan/18 8:45 PM,,To Do,Bug,Medium,Medium,MarkDown,18.1,,ganeshmanjunath.b@hcl.com,rtcuser,rtcuser,csi,,,,,
+193037,22/Jan/20 4:45 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.4,,yunqi.li@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,28/Jan/20 6:28 PM
+193061,23/Jan/20 6:35 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,28/Jan/20 4:55 PM
+191880,15/Nov/19 1:03 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,,poungodai.e@hcl.com,Kevin.Lee@acoustic.co,,,,,,,27/Nov/19 6:45 PM
+191949,19/Nov/19 4:26 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,,bvenu@hcl.com,Aileen.Delaney@acoustic.co,,,,,,,20/Nov/19 9:20 PM
+168756,15/May/17 8:25 AM,Fixed,Done,Bug,Medium,Medium,Promotion,17.2,17.3,jiu.jiang@hcl.com,rtcuser,xiaofang.shi@hcl.com,csi,,,,,25/May/17 3:13 AM
+169167,22/May/17 12:58 PM,Fixed,Done,Bug,Medium,Medium,MATH,17.2,,rtcuser,rtcuser,rtcuser,,,,,,22/May/17 2:02 PM
+169166,22/May/17 12:54 PM,Fixed,Done,Bug,Medium,Medium,MATH,17.2,,rtcuser,rtcuser,rtcuser,,,,,,22/May/17 2:03 PM
+164261,28/Feb/17 4:42 AM,Duplicate,Done,Bug,Medium,Medium,Promotion,17.1,,ye.xu@hcl.com,rtcuser,xiaofang.shi@hcl.com,csi,,,,,22/May/17 4:45 AM
+190362,09/Sep/19 3:15 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,19.4,rolf.haugen@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,10/Sep/19 4:58 PM
+192054,22/Nov/19 9:24 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,19.4,avulay@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,10/Dec/19 9:09 AM
+189850,20/Aug/19 5:43 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rtcuser,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,22/Aug/19 9:33 AM
+189862,21/Aug/19 1:34 AM,,To Do,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+188614,19/Jun/19 4:48 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,19.3,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,21/Jun/19 7:47 AM
+188667,21/Jun/19 3:48 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,19.3,poungodai.e@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,01/Jul/19 6:21 PM
+188874,03/Jul/19 3:22 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,19.3.1,sreekanths@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,12/Jul/19 5:22 AM
+190324,06/Sep/19 7:00 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,19.4,sreekanths@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,09/Sep/19 4:18 AM
+191491,04/Nov/19 8:07 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1,rtcuser,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,07/Nov/19 5:07 PM
+189477,31/Jul/19 8:56 AM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.3,,rolf.haugen@hcl.com,Ram.Gour@acoustic.co,,,,,,,01/Aug/19 2:01 PM
+189059,12/Jul/19 12:00 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.3,,rolf.haugen@hcl.com,Kevin.Lee@acoustic.co,,,,,,,02/Aug/19 5:14 PM
+189093,15/Jul/19 11:28 AM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.3,,rolf.haugen@hcl.com,Kevin.Lee@acoustic.co,,,,,,,15/Jul/19 12:19 PM
+190238,04/Sep/19 6:01 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,04/Sep/19 6:41 AM
+190579,20/Sep/19 4:37 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.3,,rolf.haugen@hcl.com,Andrew.Isbell@acoustic.co,,,,,,,23/Sep/19 12:48 PM
+191865,15/Nov/19 6:36 AM,Fixed Indirectly,Done,Bug,High,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,rtcuser,,,,,,,15/Nov/19 12:40 PM
+191924,19/Nov/19 4:57 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,,poungodai.e@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,22/Jan/20 5:09 AM
+193093,24/Jan/20 5:31 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.2,20.2,poungodai.e@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,24/Jan/20 6:22 PM
+192829,08/Jan/20 7:34 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.4,,jia.zhu@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 5:21 AM
+188171,28/May/19 10:28 PM,,In Progress,Bug,High,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,yan.lu@hcl.com,ravirajukasturir@hcl.com,internal_pen_19.3,internal_pen_20.1,,,,
+193118,27/Jan/20 11:30 PM,,To Do,Bug,Medium,Medium,Platform,19.4,,srinivas.dorairaj@hcl.com,janardan.bhardwaj@acoustic.co,jia.liu@hcl.com,csi,,,,,
+189691,12/Aug/19 12:37 PM,,To Do,Story,High,Medium,Promotion,,Backlog,jiu.jiang@hcl.com,Samuel.Walters@acoustic.co,,,,,,,
+191371,29/Oct/19 1:59 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,mohammad.khatib@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,10/Jan/20 1:48 PM
+184905,12/Dec/18 10:45 PM,,Done,Epic,Medium,Medium,Deal Management,,20.1,bvenu@hcl.com,Maryla.Salt@acoustic.co,rtcuser,,,,,,
+192901,14/Jan/20 3:24 PM,,To Do,Story,Medium,Medium,Deal Management,,,ravirajukasturir@hcl.com,Chris.Lim@acoustic.co,poungodai.e@hcl.com,csi,,,,,
+187600,04/May/19 10:32 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,Kevin.Lee@acoustic.co,,csi,,,,,08/Jan/20 1:03 AM
+184907,13/Dec/18 2:45 AM,,To Do,Bug,Medium,Medium,MarkDown,19.1,19.4,rtcuser,rtcuser,,,,,,,
+193024,21/Jan/20 11:25 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,23/Jan/20 9:34 AM
+192999,20/Jan/20 11:42 AM,,To Do,Story,High,Medium,Promotion,,Backlog,jiu.jiang@hcl.com,Samuel.Walters@acoustic.co,,,,,,,
+193092,24/Jan/20 5:19 PM,,To Do,Story,Medium,Medium,Deal Management,,,bvenu@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+192174,28/Nov/19 9:24 AM,Complete,Done,Task,Medium,Medium,Deal Management,,,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,,24/Jan/20 4:38 PM
+192435,10/Dec/19 3:24 PM,Complete,Done,Task,Medium,Medium,Deal Management,,20.1,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,,24/Jan/20 4:33 PM
+189783,19/Aug/19 12:47 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,rtcuser,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+186929,28/Mar/19 3:44 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,bvenu@hcl.com,poungodai.e@hcl.com,ravirajukasturir@hcl.com,,,,,,
+189689,12/Aug/19 12:28 PM,,Done,Story,High,Medium,Promotion,,20.2,ye.xu@hcl.com,Samuel.Walters@acoustic.co,xiaofang.shi@hcl.com,,,,,,
+191624,07/Nov/19 7:54 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,20.1.1,mittala@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,17/Jan/20 11:09 AM
+192324,05/Dec/19 5:50 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1.1,ashvinkumar.r@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,14/Jan/20 9:13 AM
+193044,22/Jan/20 11:11 AM,Complete,Done,Task,Medium,Medium,MATH,,,Arkady.Gurevich@acoustic.co,Mario.Cuchet@acoustic.co,,,,,,,24/Jan/20 6:29 AM
+192850,09/Jan/20 6:55 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.2,20.1.1,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,14/Jan/20 5:19 AM
+192526,13/Dec/19 8:38 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1.1,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,14/Jan/20 10:26 AM
+192833,08/Jan/20 8:45 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.2,20.1.1,sreekanths@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,14/Jan/20 7:06 AM
+192618,20/Dec/19 4:51 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1,poungodai.e@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,20/Dec/19 6:21 PM
+192559,16/Dec/19 8:24 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1,poungodai.e@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,17/Dec/19 5:56 PM
+190949,10/Oct/19 3:36 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.3,,ashvinkumar.r@hcl.com,mohammad.khatib@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,10/Jan/20 1:03 PM
+192855,09/Jan/20 8:21 PM,,In Progress,Story,Medium,Medium,Deal Management,,20.1.1,ashvinkumar.r@hcl.com,bvenu@hcl.com,palanisamy.s@hcl.com,,,,,,
+193057,23/Jan/20 8:37 AM,,In Progress,Story,Medium,Medium,Deal Management,,20.2,sreekanths@hcl.com,mittala@hcl.com,ravirajukasturir@hcl.com,,,,,,
+186823,25/Mar/19 4:15 PM,,Done,Story,Medium,Medium,Deal Management,,20.1.1,mittala@hcl.com,Heidi.Beetz@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+191346,28/Oct/19 8:56 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1.1,ashvinkumar.r@hcl.com,kakulurus@hcl.com,kakulurus@hcl.com,,,,,,16/Jan/20 7:43 AM
+192866,10/Jan/20 9:44 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.2,20.1.1,poungodai.e@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,13/Jan/20 9:59 PM
+192781,06/Jan/20 7:15 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.2,20.1.1,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,08/Jan/20 3:11 PM
+192959,17/Jan/20 4:12 AM,,Done,Story,Medium,Medium,Price,,20.2,sudhanshuk@hcl.com,xueling.mi@hcl.com,,,,,,,
+187923,16/May/19 9:45 AM,,In Progress,Story,Medium,Medium,OpenLink,,20.2,ning.cao@hcl.com,Lina.Montoya@acoustic.co,juanjuan.li@hcl.com,,,,,,
+193003,20/Jan/20 3:09 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,20.1,mittala@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,21/Jan/20 3:12 PM
+192981,20/Jan/20 12:09 AM,Fixed,Done,Bug,Medium,Medium,Platform,19.4,20.2,rongming.pan@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,psirt_19.4,,,,,23/Jan/20 12:17 AM
+192486,12/Dec/19 2:55 AM,Fixed,Done,Bug,Medium,Medium,Price,19.4,20.1.1,xianghua.bao@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,20.1_patch,csi,,,,23/Dec/19 5:30 AM
+192929,16/Jan/20 6:12 AM,,Done,Story,Medium,Medium,Platform,,20.1.4,rongming.pan@hcl.com,xingyi.wei@hcl.com,jia.liu@hcl.com,,,,,,
+193040,22/Jan/20 6:14 AM,,To Do,Story,Medium,Medium,Price,19.4,,xiang.zhou@hcl.com,Pedro.Cuadramora@acoustic.co,xueling.mi@hcl.com,,,,,,
+193053,22/Jan/20 9:22 PM,,To Do,Story,Medium,Medium,Price,,,xueling.mi@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+185704,24/Jan/19 2:32 AM,,Done,Story,Medium,Medium,Deal Management,,19.3,bvenu@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+192474,11/Dec/19 3:21 PM,,To Do,Story,Medium,Medium,Deal Management,,,bvenu@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+192670,26/Dec/19 2:58 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,20.2,20.1.1,ganeshmanjunath.b@hcl.com,saleem.s@hcl.com,saleem.s@hcl.com,mkd,,,,,10/Jan/20 3:54 AM
+192876,13/Jan/20 9:07 AM,Fixed,Done,Bug,Medium,Medium,MarkDown,20.1,20.1.1,ganeshmanjunath.b@hcl.com,ganeshmanjunath.b@hcl.com,smita_p@hcl.com,,,,,,20/Jan/20 11:06 PM
+192654,24/Dec/19 5:06 AM,,Done,Story,Medium,Medium,MarkDown,,20.1.1,rtcuser,smita_p@hcl.com,smita_p@hcl.com,,,,,,
+192949,16/Jan/20 5:52 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,21/Jan/20 10:47 PM
+192948,16/Jan/20 2:26 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,,,rolf.haugen@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,21/Jan/20 4:50 PM
+190487,17/Sep/19 5:23 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,danfeng.xu@hcl.com,danfeng.xu@hcl.com,,,,,,22/Jan/20 6:06 AM
+191630,08/Nov/19 5:29 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.2,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,22/Jan/20 6:06 AM
+191231,21/Oct/19 7:58 PM,,In Progress,Bug,Medium,Medium,Price,19.4,20.2,xiang.zhou@hcl.com,inayat.husain@acoustic.co,yan.lu@hcl.com,csi,,,,,
+192873,13/Jan/20 7:18 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,21/Jan/20 7:18 AM
+192977,19/Jan/20 4:36 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,21/Jan/20 1:07 AM
+193034,22/Jan/20 12:35 AM,,To Do,Task,Medium,Medium,MarkDown,,20.2,ganeshmanjunath.b@hcl.com,ashok.rathi@hcl.com,,,,,,,
+193006,20/Jan/20 7:41 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,21/Jan/20 2:09 PM
+193005,20/Jan/20 4:10 PM,As Designed,Done,Bug,Medium,Medium,Deal Management,19.4,,poungodai.e@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,20/Jan/20 8:48 PM
+192906,14/Jan/20 7:55 PM,Complete,Done,Task,Medium,Medium,Deal Management,,20.1.1,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,,14/Jan/20 7:57 PM
+191883,15/Nov/19 5:25 PM,,To Do,Story,Medium,Medium,Deal Management,,,bvenu@hcl.com,Chris.Lim@acoustic.co,,csi,,,,,
+191342,28/Oct/19 1:38 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,xianghua.bao@hcl.com,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:11 AM
+188652,20/Jun/19 11:16 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.2,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:10 AM
+190097,28/Aug/19 10:13 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.3,,rtcuser,rtcuser,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:09 AM
+171991,02/Aug/17 10:03 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.3,,rtcuser,rtcuser,,csi,,,,,21/Jan/20 7:07 AM
+172369,10/Aug/17 2:05 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.3,,rtcuser,rtcuser,,csi,,,,,21/Jan/20 7:07 AM
+188393,11/Jun/19 12:12 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.2,,jingbo.yang@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:02 AM
+188091,23/May/19 1:53 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.2,,Gajanan.Thakare@acoustic.co,gyanaranjan.sahani@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 7:01 AM
+179393,20/Mar/18 4:03 PM,,To Do,Story,Medium,Medium,Price,18.1,,yunqi.li@hcl.com,Phillip.Rashidi@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+181057,31/May/18 10:35 PM,,To Do,Bug,Medium,Medium,Platform,18.2,,rongming.pan@hcl.com,nataliya.veren@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+179553,26/Mar/18 11:05 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.1,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,21/Jan/20 6:58 AM
+180560,09/May/18 2:37 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.2,,jia.zhu@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,21/Jan/20 6:57 AM
+175995,03/Nov/17 6:00 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,,,rtcuser,rtcuser,,csi,,,,,21/Jan/20 6:56 AM
+159071,10/Nov/16 12:10 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.1,,jingbo.yang@hcl.com,rtcuser,yan.lu@hcl.com,csi,,,,,21/Jan/20 6:56 AM
+192843,09/Jan/20 3:37 AM,,To Do,Bug,Low,Medium,Price,20.1,20.2,xianghua.bao@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,
+190096,28/Aug/19 9:56 PM,,Done,Story,Medium,Medium,Price,,20.1,xianghua.bao@hcl.com,xianghua.bao@hcl.com,,,,,,,
+190189,02/Sep/19 4:05 AM,,Done,Story,Medium,Medium,Price,,20.1,aaditi.j@hcl.com,yan.lu@hcl.com,xinjian.fang@hcl.com,,,,,,
+191993,21/Nov/19 4:28 AM,,Done,Story,Medium,Medium,Price,,20.1,jia.zhu@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,
+192348,09/Dec/19 1:11 AM,,Done,Story,Medium,Medium,Price,,20.1,xianghua.bao@hcl.com,xianghua.bao@hcl.com,yan.lu@hcl.com,,,,,,
+191100,15/Oct/19 9:28 AM,,Done,Story,Medium,Medium,Price,,20.1,sudhanshuk@hcl.com,xueling.mi@hcl.com,,,,,,,
+191461,04/Nov/19 1:44 AM,Complete,Done,Task,Medium,Medium,Price,,20.1,xueling.mi@hcl.com,xueling.mi@hcl.com,,,,,,,21/Jan/20 6:45 AM
+189825,20/Aug/19 5:49 AM,,Done,Story,Medium,Medium,Price,,20.1,yunqi.li@hcl.com,xueling.mi@hcl.com,yan.lu@hcl.com,,,,,,
+189827,20/Aug/19 5:54 AM,,Done,Story,Medium,Medium,Price,,20.1,,xueling.mi@hcl.com,xinjian.fang@hcl.com,,,,,,
+190585,22/Sep/19 11:23 PM,,Done,Story,Medium,Medium,Price,,20.1,hefei.luan@hcl.com,hefei.luan@hcl.com,,,,,,,
+191075,15/Oct/19 4:44 AM,,Done,Story,Medium,Medium,Price,,20.1,xianghua.bao@hcl.com,xianghua.bao@hcl.com,,,,,,,
+191085,15/Oct/19 6:42 AM,,Done,Story,Medium,Medium,Price,,20.1,yan.lu@hcl.com,yan.lu@hcl.com,yan.lu@hcl.com,,,,,,
+191081,15/Oct/19 6:30 AM,,Done,Story,Medium,Medium,Price,,20.1,xinjian.fang@hcl.com,xinjian.fang@hcl.com,xinjian.fang@hcl.com,,,,,,
+191083,15/Oct/19 6:37 AM,,Done,Story,Medium,Medium,Price,,20.1,xinjian.fang@hcl.com,xinjian.fang@hcl.com,,,,,,,
+191095,15/Oct/19 9:07 AM,,Done,Story,Medium,Medium,Price,,20.1,jia.zhu@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,
+191092,15/Oct/19 7:57 AM,,Done,Story,Medium,Medium,Price,,20.1,jingbo.yang@hcl.com,jingbo.yang@hcl.com,,,,,,,
+191091,15/Oct/19 7:28 AM,,Done,Story,Medium,Medium,Price,,20.1,xiang.zhou@hcl.com,xueling.mi@hcl.com,,,,,,,
+191463,04/Nov/19 1:45 AM,,Done,Story,Medium,Medium,Price,,20.1,xueling.mi@hcl.com,xueling.mi@hcl.com,,,,,,,
+191465,04/Nov/19 1:47 AM,,Done,Story,Medium,Medium,Price,,20.1,xueling.mi@hcl.com,xueling.mi@hcl.com,,,,,,,
+192169,28/Nov/19 8:59 AM,,Done,Story,Medium,Medium,Price,,20.1,hefei.luan@hcl.com,xueling.mi@hcl.com,,,,,,,
+192171,28/Nov/19 9:16 AM,,Done,Story,Medium,Medium,Price,,20.1,kangana.g@hcl.com,xueling.mi@hcl.com,kangana.g@hcl.com,,,,,,
+192176,28/Nov/19 9:37 AM,,Done,Story,Medium,Medium,Price,,20.1,yunqi.li@hcl.com,xueling.mi@hcl.com,,,,,,,
+192975,19/Jan/20 4:07 AM,,Done,Story,Medium,Medium,Price,,20.1,jia.zhu@hcl.com,jia.zhu@hcl.com,jia.zhu@hcl.com,,,,,,
+190180,02/Sep/19 3:56 AM,Complete,Done,Task,Medium,Medium,Price,,20.1,yunqi.li@hcl.com,yan.lu@hcl.com,yan.lu@hcl.com,express,price,,,,21/Jan/20 6:34 AM
+190191,02/Sep/19 4:07 AM,Complete,Done,Task,Medium,Medium,Price,,20.1,xinjian.fang@hcl.com,yan.lu@hcl.com,xinjian.fang@hcl.com,,,,,,21/Jan/20 6:31 AM
+190586,22/Sep/19 11:25 PM,Complete,Done,Task,Medium,Medium,Price,,20.1,hefei.luan@hcl.com,hefei.luan@hcl.com,,,,,,,21/Jan/20 6:31 AM
+191334,25/Oct/19 6:57 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,20.1,hefei.luan@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 6:31 AM
+191759,13/Nov/19 12:02 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,20.1,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,21/Jan/20 6:30 AM
+188998,09/Jul/19 11:33 PM,,To Do,Bug,Medium,Medium,Price,16.2,20.2,rongming.pan@hcl.com,xueling.mi@hcl.com,jia.zhu@hcl.com,,,,,,
+192957,17/Jan/20 3:55 AM,,Done,Story,Medium,Medium,Price,,20.2,sudhanshuk@hcl.com,xueling.mi@hcl.com,kangana.g@hcl.com,,,,,,
+191824,14/Nov/19 7:32 AM,,To Do,Bug,Medium,Medium,Deal Management,20.1,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+191184,18/Oct/19 6:43 AM,,To Do,Bug,Medium,Medium,Deal Management,20.1,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+191336,25/Oct/19 7:16 AM,,To Do,Bug,Medium,Medium,Deal Management,20.1,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+192918,16/Jan/20 3:27 AM,,In Progress,Story,High,Medium,Promotion,,20.2,aaditi.j@hcl.com,kumarr.a@hcl.com,xiaofang.shi@hcl.com,contentmanager,promotionexecution,replatform,,,
+192077,25/Nov/19 5:15 PM,,In Progress,Bug,Medium,Medium,Price,,,xiang.zhou@hcl.com,steven.tong@hcl.com,,,,,,,
+192925,16/Jan/20 5:53 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,20/Jan/20 11:57 PM
+192934,16/Jan/20 6:42 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,20/Jan/20 11:56 PM
+192904,14/Jan/20 7:27 PM,Not a bug,To Do,Bug,Medium,Medium,PE,20.1,,ye.xu@hcl.com,janardan.bhardwaj@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,20/Jan/20 11:53 PM
+192612,19/Dec/19 1:31 PM,,To Do,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+191472,04/Nov/19 5:48 AM,,Done,Story,Medium,Medium,DB Engg,,20.1,kumar.pawan@hcl.com,ning.cao@hcl.com,juanjuan.li@hcl.com,,,,,,
+192439,10/Dec/19 5:25 PM,,To Do,Task,Medium,Medium,DB Engg,,20.2,ashok.rathi@hcl.com,ashok.rathi@hcl.com,,,,,,,
+190456,16/Sep/19 6:44 AM,,To Do,Story,Medium,Medium,DB Engg,,20.1,kumar.pawan@hcl.com,kumar.pawan@hcl.com,,,,,,,
+191175,18/Oct/19 4:44 AM,,Done,Story,Medium,Medium,DB Engg,,20.1,xingbiao.qian@hcl.com,xingbiao.qian@hcl.com,,,,,,,
+193014,20/Jan/20 8:15 PM,Complete,Done,Task,Medium,Medium,Deal Management,,20.1.1,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,,20/Jan/20 8:16 PM
+192445,10/Dec/19 11:36 PM,,Done,Story,Medium,Medium,Deal Management,,20.1.1,poungodai.e@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+192750,02/Jan/20 2:46 PM,,To Do,Bug,Medium,Medium,Price,19.4,,JinFan.Zhu@acoustic.co,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+192851,09/Jan/20 7:22 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.2,20.1.1,mittala@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,10/Jan/20 7:58 AM
+192997,20/Jan/20 10:03 AM,,To Do,Story,Medium,Medium,MarkDown,,20.2,ganeshmanjunath.b@hcl.com,saleem.s@hcl.com,saleem.s@hcl.com,,,,,,
+192996,20/Jan/20 10:01 AM,,To Do,Story,Medium,Medium,MarkDown,,20.2,ganeshmanjunath.b@hcl.com,saleem.s@hcl.com,saleem.s@hcl.com,,,,,,
+192995,20/Jan/20 9:58 AM,,To Do,Story,Medium,Medium,MarkDown,,20.2,ganeshmanjunath.b@hcl.com,saleem.s@hcl.com,saleem.s@hcl.com,,,,,,
+192910,15/Jan/20 7:50 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,20/Jan/20 5:07 AM
+192820,08/Jan/20 12:40 AM,Complete,Done,Task,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,xingyi.wei@hcl.com,,,,,,,20/Jan/20 12:33 AM
+192821,08/Jan/20 12:40 AM,Complete,Done,Task,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,xingyi.wei@hcl.com,,,,,,,20/Jan/20 12:32 AM
+192983,20/Jan/20 12:32 AM,,To Do,Story,Medium,Medium,Price,,,xueling.mi@hcl.com,Anthony.Bell@acoustic.co,,,,,,,
+192982,20/Jan/20 12:11 AM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,ashvinkumar.r@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,psirt_19.4,,,,,20/Jan/20 12:12 AM
+192978,19/Jan/20 5:09 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Jan/20 5:23 AM
+191920,19/Nov/19 4:30 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,20.1,20.1,xiang.zhou@hcl.com,xinjian.fang@hcl.com,,,,,,,16/Jan/20 4:08 AM
+192923,16/Jan/20 5:41 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,16/Jan/20 1:31 PM
+192878,13/Jan/20 9:31 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,ye.xu@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,13/Jan/20 11:40 PM
+192936,16/Jan/20 7:00 AM,Fixed,Done,Bug,High,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,17/Jan/20 4:08 AM
+192364,09/Dec/19 9:32 AM,,To Do,Story,Medium,Medium,Price,,20.2,hefei.luan@hcl.com,xueling.mi@hcl.com,jia.zhu@hcl.com,,,,,,
+191975,20/Nov/19 3:13 PM,,To Do,Bug,Medium,Medium,OpenLink,19.4,20.3,ning.cao@hcl.com,inayat.husain@acoustic.co,yamei.ji@hcl.com,csi,,,,,
+192972,17/Jan/20 6:46 PM,,To Do,Story,Medium,Medium,Promotion,,,jiu.jiang@hcl.com,Debbi.Ingersoll@acoustic.co,xiaofang.shi@hcl.com,,,,,,
+189688,12/Aug/19 12:16 PM,,To Do,Story,High,Medium,Promotion,,Backlog,yusheng.cai@hcl.com,Samuel.Walters@acoustic.co,,api,,,,25/Oct/19 12:00 AM,
+192646,23/Dec/19 1:23 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,19.4,19.4,mittala@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,17/Jan/20 5:48 PM
+192958,17/Jan/20 3:59 AM,Fixed,Done,Bug,Medium,Medium,Deal Management,,,,Manish.Patel@acoustic.co,,ccn,dealsheet,,,,17/Jan/20 5:32 PM
+192971,17/Jan/20 5:00 PM,,To Do,Story,Medium,Medium,Deal Management,,,ravirajukasturir@hcl.com,Chris.Lim@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+192915,16/Jan/20 3:17 AM,,In Progress,Story,High,Medium,Promotion,,20.2,badalh@hcl.com,kumarr.a@hcl.com,xiaofang.shi@hcl.com,contentmanager,promotionexecution,replatform,,,
+192964,17/Jan/20 6:57 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,badalh@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,17/Jan/20 7:02 AM
+192963,17/Jan/20 6:13 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,badalh@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,17/Jan/20 6:53 AM
+192962,17/Jan/20 5:54 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,badalh@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,17/Jan/20 6:04 AM
+192890,14/Jan/20 4:56 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,15/Jan/20 12:19 AM
+192942,16/Jan/20 7:26 AM,,To Do,Story,Medium,Medium,Deal Management,20.2,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+186917,28/Mar/19 2:50 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,sreekanths@hcl.com,poungodai.e@hcl.com,ravirajukasturir@hcl.com,,,,,,
+192524,13/Dec/19 7:35 AM,,Done,Story,Medium,Medium,Deal Management,,20.1,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+190552,19/Sep/19 8:43 AM,,Done,Story,Medium,Medium,Deal Management,,20.1,sreekanths@hcl.com,rtcuser,palanisamy.s@hcl.com,,,,,,
+192852,09/Jan/20 7:27 PM,,To Do,Bug,Medium,Medium,Price,19.4,,jia.zhu@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+192908,15/Jan/20 7:17 AM,,To Do,Bug,Medium,Medium,Platform,20.2,20.2,jaiveers@hcl.com,aaditi.j@hcl.com,kangana.g@hcl.com,,,,,,
+192795,07/Jan/20 2:10 AM,,To Do,Bug,Low,Medium,Deal Management,20.1,,ashvinkumar.r@hcl.com,yan.lu@hcl.com,ravirajukasturir@hcl.com,internal_pen_20.1,,,,,
+192944,16/Jan/20 7:41 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,,badalh@hcl.com,hang.gao@hcl.com,xiaofang.shi@hcl.com,,,,,,16/Jan/20 11:07 PM
+192921,16/Jan/20 5:33 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,badalh@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,16/Jan/20 11:06 PM
+192947,16/Jan/20 2:22 PM,,To Do,Story,Medium,Medium,Deal Management,,,bvenu@hcl.com,Chris.Lim@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+190789,30/Sep/19 4:26 AM,,To Do,Story,Medium,Medium,Deal Management,20.1,20.2,mittala@hcl.com,bvenu@hcl.com,,,,,,,
+192950,16/Jan/20 5:54 PM,,To Do,Bug,Medium,Medium,Deal Management,20.2,20.2,,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,
+192297,04/Dec/19 10:25 AM,Won't Fix,Done,Bug,Medium,Medium,MarkDown,19.4,19.4,ganeshmanjunath.b@hcl.com,vipin.sharma@acoustic.co,,csi,,,,,16/Jan/20 2:03 PM
+189767,16/Aug/19 5:40 PM,,To Do,Story,High,Medium,Promotion,,Backlog,jiu.jiang@hcl.com,Debbi.Ingersoll@acoustic.co,xiaofang.shi@hcl.com,acl,replatform,systemsettings,,,
+190938,10/Oct/19 4:46 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,20.1,,bvenu@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,16/Jan/20 11:08 AM
+190609,23/Sep/19 9:39 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,20.1,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,16/Jan/20 8:09 AM
+192937,16/Jan/20 7:13 AM,,To Do,Story,Medium,Medium,MarkDown,,20.2,ganeshmanjunath.b@hcl.com,saleem.s@hcl.com,saleem.s@hcl.com,,,,,,
+191181,18/Oct/19 6:14 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Deal Management,20.1,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,16/Jan/20 7:38 AM
+191183,18/Oct/19 6:21 AM,,To Do,Story,Medium,Medium,Deal Management,20.1,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+192927,16/Jan/20 6:11 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,wenxiao.pan@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,16/Jan/20 7:25 AM
+192931,16/Jan/20 6:20 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,jiu.jiang@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,16/Jan/20 7:24 AM
+192679,26/Dec/19 7:18 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1,sreekanths@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,16/Jan/20 7:19 AM
+192935,16/Jan/20 6:48 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,20.2,wenxiao.pan@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,16/Jan/20 6:51 AM
+191810,13/Nov/19 11:55 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.4,20.1,rongming.pan@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,psirt_19.4,,,,,14/Nov/19 2:44 AM
+191807,13/Nov/19 11:45 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.4,20.2,rongming.pan@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,psirt_19.4,,,,,20/Dec/19 4:20 AM
+192684,27/Dec/19 3:17 PM,As Designed,Done,Bug,Medium,Medium,Deal Management,19.4,,mittala@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,16/Jan/20 4:35 AM
+190852,04/Oct/19 8:56 AM,,To Do,Bug,Medium,Medium,Deal Management,20.1,20.2,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+190195,02/Sep/19 4:09 AM,Complete,Done,Task,Medium,Medium,Price,,20.1,xinjian.fang@hcl.com,yan.lu@hcl.com,xinjian.fang@hcl.com,,,,,,16/Jan/20 3:39 AM
+192623,20/Dec/19 9:17 AM,,To Do,Story,High,Medium,Promotion,,20.2,kumarr.a@hcl.com,kumarr.a@hcl.com,xiaofang.shi@hcl.com,contentmanager,promotionexecution,replatform,,23/Jan/20 12:00 AM,
+192622,20/Dec/19 9:12 AM,,To Do,Story,High,Medium,Promotion,,20.2,kumarr.a@hcl.com,kumarr.a@hcl.com,xiaofang.shi@hcl.com,contentmanager,promotionexecution,replatform,,23/Jan/20 12:00 AM,
+192917,16/Jan/20 3:25 AM,,To Do,Story,High,Medium,Promotion,,20.2,kumarr.a@hcl.com,kumarr.a@hcl.com,xiaofang.shi@hcl.com,contentmanager,promotionexecution,replatform,,,
+192916,16/Jan/20 3:21 AM,,To Do,Story,High,Medium,Promotion,,20.2,kumarr.a@hcl.com,kumarr.a@hcl.com,xiaofang.shi@hcl.com,contentmanager,promotionexecution,replatform,,,
+190170,30/Aug/19 3:45 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.3,,ning.cao@hcl.com,inayat.husain@acoustic.co,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:11 AM
+190811,01/Oct/19 7:23 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.3,,ning.cao@hcl.com,janardan.bhardwaj@acoustic.co,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:08 AM
+191310,24/Oct/19 4:58 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,14.3,,rtcuser,gyanaranjan.sahani@acoustic.co,yamei.ji@hcl.com,csi,,,,,16/Jan/20 1:07 AM
+189854,20/Aug/19 9:10 PM,,Done,Story,Medium,Medium,Price,,20.1,hefei.luan@hcl.com,Nitin.Devara@acoustic.co,jia.zhu@hcl.com,,,,,,
+190851,04/Oct/19 8:22 AM,Cannot Reproduce,Done,Bug,Medium,Medium,Deal Management,20.1,,mittala@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,15/Jan/20 5:43 PM
+192068,25/Nov/19 11:09 AM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,inayat.husain@acoustic.co,yamei.ji@hcl.com,csi,,,,,15/Jan/20 7:24 AM
+192308,04/Dec/19 9:14 PM,Fixed Indirectly,Done,Bug,Medium,Medium,OpenLink,19.4,,ning.cao@hcl.com,janardan.bhardwaj@acoustic.co,yamei.ji@hcl.com,csi,,,,,15/Jan/20 7:23 AM
+192841,09/Jan/20 12:55 AM,Fixed,Done,Bug,Medium,Medium,Platform,20.2,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,15/Jan/20 5:36 AM
+192892,14/Jan/20 5:58 AM,Fixed,Done,Bug,Medium,Medium,Platform,20.2,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,15/Jan/20 6:22 AM
+192861,10/Jan/20 6:28 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,15/Jan/20 4:24 AM
+192325,05/Dec/19 7:34 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,19.4,,xingyi.wei@hcl.com,janardan.bhardwaj@acoustic.co,jia.liu@hcl.com,csi,,,,,11/Dec/19 10:04 AM
+192790,07/Jan/20 12:02 AM,Fixed,Done,Bug,High,Medium,Platform,19.4,20.2,xingyi.wei@hcl.com,yan.lu@hcl.com,jia.liu@hcl.com,psirt_19.4,,,,,15/Jan/20 3:29 AM
+190886,07/Oct/19 1:20 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,19.4,,rongming.pan@hcl.com,inayat.husain@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,10/Oct/19 2:55 AM
+164021,22/Feb/17 9:04 PM,Duplicate,Done,Bug,Medium,Medium,Platform,17.1,,rtcuser,mario.martinez@acoustic.co,,csi,,,,,24/Feb/17 5:34 AM
+153610,02/Aug/16 7:56 PM,Not a bug,Done,Bug,Medium,Medium,Platform,16.3,,,mario.martinez@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,03/May/17 9:51 PM
+166700,12/Apr/17 3:55 PM,Fixed,Done,Bug,Medium,Medium,Platform,17.1,17.3,xingyi.wei@hcl.com,rtcuser,rtcuser,csi,,,,,12/May/17 4:35 AM
+163559,14/Feb/17 6:39 PM,Fixed,Done,Bug,Medium,Medium,Platform,17.1,17.2,rtcuser,mario.martinez@acoustic.co,,csi,,,,,04/May/17 2:09 AM
+153174,28/Jul/16 4:29 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,16.2,16.4,xingyi.wei@hcl.com,mario.martinez@acoustic.co,yi.zheng@hcl.com,csi,,,,,23/Mar/17 10:07 PM
+145780,09/Apr/16 2:56 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,16.1,,rtcuser,rtcuser,,csi,,,,,03/May/17 9:46 PM
+175843,31/Oct/17 4:47 PM,Fixed,Done,Bug,Low,Medium,Platform,17.4,19.2,xingyi.wei@hcl.com,brian.lee@acoustic.co,,dtsupport,,,,,18/Apr/19 4:56 AM
+188993,09/Jul/19 4:36 PM,As Designed,Done,Bug,Medium,Medium,Platform,19.2,19.4,xingyi.wei@hcl.com,janardan.bhardwaj@acoustic.co,jia.liu@hcl.com,csi,,,,,09/Jul/19 11:18 PM
+189422,29/Jul/19 4:28 PM,Won't Fix,Done,Bug,Medium,Medium,Platform,19.3,,rongming.pan@hcl.com,gyanaranjan.sahani@acoustic.co,jia.liu@hcl.com,csi,,,,,05/Aug/19 3:35 AM
+188615,19/Jun/19 5:43 PM,Fixed Indirectly,Done,Bug,Low,Medium,Platform,19.2,,srinivas.dorairaj@hcl.com,inayat.husain@acoustic.co,jia.liu@hcl.com,csi,,,,,19/Aug/19 3:18 AM
+187479,25/Apr/19 3:06 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.1,20.1,rongming.pan@hcl.com,deepak.malik@acoustic.co,jia.liu@hcl.com,csi,,,,,12/Sep/19 4:27 AM
+190285,05/Sep/19 6:25 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.3,20.2,rongming.pan@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,08/Jan/20 1:08 AM
+157683,17/Oct/16 12:59 AM,Not a bug,Done,Bug,Medium,Medium,Portal,16.4,,rtcuser,rtcuser,,csi,,,,,30/Apr/19 3:41 AM
+192686,27/Dec/19 7:18 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1,sreekanths@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,06/Jan/20 3:15 AM
+175718,27/Oct/17 6:00 PM,Won't Fix,Done,Bug,Medium,Medium,Platform,17.4,,xingyi.wei@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,15/Jan/20 1:10 AM
+189704,12/Aug/19 6:47 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,19.3,,ganeshmanjunath.b@hcl.com,nataliya.veren@acoustic.co,,csi,,,,,15/Jan/20 12:59 AM
+189599,06/Aug/19 5:19 PM,Won't Fix,Done,Bug,Medium,Medium,Platform,19.3,,rongming.pan@hcl.com,rtcuser,yan.lu@hcl.com,csi,price,,,,15/Jan/20 12:51 AM
+192891,14/Jan/20 5:15 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,15/Jan/20 12:19 AM
+182796,29/Aug/18 3:25 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.3,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:49 PM
+181365,14/Jun/18 10:52 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.2,,xueling.mi@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:49 PM
+182543,15/Aug/18 5:31 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.3,,xianghua.bao@hcl.com,nataliya.veren@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:47 PM
+183035,12/Sep/18 8:41 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.3,,jia.zhu@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:47 PM
+174383,27/Sep/17 6:59 AM,,To Do,Story,Medium,Medium,Price,17.3,Backlog,rtcuser,rtcuser,,csi,,,,,
+175997,03/Nov/17 6:01 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.4,,yunqi.li@hcl.com,rtcuser,,csi,,,,,14/Jan/20 11:45 PM
+186806,22/Mar/19 2:14 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.1,,rtcuser,inayat.husain@acoustic.co,,csi,,,,,14/Jan/20 11:45 PM
+178006,16/Jan/18 8:50 PM,,To Do,Story,Medium,Medium,Price,17.4,,rtcuser,rtcuser,,csi,,,,,
+188734,25/Jun/19 9:58 PM,,To Do,Story,Medium,Medium,Price,19.2,,xueling.mi@hcl.com,deepak.malik@acoustic.co,,csi,,,,,
+187135,09/Apr/19 2:02 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.1,,hefei.luan@hcl.com,janardan.bhardwaj@acoustic.co,yan.lu@hcl.com,csi,,,,,14/Jan/20 11:38 PM
+186496,08/Mar/19 6:42 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.1,Backlog,xianghua.bao@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:37 PM
+178800,23/Feb/18 6:47 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.1,,yunqi.li@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:35 PM
+174662,05/Oct/17 2:38 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,,,rtcuser,rtcuser,,csi,rbv,,,,14/Jan/20 11:33 PM
+174777,09/Oct/17 11:48 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.3,,rtcuser,rtcuser,,csi,,,,,14/Jan/20 11:33 PM
+167422,25/Apr/17 6:20 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.1,,rtcuser,rtcuser,,dtsupport,,,,,14/Jan/20 11:32 PM
+168100,04/May/17 8:17 AM,,To Do,Story,Medium,Medium,Price,,20.2,,xueling.mi@hcl.com,,,,,,,
+172722,18/Aug/17 3:44 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,,,rtcuser,rtcuser,,csi,,,,,14/Jan/20 11:30 PM
+173233,29/Aug/17 9:57 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,17.3,,rtcuser,rtcuser,,csi,,,,,14/Jan/20 11:30 PM
+184285,05/Dec/18 5:27 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.4,,xianghua.bao@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:29 PM
+179468,22/Mar/18 4:34 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.1,,yunqi.li@hcl.com,Phillip.Rashidi@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:28 PM
+186165,25/Feb/19 1:35 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.4,,ning.cao@hcl.com,gyanaranjan.sahani@acoustic.co,,csi,,,,,14/Jan/20 11:26 PM
+186207,26/Feb/19 6:23 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,18.4,,xianghua.bao@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 11:26 PM
+192351,09/Dec/19 5:29 AM,,To Do,Story,Medium,Medium,Deal Management,,,sreekanths@hcl.com,palanisamy.s@hcl.com,palanisamy.s@hcl.com,,,,,,
+186920,28/Mar/19 2:53 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,sreekanths@hcl.com,poungodai.e@hcl.com,ravirajukasturir@hcl.com,,,,,,
+186926,28/Mar/19 3:37 PM,,Done,Story,Medium,Medium,Deal Management,,20.1,sreekanths@hcl.com,poungodai.e@hcl.com,palanisamy.s@hcl.com,,,,,,
+192847,09/Jan/20 3:21 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,nayan.swaroop@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,10/Jan/20 2:45 AM
+192141,27/Nov/19 7:08 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,07/Jan/20 4:09 PM
+192138,27/Nov/19 3:57 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,chun.wang@hcl.com,janardan.bhardwaj@acoustic.co,,csi,,,,,14/Jan/20 4:13 AM
+192880,13/Jan/20 2:26 PM,Not a bug,Done,Bug,Medium,Medium,PE,,,,deepak.malik@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,13/Jan/20 3:21 PM
+190635,24/Sep/19 4:01 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,,,junfeng.guo@hcl.com,danfeng.xu@hcl.com,xiaofang.shi@hcl.com,,,,,,14/Jan/20 8:05 AM
+191165,17/Oct/19 12:56 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:10 AM
+192450,11/Dec/19 1:44 AM,Not a bug,Done,Bug,Medium,Medium,Promotion,20.1,20.2,ning.qi@hcl.com,danfeng.xu@hcl.com,danfeng.xu@hcl.com,,,,,,30/Dec/19 4:45 AM
+190234,04/Sep/19 5:19 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,11/Sep/19 12:42 PM
+190444,16/Sep/19 4:49 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,18/Sep/19 5:46 AM
+190956,11/Oct/19 2:59 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,12/Oct/19 3:06 AM
+190551,19/Sep/19 5:09 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.1,,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,28/Oct/19 12:37 AM
+190754,27/Sep/19 6:04 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,20/Nov/19 12:49 AM
+191044,14/Oct/19 6:18 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,14/Oct/19 11:34 PM
+191076,15/Oct/19 5:07 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,18/Oct/19 1:02 AM
+191412,31/Oct/19 5:02 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,20.1,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Dec/19 4:53 AM
+192528,13/Dec/19 1:46 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 5:20 AM
+192688,30/Dec/19 6:38 AM,Won't Fix,Done,Bug,Medium,Medium,OpenLink,20.1,,partha_n@hcl.com,juanjuan.li@hcl.com,,,,,,,14/Jan/20 5:07 AM
+191071,15/Oct/19 3:39 AM,,To Do,Bug,Medium,Medium,OpenLink,16.1,20.2,partha_n@hcl.com,yamei.ji@hcl.com,yamei.ji@hcl.com,,,,,,
+192754,02/Jan/20 11:08 PM,Fixed,Done,Bug,Medium,Medium,Platform,,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,14/Jan/20 5:01 AM
+182271,31/Jul/18 11:27 AM,,Done,Story,Low,Medium,Price,18.3,20.2,sudhanshuk@hcl.com,Phillip.Rashidi@acoustic.co,kangana.g@hcl.com,,,,,,
+187388,19/Apr/19 10:48 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.1,,chun.wang@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:34 AM
+187743,09/May/19 7:30 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,19.2,,anuragdu@hcl.com,Maloney.Whitfield@acoustic.co,,csi,,,,,14/Jan/20 4:33 AM
+188194,29/May/19 9:11 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.2,,anuragdu@hcl.com,rtcuser,,csi,,,,,14/Jan/20 4:33 AM
+188213,30/May/19 4:35 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.2,,junlei.chen@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:32 AM
+188529,17/Jun/19 4:35 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MarkDown,19.2,,anuragdu@hcl.com,rtcuser,,csi,,,,,14/Jan/20 4:31 AM
+189039,11/Jul/19 4:49 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.2,,chun.wang@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:30 AM
+189322,25/Jul/19 9:27 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.2,,anuragdu@hcl.com,rtcuser,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:30 AM
+190537,18/Sep/19 3:19 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.3,,chun.wang@hcl.com,vipin.sharma@acoustic.co,qiaoqiao.shen@hcl.com,csi,,,,,14/Jan/20 4:29 AM
+190610,23/Sep/19 10:23 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.3,,chun.wang@hcl.com,vipin.sharma@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:29 AM
+190617,23/Sep/19 4:28 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.3,,anuragdu@hcl.com,deepak.malik@acoustic.co,,csi,,,,,14/Jan/20 4:28 AM
+190745,26/Sep/19 8:03 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.3,,junlei.chen@hcl.com,deepak.malik@acoustic.co,,csi,,,,,14/Jan/20 4:28 AM
+190832,03/Oct/19 7:06 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.3,,chun.wang@hcl.com,gyanaranjan.sahani@acoustic.co,qiaoqiao.shen@hcl.com,csi,,,,,14/Jan/20 4:27 AM
+191162,17/Oct/19 11:14 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,anuragdu@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:26 AM
+191324,24/Oct/19 6:05 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.4,,chun.wang@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:26 AM
+191685,11/Nov/19 7:48 PM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.4,,chun.wang@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:25 AM
+192115,27/Nov/19 8:18 AM,Fixed Indirectly,Done,Bug,Medium,Medium,MATH,19.4,,anuragdu@hcl.com,inayat.husain@acoustic.co,,csi,,,,,14/Jan/20 4:23 AM
+191347,28/Oct/19 10:13 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:11 AM
+191546,05/Nov/19 7:05 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:11 AM
+191323,24/Oct/19 5:51 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,hefei.luan@hcl.com,janardan.bhardwaj@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:09 AM
+191485,04/Nov/19 4:59 PM,Fixed Indirectly,Done,Bug,Medium,Medium,Price,19.4,,yunqi.li@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,14/Jan/20 4:07 AM
+190930,09/Oct/19 11:17 PM,Fixed,Done,Bug,Medium,Medium,Platform,19.3,20.2,xingyi.wei@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,08/Jan/20 12:56 AM
+192872,13/Jan/20 6:23 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,kumarr.a@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,13/Jan/20 11:42 PM
+192871,13/Jan/20 6:04 AM,Not a bug,To Do,Bug,Medium,Medium,Promotion,20.2,,kumarr.a@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,13/Jan/20 11:41 PM
+188828,01/Jul/19 4:13 PM,,To Do,Bug,Medium,Medium,MarkDown,19.2,19.4,ganeshmanjunath.b@hcl.com,inayat.husain@acoustic.co,rtcuser,csi,,,,,
+191944,19/Nov/19 1:22 PM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,aditya.singhal@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,03/Dec/19 2:50 PM
+192870,13/Jan/20 4:56 AM,Duplicate,Done,Bug,Medium,Medium,Deal Management,20.2,,ashvinkumar.r@hcl.com,syedbashac@hcl.com,syedbashac@hcl.com,,,,,,13/Jan/20 5:45 PM
+191050,14/Oct/19 11:47 AM,,To Do,Bug,Medium,Medium,MarkDown,19.4,,ganeshmanjunath.b@hcl.com,inayat.husain@acoustic.co,,csi,,,,,
+191348,28/Oct/19 10:19 AM,,To Do,Bug,Medium,Medium,Price,19.4,,xueling.mi@hcl.com,inayat.husain@acoustic.co,jia.zhu@hcl.com,csi,,,,,
+192879,13/Jan/20 9:34 AM,Not a bug,To Do,Bug,High,Medium,Promotion,20.2,20.2,junfeng.guo@hcl.com,xiaofang.shi@hcl.com,xiaofang.shi@hcl.com,,,,,,13/Jan/20 9:38 AM
+191631,08/Nov/19 6:53 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,,ning.qi@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,08/Jan/20 7:23 AM
+192830,08/Jan/20 7:34 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,jiu.jiang@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,08/Jan/20 10:24 AM
+192844,09/Jan/20 4:20 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,09/Jan/20 1:44 PM
+192860,10/Jan/20 4:59 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.2,,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,10/Jan/20 6:15 AM
+192864,10/Jan/20 4:56 PM,Not a bug,To Do,Bug,Medium,Medium,Promotion,19.4,,,deepak.malik@acoustic.co,xiaofang.shi@hcl.com,csi,,,,,13/Jan/20 5:35 AM
+192758,03/Jan/20 5:52 AM,,In Progress,Story,Medium,Medium,Price,,20.2,yan.lu@hcl.com,xueling.mi@hcl.com,,,,,,,
+192858,10/Jan/20 4:12 AM,,To Do,Task,Medium,Medium,Platform,,20.2,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,,
+192537,15/Dec/19 11:48 PM,,To Do,Story,Medium,Medium,Platform,,20.2,abhinav.rastogi@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+186509,08/Mar/19 4:07 PM,,Done,Story,Medium,Medium,Price,,20.1,sudhanshuk@hcl.com,Rodrigo.Fernandez@acoustic.co,kangana.g@hcl.com,,,,,,
+192854,09/Jan/20 7:56 PM,,Done,Story,Medium,Medium,Deal Management,,,rolf.haugen@hcl.com,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,
+191278,23/Oct/19 11:45 AM,Not a bug,Done,Bug,Medium,Medium,Deal Management,19.4,,rolf.haugen@hcl.com,jasveer.singh@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,10/Jan/20 1:47 PM
+191779,13/Nov/19 4:56 PM,,Done,Story,Medium,Medium,Deal Management,,,rolf.haugen@hcl.com,Chris.Lim@acoustic.co,rolf.haugen@hcl.com,csi,,,,,
+190889,07/Oct/19 7:11 PM,,Done,Story,Medium,Medium,Deal Management,,,rolf.haugen@hcl.com,Maryla.Salt@acoustic.co,ravirajukasturir@hcl.com,,,,,,
+191679,11/Nov/19 5:40 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,19.4,,,rakesh.patel@acoustic.co,ravirajukasturir@hcl.com,csi,,,,,10/Jan/20 5:53 AM
+192710,31/Dec/19 7:34 PM,Fixed,Done,Bug,Medium,Medium,Deal Management,20.1,20.1,sreekanths@hcl.com,ravirajukasturir@hcl.com,ravirajukasturir@hcl.com,,,,,,09/Jan/20 7:33 AM
+192520,13/Dec/19 6:11 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1.1,jiu.jiang@hcl.com,danfeng.xu@hcl.com,danfeng.xu@hcl.com,,,,,,16/Dec/19 1:31 AM
+192597,19/Dec/19 3:28 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,10/Jan/20 4:18 AM
+192595,19/Dec/19 3:02 AM,Fixed Indirectly,Done,Bug,Medium,Medium,Platform,20.2,20.2,jaiveers@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,10/Jan/20 4:17 AM
+192357,09/Dec/19 5:52 AM,Complete,Done,Task,Medium,Medium,Platform,,20.2,abhinav.rastogi@hcl.com,rongming.pan@hcl.com,,,,,,,10/Jan/20 4:14 AM
+191066,15/Oct/19 2:50 AM,,Done,Story,Medium,Medium,Platform,,20.1,abhinav.rastogi@hcl.com,jia.liu@hcl.com,jia.liu@hcl.com,,,,,,
+192747,02/Jan/20 8:17 AM,,To Do,Bug,Medium,Medium,MarkDown,20.2,20.2,ganeshmanjunath.b@hcl.com,saleem.s@hcl.com,saleem.s@hcl.com,,,,,,
+190218,03/Sep/19 7:03 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,11/Sep/19 1:51 PM
+190112,29/Aug/19 6:45 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:34 AM
+190161,30/Aug/19 8:09 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:32 AM
+190151,30/Aug/19 5:12 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:33 AM
+190174,02/Sep/19 2:46 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,03/Sep/19 4:16 AM
+190173,02/Sep/19 2:36 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:31 AM
+190176,02/Sep/19 3:06 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:30 AM
+190198,02/Sep/19 4:22 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:27 AM
+190199,02/Sep/19 4:33 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Sep/19 3:33 AM
+190200,02/Sep/19 5:14 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Sep/19 3:37 PM
+190201,02/Sep/19 5:28 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,11/Sep/19 11:19 AM
+190202,02/Sep/19 5:35 AM,Fixed,Done,Bug,Medium,Medium,Promotion,20.1,20.1,junfeng.guo@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,19/Sep/19 12:28 AM
+190687,25/Sep/19 6:56 AM,Won't Fix,Done,Bug,Medium,Medium,Promotion,19.4,20.1,ye.xu@hcl.com,hang.gao@hcl.com,hang.gao@hcl.com,,,,,,04/Dec/19 5:47 AM
