@@ -13,7 +13,7 @@ def read_jira()
 end
 def read_rtc()
   rows = {}
-  IO.read("rtc2.csv").each_line {|line|
+  IO.read("rtc3.csv").each_line {|line|
     array = line.strip().split(",")
     array
     rows[array[0]] = array
@@ -75,26 +75,38 @@ def init()
   $version = read_versions()
 end
 def test_vals(id,rtckeyexists,rtcactual,jiraexpected,jiraactual,rtctext,jiratext)
-  # get RTC resolution
-  puts rtctext+" not in mapping. Expected:Unknown,actual:"+rtcactual if rtckeyexists
+  msg = nil
+  if !rtckeyexists
+    msg = rtctext+" not in mapping. actual:"+rtcactual+",id:"+id
+    return
+  end
   #test: mapping
   if jiraexpected == nil
-    puts jiratext+" not in mapping. Expected:Unknown,actual:"+ jiraactual
+    msg = jiratext+" not in mapping. Expected:Unknown,actual:"+ jiraactual+",id:"+id
   elsif jiraexpected != jiraactual
-    puts jiratext+" doesn't match mapping. Expected:"+jiraexpected+",actual:"+ jiraactual
+    msg = jiratext+" doesn't match mapping. Expected:"+jiraexpected+",actual:"+ jiraactual+",id:"+id
   else
-    puts id+" row ok."
+    #puts id+" row ok."
   end
+  if msg != nil
+    puts msg
+    return false
+  end
+  return true
 end
 def show_exceptions()
+  i = 0 
   init()
   $jirarows.each_pair{|id,jirarow|
     rtcrow = $rtcrows[id]
     if rtcrow == nil
       puts "ID not found in RTC dataset: "+id
-      p jirarow
     else
       process_row(rtcrow,jirarow)
+    end
+    i += 1
+    if $debug
+      exit if i > 5
     end
   }
 end
@@ -109,14 +121,16 @@ def process_row(rtcrow,jirarow)
   seve = 6
   comp = 7
   vers = 8
-
-  p rtcrow
-  p jirarow
+  if $debug
+    p rtcrow
+    p jirarow
+  end
   # get RTC resolution
   test_vals(jirarow[idno],
     $resolutions.include?(rtcrow[reso]),rtcrow[reso],
     $resolutions[rtcrow[reso]],jirarow[reso],
     "rtc resolution","jira resolution")
+return
   # get RTC status
   test_vals(jirarow[idno],
     $statuses.include?(rtcrow[stat]),rtcrow[stat],
@@ -132,7 +146,7 @@ def process_row(rtcrow,jirarow)
     $types.include?(rtcrow[prio]),rtcrow[prio],
     $types[rtcrow[prio]],jirarow[prio],
     "rtc priority","jira priority")
-  return
+
   # get RTC severity
   test_vals(jirarow[idno],
     $types.include?(rtcrow[seve]),rtcrow[seve],
@@ -149,7 +163,7 @@ def process_row(rtcrow,jirarow)
     $types[rtcrow[vers]],jirarow[vers],
     "rtc version","jira version")
 end
-
+$DEBUG = true
 $rtcrows = read_rtc()
 $jirarows = read_jira()
 puts "rtc:"+$rtcrows.size.to_s
