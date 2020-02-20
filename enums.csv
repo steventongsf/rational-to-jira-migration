@@ -8,6 +8,7 @@ Resolution,Unresolved	,
 Resolution,Won't fix,	Won't fix
 Resolution,Works as Designed,	As Designed
 Resolution,Works for Me,	Cannot Reproduce
+Resolution,,
 Status,Closed,	Done
 Status,Deferred,	To Do
 Status,Done,	Done
