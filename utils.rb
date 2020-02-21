@@ -98,4 +98,33 @@ module Utils
     }
     return false
   end
+  def parse_date(str)
+     array = str.split(" ")[0].split("/")
+     return Date.parse(array[2]+"-"+array[0]+"-"+array[1])
+  end
+  def test_dates(id,colpos,rtcrow,jirarow,rtctext,jiratext)
+    require 'date'
+    msg = nil
+    if rtcrow[colpos] == nil || rtcrow[colpos] == ""
+      return false
+    else
+      rtcdate = parse_date(rtcrow[colpos])
+      if jirarow[colpos] == nil || jirarow[colpos] == ""
+        msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:,id:"+id+",moddate:"+rtcrow[1]
+      else
+        jiradate = Date.parse(jirarow[colpos])
+        if rtcdate.month == jiradate.month && rtcdate.day == jiradate.day && rtcdate.year == jiradate.year
+        else
+          msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
+        end
+      end
+    end    
+    if msg != nil
+      puts msg
+      p rtcrow
+      p jirarow
+      return false
+    end
+    return true
+  end
 end

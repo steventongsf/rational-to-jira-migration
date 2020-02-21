@@ -69,26 +69,7 @@ def show_exceptions()
     end
   }
 end
-def test_dates(id,colpos,rtcrow,jirarow,rtctext,jiratext)
-  require 'date'
-  msg = nil
-  if rtcrow[colpos] == nil || rtcrow[colpos] == ""
-    return
-  else
-    puts "*"*10
-    p rtcrow[colpos]
-    rtcdate = Date.parse(rtcrow[colpos].split(" ")[0])
-    if jirarow[colpos] == nil || jirarow[colpos] == ""
-      msg = jiratext+" doesn't match mapping. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
-    end
-  end    
-  if msg != nil
-    puts msg
-    p rtcrow
-    p jirarow
-    return false
-  end
-end
+
 def process_row(rtcrow,jirarow)
   #puts "Processing row"
   idno = 0
@@ -113,7 +94,7 @@ def process_row(rtcrow,jirarow)
   end
   test_equals(jirarow[idno],cust,rtcrow,jirarow,"Customer")
   test_dates(jirarow[idno],dued,rtcrow,jirarow,"rtc due date","jira due date")
-
+  #test_dates(jirarow[idno],resd,rtcrow,jirarow,"rtc resolution date","jira resolved date")
   # RTC user
   test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc 'assigned to'","jira user")
   test_mappings(jirarow[idno],crby,$users,rtcrow,jirarow,"rtc 'created by'","jira user")
