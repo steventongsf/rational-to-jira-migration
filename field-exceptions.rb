@@ -19,17 +19,13 @@ def init()
   $browsers = read_browsers()
   $users = read_users()
 end
+
 def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   msg = nil
   rtcrow[key_num] = "" if rtcrow[key_num] == nil
-  #if !hash.include?(rtcrow[key_num])
-    hash.each {|expected|
-      if rtcrow[key_num] =~ /#{expected}/
-        msg = rtctext+" not in mapping. actual:"+rtcrow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
-      end
-      break
-    }
-  #end
+  if !key_exist?(hash,rtcrow[key_num])
+    msg = rtctext+" value not in mapping. value:"+rtcrow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
+  end
   #test: mapping
   if jiratext =~ /jira user/
     if rtcrow[key_num] == "" && (jirarow[key_num] != "rtcuser" || jirarow[key_num] == "" || jirarow[key_num] == nil)
@@ -55,18 +51,7 @@ def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   end
   return true
 end
-def test_equals(id,key_num,rtcrow,jirarow,name)
-  rtc = rtcrow[key_num]
-  jira = jirarow[key_num]
-  rtc = "" if rtc == nil
-  jira = "" if jira == nil
-  if jira.downcase.tr('()','') =~ /#{rtc.downcase.tr('()','')}/
-  else
-    puts "rtc field #{name} doesn't match jira value. Expected:#{rtc},Actual:#{jira}"
-    p rtcrow
-    p jirarow
-  end
-end
+
 
 def show_exceptions()
   i = 0 
@@ -83,6 +68,26 @@ def show_exceptions()
       exit if i > 10
     end
   }
+end
+def test_dates(id,colpos,rtcrow,jirarow,rtctext,jiratext)
+  require 'date'
+  msg = nil
+  if rtcrow[colpos] == nil || rtcrow[colpos] == ""
+    return
+  else
+    puts "*"*10
+    p rtcrow[colpos]
+    rtcdate = Date.parse(rtcrow[colpos].split(" ")[0])
+    if jirarow[colpos] == nil || jirarow[colpos] == ""
+      msg = jiratext+" doesn't match mapping. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
+    end
+  end    
+  if msg != nil
+    puts msg
+    p rtcrow
+    p jirarow
+    return false
+  end
 end
 def process_row(rtcrow,jirarow)
   #puts "Processing row"
@@ -107,10 +112,12 @@ def process_row(rtcrow,jirarow)
     p jirarow
   end
   test_equals(jirarow[idno],cust,rtcrow,jirarow,"Customer")
+  test_dates(jirarow[idno],dued,rtcrow,jirarow,"rtc due date","jira due date")
+
   # RTC user
-  #test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc 'assigned to'","jira user")
-  #test_mappings(jirarow[idno],crby,$users,rtcrow,jirarow,"rtc 'created by'","jira user")
-  #test_mappings(jirarow[idno],qaow,$users,rtcrow,jirarow,"rtc qa owner","jira user")
+  test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc 'assigned to'","jira user")
+  test_mappings(jirarow[idno],crby,$users,rtcrow,jirarow,"rtc 'created by'","jira user")
+  test_mappings(jirarow[idno],qaow,$users,rtcrow,jirarow,"rtc qa owner","jira user")
 
   return
   # get RTC resolution
@@ -135,12 +142,20 @@ def process_row(rtcrow,jirarow)
   #test_mappings(jirarow[idno],stat,$browsers,rtcrow,jirarow,"rtc browser","jira browser")
   
 end
-$debug = false
-$rtcrows = read_rtc()
-$jirarows = read_jira()
-puts "rtc:"+$rtcrows.size.to_s
-puts "jira:"+$jirarows.size.to_s
-show_exceptions()
+
+def main
+  $debug = false
+  $rtcrows = read_rtc()
+  $jirarows = read_jira()
+  puts "rtc:"+$rtcrows.size.to_s
+  puts "jira:"+$jirarows.size.to_s
+  show_exceptions()
+end
+
+main()
+
+
+
 
 
 

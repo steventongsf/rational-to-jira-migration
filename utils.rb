@@ -78,4 +78,24 @@ module Utils
   def read_browsers() 
     return read_enum("Browser")
   end
+  def test_equals(id,key_num,rtcrow,jirarow,name)
+    rtc = rtcrow[key_num]
+    jira = jirarow[key_num]
+    rtc = "" if rtc == nil
+    jira = "" if jira == nil
+    if jira.downcase.tr('()','') =~ /#{rtc.downcase.tr('()','')}/
+    else
+      puts "rtc field #{name} doesn't match jira value. Expected:#{rtc},Actual:#{jira}"
+      p rtcrow
+      p jirarow
+    end
+  end
+  def key_exist?(hash,actual)
+    hash.each_pair {|k,v|
+      if actual.downcase =~ /#{k.downcase}/
+        return true
+      end
+    }
+    return false
+  end
 end
