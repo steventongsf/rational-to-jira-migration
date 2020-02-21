@@ -89,13 +89,14 @@ def init()
 end
 def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   msg = nil
+  rtcrow[key_num] = "" if rtcrow[key_num] == nil
   if !hash.include?(rtcrow[key_num])
     msg = rtctext+" not in mapping. actual:"+rtcrow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
   end
   #test: mapping
   if jiratext =~ /jira user/
-    if rtcrow[key_num] == "" && jirarow[key_num] != "rtcuser"
-      msg = "Empty user should map to rtcuser. Id:"+id
+    if rtcrow[key_num] == "" && (jirarow[key_num] != "rtcuser" || jirarow[key_num] == "")
+      msg = "Empty user should map to rtcuser or empty. Id:"+id
     end
   elsif hash[rtcrow[key_num]] == nil  
     msg = jiratext+" not in mapping. Expected:Unknown,actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
@@ -123,6 +124,8 @@ def test_equals(id,key_num,rtcrow,jirarow,name)
   if rtc.downcase == jira.downcase
   else
     puts "rtc field #{name} doesn't match jira value. Expected:#{rtc},Actual:#{jira}"
+    p rtcrow
+    p jirarow
   end
 end
 
@@ -165,7 +168,7 @@ def process_row(rtcrow,jirarow)
     p jirarow
   end
   test_equals(jirarow[idno],cust,rtcrow,jirarow,"Customer")
-  # get RTC user
+  # RTC user
   test_mappings(jirarow[idno],assn,$users,rtcrow,jirarow,"rtc assigned to","jira user")
   test_mappings(jirarow[idno],crby,$users,rtcrow,jirarow,"rtc created by","jira user")
   test_mappings(jirarow[idno],qaow,$users,rtcrow,jirarow,"rtc qa owner","jira user")
