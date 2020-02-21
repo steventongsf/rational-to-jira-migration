@@ -6,7 +6,7 @@ module Utils
       array.each {|el|
         el = el.gsub("\"","")
       }
-      if array[0].to_i > 0
+      if array[0].to_i > 0 and array.size >= 16
         rows[array[0]] = array
       end
     
@@ -113,8 +113,9 @@ module Utils
         msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:,id:"+id+",moddate:"+rtcrow[1]
       else
         jiradate = Date.parse(jirarow[colpos])
-        if rtcdate.month == jiradate.month && rtcdate.day == jiradate.day && rtcdate.year == jiradate.year
+        if (jiradate - rtcdate <= 1)
         else
+          p jiradate - rtcdate <= 1
           msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
         end
       end
