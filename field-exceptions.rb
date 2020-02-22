@@ -113,21 +113,23 @@ def process_row(rtcrow,jirarow)
   # get RTC severity
   test_mappings(jirarow[idno],seve,$severities,rtcrow,jirarow,"rtc severity","jira priority")
     # get RTC component
-  test_mappings(jirarow[idno],comp,$components,rtcrow,jirarow,"rtc component","jira component") if $args =~ /component/
-    # get RTC version
-  return
-  test_mappings(jirarow[idno],aver,$versions,rtcrow,jirarow,"rtc version","jira version")
-  test_mappings(jirarow[idno],fver,$versions,rtcrow,jirarow,"rtc version","jira version")
-  test_mappings(jirarow[idno],assn,$versions,rtcrow,jirarow,"rtc owned by","jira assignee")
-  test_mappings(jirarow[idno],crby,$versions,rtcrow,jirarow,"rtc created by","jira reporter")
-  test_mappings(jirarow[idno],qaow,$versions,rtcrow,jirarow,"rtc QA Owner","jira QA Owner")
-  # get RTC browser
-  #test_mappings(jirarow[idno],stat,$browsers,rtcrow,jirarow,"rtc browser","jira browser")
-  
+  if $args =~ /component/
+    test_mappings(jirarow[idno],comp,$components,rtcrow,jirarow,"rtc component","jira component")
+  end
+      # get RTC version
+  if $args =~ /version/
+    test_mappings(jirarow[idno],aver,$versions,rtcrow,jirarow,"rtc 'found in'","jira affected version")
+    #test_mappings(jirarow[idno],fver,$versions,rtcrow,jirarow,"rtc 'planned for'","jira 'fixed version'")
+    #test_mappings(jirarow[idno],assn,$versions,rtcrow,jirarow,"rtc owned by","jira assignee")
+    #test_mappings(jirarow[idno],crby,$versions,rtcrow,jirarow,"rtc created by","jira reporter")
+    #test_mappings(jirarow[idno],qaow,$versions,rtcrow,jirarow,"rtc QA Owner","jira QA Owner")
+    # get RTC browser
+    #test_mappings(jirarow[idno],stat,$browsers,rtcrow,jirarow,"rtc browser","jira browser")
+  end
 end
 
 def main
-  $args = ARGV
+  p $args = ARGV[0]
   $debug = false
   $rtcrows = read_rtc()
   $jirarows = read_jira()
