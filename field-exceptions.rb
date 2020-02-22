@@ -23,25 +23,26 @@ end
 def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   msg = nil
   rtcrow[key_num] = "" if rtcrow[key_num] == nil
-  if !key_exist?(hash,rtcrow[key_num])
+  if !hash.include?(rtcrow[key_num])
     msg = rtctext+" value not in mapping. value:"+rtcrow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
-  end
-  #test: mapping
-  if jiratext =~ /jira user/
-    if rtcrow[key_num] == "" && (jirarow[key_num] != "rtcuser" || jirarow[key_num] == "" || jirarow[key_num] == nil)
-      msg = "Empty user should map to rtcuser or empty. Id:"+id
-      p rtcrow
-      p jirarow
-    end
-  elsif hash[rtcrow[key_num]] == nil  
-    msg = jiratext+" not in mapping. Expected:Unknown,actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
-
-  elsif jirarow[key_num] ==nil
-    msg = jiratext+" not in mapping. Expected:Unknown,actual:Unknown,id:"+id+",moddate:"+rtcrow[1]
-  elsif hash[rtcrow[key_num]].downcase != jirarow[key_num].downcase
-    msg = jiratext+" doesn't match mapping. Expected:"+hash[rtcrow[key_num]].downcase+",actual:"+ jirarow[key_num].downcase+",id:"+id+",moddate:"+rtcrow[1]
   else
-    #puts id+":"+hash[rtcrow[key_num]]+":"+jirarow[key_num]+":"+key_num.to_s
+    if jiratext =~ /jira user/
+      if rtcrow[key_num] == "" && (jirarow[key_num] != "rtcuser" || jirarow[key_num] == "" || jirarow[key_num] == nil)
+        msg = "Empty user should map to rtcuser or empty. Id:"+id
+        p rtcrow
+        p jirarow
+      end
+    elsif hash[rtcrow[key_num]] == nil  
+      puts "Key: '"+ rtcrow[key_num]+"'"
+      msg = jiratext+" value not found. Key:#{rtcrow[key_num]},jira actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
+  
+    elsif jirarow[key_num] ==nil
+      msg = jiratext+" not in mapping. Expected:Unknown,actual:Unknown,id:"+id+",moddate:"+rtcrow[1]
+    elsif hash[rtcrow[key_num]].downcase.tr("()","") != jirarow[key_num].downcase.tr("()","")
+      msg = jiratext+" doesn't match mapping. Expected:"+hash[rtcrow[key_num]].downcase+",actual:"+ jirarow[key_num].downcase+",id:"+id+",moddate:"+rtcrow[1]
+    else
+      #puts id+":"+hash[rtcrow[key_num]]+":"+jirarow[key_num]+":"+key_num.to_s
+    end
   end
   if msg != nil
     puts msg
@@ -100,7 +101,7 @@ def process_row(rtcrow,jirarow)
   test_mappings(jirarow[idno],crby,$users,rtcrow,jirarow,"rtc 'created by'","jira user")
   test_mappings(jirarow[idno],qaow,$users,rtcrow,jirarow,"rtc qa owner","jira user")
 
-  return
+
   # get RTC resolution
   test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira business impact")
   # get RTC status
@@ -112,8 +113,9 @@ def process_row(rtcrow,jirarow)
   # get RTC severity
   test_mappings(jirarow[idno],seve,$severities,rtcrow,jirarow,"rtc severity","jira priority")
     # get RTC component
-  test_mappings(jirarow[idno],comp,$components,rtcrow,jirarow,"rtc component","jira component")
+  test_mappings(jirarow[idno],comp,$components,rtcrow,jirarow,"rtc component","jira component") if $args =~ /component/
     # get RTC version
+  return
   test_mappings(jirarow[idno],aver,$versions,rtcrow,jirarow,"rtc version","jira version")
   test_mappings(jirarow[idno],fver,$versions,rtcrow,jirarow,"rtc version","jira version")
   test_mappings(jirarow[idno],assn,$versions,rtcrow,jirarow,"rtc owned by","jira assignee")
@@ -125,6 +127,7 @@ def process_row(rtcrow,jirarow)
 end
 
 def main
+  $args = ARGV
   $debug = false
   $rtcrows = read_rtc()
   $jirarows = read_jira()
