@@ -29,7 +29,8 @@ Priority,High,	High
 Priority,Low,	Low
 Priority,Medium	,Medium
 Priority,Unassigned,	Unassigned
-Blocker,	Blocker
+Priority,Blocker,	Blocker
+Severity,Blocker,	Blocker
 Severity,S1 - Critical,	Critical
 Severity,S2 -  Major,	Major
 Severity,S3 - Normal,	Medium
