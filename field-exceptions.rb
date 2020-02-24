@@ -136,7 +136,7 @@ def process_row(rtcrow,jirarow)
       # get RTC version
   if $args =~ /version/
     test_mappings(jirarow[idno],aver,$versions,rtcrow,jirarow,"rtc 'found in'","jira affected version")
-    #test_mappings(jirarow[idno],fver,$versions,rtcrow,jirarow,"rtc 'planned for'","jira 'fixed version'")
+    test_mappings(jirarow[idno],fver,$versions,rtcrow,jirarow,"rtc 'planned for'","jira 'fixed version'")
     # get RTC browser
 
   end
