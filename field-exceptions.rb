@@ -18,9 +18,51 @@ def init()
   $versions = read_versions()
   $browsers = read_browsers()
   $users = read_users()
+  p $tasks = read_enum("Task") 
+  p $stories = read_enum("Story") 
+  p $bugs = read_enum("Bug") 
 end
 
 def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
+  msg = nil
+  rtcrow[key_num] = "" if rtcrow[key_num] == nil
+  hash_key = rtcrow[key_num].strip
+  if !hash.include?(hash_key)
+    msg = rtctext+" value not in mapping. key:"+hash_key+",id:"+id+",moddate:"+rtcrow[1]
+  else
+    if jiratext =~ /jira user/
+      if hash_key == "" && (jirarow[key_num] != "rtcuser" || jirarow[key_num] == "" || jirarow[key_num] == nil)
+        msg = "Empty user should map to rtcuser or empty. Id:"+id
+      end
+    elsif hash[hash_key] == nil  
+      msg = jiratext+" value not found. Key:#{hash_key},jira actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
+  
+    elsif jirarow[key_num] ==nil
+      msg = jiratext+" not in mapping. Expected:Unknown,actual:Unknown,id:"+id+",moddate:"+rtcrow[1]
+    elsif hash[hash_key].downcase.tr("()","") != jirarow[key_num].downcase.tr("()","")
+      msg = jiratext+" doesn't match mapping. Key:#{hash_key} Expected:"+hash[hash_key]+",actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
+    else
+      #puts id+":"+hash[rtcrow[key_num]]+":"+jirarow[key_num]+":"+key_num.to_s
+    end
+  end
+  if $debug
+    p id
+    p key_num
+    p hash_key
+    p hash[hash_key]
+    p jirarow[key_num]
+    p rtcrow
+    p jirarow
+  end
+  if msg != nil
+    puts msg
+    p rtcrow
+    p jirarow
+    return false
+  end
+  return true
+end
+def test_multiplemappings(id,key_num,subtype,subtypenum,hash,rtcrow,jirarow,rtctext,jiratext)
   msg = nil
   rtcrow[key_num] = "" if rtcrow[key_num] == nil
   hash_key = rtcrow[key_num].strip
@@ -133,6 +175,8 @@ def process_row(rtcrow,jirarow)
   # get RTC status
   if $args =~ /status/
     test_mappings(jirarow[idno],stat,$statuses,rtcrow,jirarow,"rtc status","jira status")
+    #test_multiplemappings(id,key_num,subtypeval,subtypenum,hash,rtcrow,jirarow,rtctext,jiratext)
+    test_multiplemappings(jirarow[idno],stat,"",type, $tasks,rtcrow,jirarow,"rtc status","jira status")
   end
 
   if $args =~ /component/
