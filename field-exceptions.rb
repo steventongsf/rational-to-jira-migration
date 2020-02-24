@@ -29,8 +29,6 @@ def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
     if jiratext =~ /jira user/
       if rtcrow[key_num] == "" && (jirarow[key_num] != "rtcuser" || jirarow[key_num] == "" || jirarow[key_num] == nil)
         msg = "Empty user should map to rtcuser or empty. Id:"+id
-        p rtcrow
-        p jirarow
       end
     elsif hash[rtcrow[key_num]] == nil  
       puts "Key: '"+ rtcrow[key_num]+"'"
@@ -39,7 +37,7 @@ def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
     elsif jirarow[key_num] ==nil
       msg = jiratext+" not in mapping. Expected:Unknown,actual:Unknown,id:"+id+",moddate:"+rtcrow[1]
     elsif hash[rtcrow[key_num]].downcase.tr("()","") != jirarow[key_num].downcase.tr("()","")
-      msg = jiratext+" doesn't match mapping. Expected:"+hash[rtcrow[key_num]].downcase+",actual:"+ jirarow[key_num].downcase+",id:"+id+",moddate:"+rtcrow[1]
+      msg = jiratext+" doesn't match mapping. Key:#{rtcrow[key_num]} Expected:"+hash[rtcrow[key_num]]+",actual:"+ jirarow[key_num]+",id:"+id+",moddate:"+rtcrow[1]
     else
       #puts id+":"+hash[rtcrow[key_num]]+":"+jirarow[key_num]+":"+key_num.to_s
     end
@@ -105,7 +103,9 @@ def process_row(rtcrow,jirarow)
   # get RTC resolution
   test_mappings(jirarow[idno],reso,$resolutions,rtcrow,jirarow,"rtc resolution","jira business impact")
   # get RTC status
-  test_mappings(jirarow[idno],stat,$statuses,rtcrow,jirarow,"rtc status","jira status")
+  if $args =~ /component/
+    test_mappings(jirarow[idno],stat,$statuses,rtcrow,jirarow,"rtc status","jira status")
+  end
     # get RTC type
   test_mappings(jirarow[idno],type,$types,rtcrow,jirarow,"rtc type","jira type")
     # get RTC priority

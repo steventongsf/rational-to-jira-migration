@@ -22,7 +22,7 @@ Status,Verified,Done
 Type,Defect,	Bug
 Type,Epic	,Epic
 Type,Feature,	Story
-Type,L3 Inquiry,	Bug
+Type,L3 Inquiry,	L3 Inquiry
 Type,Story,	Story
 Type,Task	,Task
 Priority,High,	High
