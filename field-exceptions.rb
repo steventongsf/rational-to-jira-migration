@@ -45,8 +45,11 @@ def test_mappings(id,key_num,hash,rtcrow,jirarow,rtctext,jiratext)
   if $debug
     p id
     p key_num
+    p hash_key
     p hash[hash_key]
     p jirarow[key_num]
+    p rtcrow
+    p jirarow
   end
   if msg != nil
     puts msg
@@ -98,8 +101,7 @@ def process_row(rtcrow,jirarow)
   dued = 14 # due date/due
   resd = 15 # resolution date/ resolved
   if $debug
-    p rtcrow
-    p jirarow
+
   end
   # get RTC resolution
   #puts "Testing resolution field"
