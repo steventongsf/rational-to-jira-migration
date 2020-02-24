@@ -112,11 +112,16 @@ module Utils
       if jirarow[colpos] == nil || jirarow[colpos] == ""
         msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:,id:"+id+",moddate:"+rtcrow[1]
       else
-        jiradate = Date.parse(jirarow[colpos])
-        if (jiradate - rtcdate <= 1)
+        begin
+          jiradate = Date.parse(jirarow[colpos])
+        rescue
+          msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:NA,id:"+id+",moddate:"+rtcrow[1]
         else
-          p jiradate - rtcdate <= 1
-          msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
+          if (jiradate - rtcdate <= 1)
+          else
+            p jiradate - rtcdate <= 1
+            msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
+          end
         end
       end
     end    
