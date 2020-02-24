@@ -59,14 +59,18 @@ end
 
 
 def show_exceptions()
+  $notfound = 0
+  $found = 0
   i = 0 
   init()
   $jirarows.each_pair{|id,jirarow|
     rtcrow = $rtcrows[id]
     if rtcrow == nil
       #puts "ID not found in RTC dataset: "+id
+      $notfound += 1
     else
       process_row(rtcrow,jirarow)
+      $found += 1
     end
     i += 1
     if $debug
@@ -150,6 +154,8 @@ def main
   $jirarows = read_jira()
   puts "rtc:"+$rtcrows.size.to_s
   puts "jira:"+$jirarows.size.to_s
+  puts "found:"+$found.to_s
+  puts "not found:"+$notfound.to_s
   show_exceptions()
 end
 
