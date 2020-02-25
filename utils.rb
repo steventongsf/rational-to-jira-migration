@@ -1,4 +1,48 @@
 module Utils
+  def load_file(fname) 
+    rows = {}
+    IO.read(fname).each_line {|line|
+      array = line.strip().split(",")
+      array.each {|el|
+        el = el.gsub("\"","")
+      }
+      #if array[0].to_i > 0 and array.size >= 16
+        rows[array[0]] = array if array.size == 4
+      #end
+    
+    }
+    return rows
+  end
+def load_csv(fname,fieldcnt) 
+  rows = {}
+  IO.read(fname).each_line {|line|
+    p line
+    array = line.strip().split(",")
+    array.each {|el|
+      el = el.gsub("\"","")
+    }
+    #if array[0].to_i > 0 and array.size >= 16
+      rows[array[0]] = array if array.size == fieldcnt
+    #end
+  
+  }
+  return rows
+end
+def load_tsv(fname,fieldcount) 
+  rows = {}
+  IO.read(fname).each_line {|line|
+    p line
+    array = line.strip().split("\t")
+    array.each {|el|
+      el = el.gsub("\"","")
+    }
+    #if array[0].to_i > 0 and array.size >= 16
+      rows[array[0]] = array if array.size == fieldcount
+    #end
+  
+  }
+  return rows
+end
   def read_jira() 
     rows = {}
     IO.read("jira3.csv").each_line {|line|
@@ -117,7 +161,7 @@ module Utils
         rescue
           msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:NA,id:"+id+",moddate:"+rtcrow[1]
         else
-          if (jiradate - rtcdate <= 1)
+          if (jiradate - rtcdate <= 0)
           else
             p jiradate - rtcdate <= 1
             msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
@@ -133,4 +177,25 @@ module Utils
     end
     return true
   end
+
+def show_exceptions()
+  $notfound = 0
+  $found = 0
+  i = 0 
+  init()
+  $jirarows.each_pair{|id,jirarow|
+    rtcrow = $rtcrows[id]
+    if rtcrow == nil
+      #puts "ID not found in RTC dataset: "+id
+      $notfound += 1
+    else
+      process_row(rtcrow,jirarow)
+      $found += 1
+    end
+    i += 1
+    if $debug
+      exit if i > 20
+    end
+  }
+end
 end
