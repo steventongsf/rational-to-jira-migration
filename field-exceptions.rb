@@ -113,12 +113,12 @@ end
 def process_row(rtcrow,jirarow)
   #puts "Processing row"
   idno = 0
-  modd = 1
-  reso = 2
-  stat = 3
-  type = 4
-  prio = 5 #business impact
-  seve = 6 #priority
+  modd = 1 # mod date
+  reso = 2 # resolution
+  stat = 3 # status
+  type = 4 # issue type
+  prio = 5 #priority/business impact
+  seve = 6 #severity/priority
   aver = 7 #found in/affected version
   fver = 8 #planned for/fixed version
   assn = 9 #owned by/ assignee
