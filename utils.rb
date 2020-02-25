@@ -16,7 +16,7 @@ module Utils
 def load_csv(fname,fieldcnt) 
   rows = {}
   IO.read(fname).each_line {|line|
-    p line
+    #p line
     array = line.strip().split(",")
     array.each {|el|
       el = el.gsub("\"","")
@@ -160,7 +160,7 @@ end
         rescue
           msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:NA,id:"+id+",moddate:"+rtcrow[1]
         else
-          if (jiradate - rtcdate <= 0)
+          if (jiradate - rtcdate <= 1)
           else
             p jiradate - rtcdate <= 1
             msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
@@ -196,5 +196,27 @@ def show_exceptions()
       exit if i > 20
     end
   }
+end
+def cleanstr(str)
+  str = str.gsub("\"","")
+  if str =~ /^RTC/
+    str = str.split(" ",2)[1]
+  end
+  return str.strip
+end
+def test_equals(id,pos,rtcrow,jirarow) 
+  rtc = cleanstr(rtcrow[pos])
+  jira = cleanstr(jirarow[pos])
+  if jira != rtc
+    msg = "summary field doesn't match id:#{id}"
+  end
+  if msg != nil
+    puts msg
+    p rtc
+    p jira
+    p rtcrow
+    p jirarow
+    return false
+  end
 end
 end
