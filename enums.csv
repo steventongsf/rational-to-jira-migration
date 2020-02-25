@@ -35,6 +35,7 @@ Severity,S1 - Critical,	Critical
 Severity,S2 -  Major,	Major
 Severity,S3 - Normal,	Medium
 Severity,S4 - Minor,	Minor
+Browser,,
 Browser,Chrome 44,	Chrome 44
 Browser,Firefox 8,	Firefox 8
 Browser,IE 11,	IE 11
