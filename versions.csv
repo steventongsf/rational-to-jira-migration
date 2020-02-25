@@ -84,14 +84,14 @@ MarkDown/MKD - Prod.Support Diagnostic Features,MarkDown
 MarkDown/MKD - Product Picker Configurator,MarkDown
 MarkDown/MKD - Softlines,MarkDown
 MarkDown/MKD - Store Groups,MarkDown
-MarkDown/MKD Ð Create Plan,MarkDown
-MarkDown/MKD Ð Data Maintenance,MarkDown
-MarkDown/MKD Ð Manager,MarkDown
-MarkDown/MKD Ð Optimization,MarkDown
-MarkDown/MKD Ð Other,MarkDown
-MarkDown/MKD Ð Product Groups,MarkDown
-MarkDown/MKD Ð Results,MarkDown
-MarkDown/MKD Ð Rules,MarkDown
+MarkDown/MKD - Create Plan,MarkDown
+MarkDown/MKD - Data Maintenance,MarkDown
+MarkDown/MKD - Manager,MarkDown
+MarkDown/MKD - Optimization,MarkDown
+MarkDown/MKD - Other,MarkDown
+MarkDown/MKD - Product Groups,MarkDown
+MarkDown/MKD - Results,MarkDown
+MarkDown/MKD - Rules,MarkDown
 MasterCalendar,MasterCalendar
 MasterCalendar/MC - Financial Application,MasterCalendar
 MasterCalendar/MC - Performance,MasterCalendar
@@ -239,10 +239,3 @@ UI Infra/UI INFR - Forms and Page Support,UI Infra
 UI Infra/UI INFR - Grids,UI Infra
 UI Infra/UI Infra - Navigation header,UI Infra
 Unassigned,Unassigned
-,
-,
-,
-,
-,
-,
-,

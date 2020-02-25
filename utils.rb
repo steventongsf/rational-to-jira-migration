@@ -16,7 +16,7 @@ module Utils
 def load_csv(fname,fieldcnt) 
   rows = {}
   IO.read(fname).each_line {|line|
-    p line
+    #p line
     array = line.strip().split(",")
     array.each {|el|
       el = el.gsub("\"","")
@@ -31,7 +31,7 @@ end
 def load_tsv(fname,fieldcount) 
   rows = {}
   IO.read(fname).each_line {|line|
-    p line
+    #p line
     array = line.strip().split("\t")
     array.each {|el|
       el = el.gsub("\"","")
