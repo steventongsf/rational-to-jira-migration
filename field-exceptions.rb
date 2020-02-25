@@ -112,24 +112,24 @@ end
 
 def process_row(rtcrow,jirarow)
   #puts "Processing row"
-  type = 4 # issue type
-  idno = 0
-  assn = 9 #owned by/ assignee
+  type = 0 # issue type
+  idno = 1
+  assn = 2 #owned by/ assignee
   stat = 3 # status
-  prio = 5 #priority/business impact
-  seve = 6 #severity/priority
-  modd = 1 # mod date
-  crby = 10 #created by/reporter
-  cred =    #creation date
-  cust = 15 #customer/customer
-  dued = 12 # due date/due
-  comp = 14 #filed against/component
-  aver = 7 #found in/affected version
-  fver = 8 #planned for/fixed version
-  qaow = 11 # QA Owner
-  reso = 2 # resolved by resolution
-  resd = 13 # resolution date/ resolved
-  brow =    #browser  
+  prio = 4 #priority/business impact
+  seve = 5 #severity/priority
+  modd = 6 # mod date/updated
+  crby = 7 #created by/reporter
+  cred = 8   #creation date
+  cust = 9 #customer/customer
+  dued = 10 # due date/due
+  comp = 11 #filed against/component
+  aver = 12 #found in/affected version
+  fver = 13 #planned for/fixed version
+  qaow = 14 # QA Owner
+  reso = 15 # resolved by resolution
+  resd = 16 # resolution date/ resolved
+  brow = 17   #browser  
 
   
   
@@ -193,8 +193,8 @@ end
 def main
   p $args = ARGV[0]
   $debug = ($args =~ /debug/)
-  $rtcrows = load_csv("rtcprod.csv",16)
-  $jirarows = read_jira()
+  $rtcrows = load_csv("feb6export-modded.csv",10)
+  $jirarows = load_csv("jiraprod.csv",10)
   puts "rtc:"+$rtcrows.size.to_s
   puts "jira:"+$jirarows.size.to_s
   puts "found:"+$found.to_s

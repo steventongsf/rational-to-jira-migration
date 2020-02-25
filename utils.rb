@@ -16,15 +16,14 @@ module Utils
 def load_csv(fname,fieldcnt) 
   rows = {}
   IO.read(fname).each_line {|line|
-    #p line
+    p line
     array = line.strip().split(",")
     array.each {|el|
       el = el.gsub("\"","")
     }
-    #if array[0].to_i > 0 and array.size >= 16
-      rows[array[0]] = array if array.size == fieldcnt
-    #end
-  
+    if array[1].to_i > 0 and array.size >= 16
+      rows[array[1]] = array
+    end
   }
   return rows
 end
@@ -37,7 +36,7 @@ def load_tsv(fname,fieldcount)
       el = el.gsub("\"","")
     }
     #if array[0].to_i > 0 and array.size >= 16
-      rows[array[0]] = array if array.size == fieldcount
+      rows[array[1]] = array if array.size == fieldcount
     #end
   
   }

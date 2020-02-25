@@ -1,241 +1,159 @@
-Refreshed Components,Jira Component
-Build & Deploy,Build & Deploy
-Build & Deploy/Artifacts and Copyrights,Build & Deploy
-Build & Deploy/Builds,Build & Deploy
-Build & Deploy/Builds - Continuous Integration,Build & Deploy
-Build & Deploy/Reporting,Build & Deploy
-Build & Deploy/ThirdParty,Build & Deploy
-DB Engg,DB Engg
-DB Engg/DB - Performance,DB Engg
-DB Engg/DB - Schema,DB Engg
-Deal Management,Deal Management
-Deal Management/ADM - Archive Service,Deal Management
-Deal Management/ADM - Batch Update,Deal Management
-Deal Management/ADM - Billing - Email,Deal Management
-Deal Management/ADM - Billing Center,Deal Management
-Deal Management/ADM - Billing Loader,Deal Management
-Deal Management/ADM - Configuration,Deal Management
-Deal Management/ADM - Copy Deal,Deal Management
-Deal Management/ADM - Cost Change,Deal Management
-Deal Management/ADM - Create Deal,Deal Management
-Deal Management/ADM - Dashboard,Deal Management
-Deal Management/ADM - Deal Archive,Deal Management
-Deal Management/ADM - Deal Center,Deal Management
-Deal Management/ADM - Deal Mgmt Admin,Deal Management
-Deal Management/ADM - Deal Sheet,Deal Management
-Deal Management/ADM - Deal Status Change,Deal Management
-Deal Management/ADM - DT Promo Integration,Deal Management
-Deal Management/ADM - Events,Deal Management
-Deal Management/ADM - Extracts,Deal Management
-Deal Management/ADM - GTIN,Deal Management
-Deal Management/ADM - Help,Deal Management
-Deal Management/ADM - Interfaces,Deal Management
-Deal Management/ADM - Items,Deal Management
-Deal Management/ADM - Menu,Deal Management
-Deal Management/ADM - Performance,Deal Management
-Deal Management/ADM - Reassign,Deal Management
-Deal Management/ADM - Replace Rep,Deal Management
-Deal Management/ADM - Report,Deal Management
-Deal Management/ADM - Retail Deal,Deal Management
-Deal Management/ADM - Retailer Use Only,Deal Management
-Deal Management/ADM - Rule,Deal Management
-Deal Management/ADM - Secondary Approval,Deal Management
-Deal Management/ADM - Self Registration,Deal Management
-Deal Management/ADM - UI,Deal Management
-DemandTec Others,DemandTec Others
-DemandTec Others/L10N - Italian,DemandTec Others
-DemandTec Others/PII -Checkin,DemandTec Others
-DemandTec Others/SaaS OPs,DemandTec Others
-Documentation,Documentation
-Documentation/QA - Tech pubs,Documentation
-EPO-EPM,Price
-EPO-EPM/PRC - Ad Hoc Report,Price
-EPO-EPM/PRC - AVT,Price
-,Price
-EPO-EPM/PRC - CPI,Price
-EPO-EPM/PRC - Data Maintenance,Price
-EPO-EPM/PRC - Express Pricing,Price
-EPO-EPM/PRC - GVT,Price
-EPO-EPM/PRC - Image Item,Price
-EPO-EPM/PRC - Import,Price
-EPO-EPM/PRC - Import/Export,Price
-EPO-EPM/PRC - New Data Approval,Price
-EPO-EPM/PRC - New Scenario,Price
-EPO-EPM/PRC - Optimization,Price
-EPO-EPM/PRC - Performance Issues,Price
-EPO-EPM/PRC - Permissions,Price
-EPO-EPM/PRC - Price Approval,Price
-EPO-EPM/PRC - Price Update,Price
-EPO-EPM/PRC - Product Analyzer,Price
-EPO-EPM/PRC - Product and Store Groups,Price
-EPO-EPM/PRC - RBP,Price
-EPO-EPM/PRC - Rules,Price
-EPO-EPM/PRC - Scenario Archive,Price
-EPO-EPM/PRC - Scenario Manager,Price
-EPO-EPM/PRC - Scenario Results,Price
-EPO-EPM/PRC - Scenario Summary,Price
-EPO-EPM/PRC - Zone Manager,Price
-MarkDown,MarkDown
-MarkDown/MKD - Automation,MarkDown
-MarkDown/MKD - Create Scenario,MarkDown
-MarkDown/MKD - GVT,MarkDown
-MarkDown/MKD - Markdown Validation,MarkDown
-MarkDown/MKD - Prod.Support Diagnostic Features,MarkDown
-MarkDown/MKD - Product Picker Configurator,MarkDown
-MarkDown/MKD - Softlines,MarkDown
-MarkDown/MKD - Store Groups,MarkDown
-MarkDown/MKD - Create Plan,MarkDown
-MarkDown/MKD - Data Maintenance,MarkDown
-MarkDown/MKD - Manager,MarkDown
-MarkDown/MKD - Optimization,MarkDown
-MarkDown/MKD - Other,MarkDown
-MarkDown/MKD - Product Groups,MarkDown
-MarkDown/MKD - Results,MarkDown
-MarkDown/MKD - Rules,MarkDown
-MasterCalendar,MasterCalendar
-MasterCalendar/MC - Financial Application,MasterCalendar
-MasterCalendar/MC - Performance,MasterCalendar
-MasterCalendar/MC - Prediction,MasterCalendar
-MATH,MATH
-MATH/MATH - Analytical Services,MATH
-MATH/MATH - BPP,MATH
-MATH/MATH - Coefficient Storage,MATH
-MATH/MATH - CP Modeling,MATH
-MATH/MATH - Dynamic Pricing Modeling,MATH
-MATH/MATH - Markdown Modeling,MATH
-MATH/MATH - Markdown Optimization,MATH
-MATH/MATH - Moscow AIS,MATH
-MATH/MATH - Order Optimizer Modeling,MATH
-MATH/MATH - Price Forecast,MATH
-MATH/MATH - Price Optimization,MATH
-MATH/MATH - Price Update,MATH
-MATH/MATH - Retail Modeling,MATH
-MATH/MATH - Retail Promotion Forecast,MATH
-MATH/MATH - Retail Promotion Optimization,MATH
-MATH/MATH - Store Linking,MATH
-MATH/MATH - Workflow,MATH
-MATH/Platform Science,MATH
-MATH/PRA - Price Response Analysis,MATH
-Omni-Channel,Price
-Omni-Channel/OC - Dashboard,Price
-Omni-Channel/OC - Data Movement,Price
-Omni-Channel/OC - OCM,Price
-Omni-Channel/OC - Performance Issues,Price
-Omni-Channel/OC-Scala Backend,Price
-OpenLink,OpenLink
-OpenLink/IBOL - Data Load,OpenLink
-OpenLink/IBOL - Export,OpenLink
-OpenLink/IBOL - Modeling,OpenLink
-OpenLink/OL - ADM Item Loader,OpenLink
-OpenLink/OL - Attributing,OpenLink
-OpenLink/OL - Data Maintenance,OpenLink
-OpenLink/OL - DataStage - Inventory,OpenLink
-OpenLink/OL - DataStage - Location,OpenLink
-OpenLink/OL - DataStage - Other,OpenLink
-OpenLink/OL - DataStage - Price Time Series,OpenLink
-OpenLink/OL - DataStage - Product Master,OpenLink
-OpenLink/OL - DataStage - Tidal Workflow,OpenLink
-OpenLink/OL - GVT,OpenLink
-OpenLink/OL - LocationGroup,OpenLink
-OpenLink/OL - ZoneGroup,OpenLink
-OpenLink/OL CategoryMgr - Category Issues,OpenLink
-OpenLink/OL CategoryMgr - Content,OpenLink
-OpenLink/OL CategoryMgr - PIF Export,OpenLink
-OpenLink/OL CategoryMgr - PIF Import,OpenLink
-OpenLink/OL CategoryMgr - Product Hierarchy,OpenLink
-OpenLink/OL CategoryMgr - Product Linking,OpenLink
-OpenLink/OL CategoryMgr - Product Status Resolver (PSR),OpenLink
-OpenLink/OL CategoryMgr - UI,OpenLink
-OpenLink/OL IVA - Batch Approval,OpenLink
-OpenLink/OL IVA - Batch Import,OpenLink
-OpenLink/OL Modeling - Markdown Model Export,OpenLink
-OpenLink/OL Modeling - Price Model Export,OpenLink
-OpenLink/OL RapidLink - Data Load,OpenLink
-OpenLink/OL-Nimbus ETL,OpenLink
-PE,PE
-PE/PE - Ad Configuration,PE
-PE/PE - Ad Content Manager,PE
-PE/PE - Ad Performance,PE
-PE/PE - Ad Planning,PE
-PE/PE - Ad Planning Assignment,PE
-PE/PE - Ad Planning Report,PE
-PE/PE - Configuration Wizard,PE
-PE/PE - Copycard Versioning,PE
-PE/PE - Display Interface,PE
-PE/PE - Export,PE
-PE/PE - Import,PE
-PE/PE - Promotion Manage,PE
-PE/PE - Proofing Manager,PE
-Platform,Platform
-Platform/IAM - User Admin,Platform
-Platform/INFR - Configuration,Platform
-Platform/INFR - Data Reader,Platform
-Platform/INFR - Database Schema,Platform
-Platform/INFR - Deploy,Platform
-Platform/INFR - Export,Platform
-Platform/INFR - GVT,Platform
-Platform/INFR - I18N,Platform
-Platform/INFR - Jobscheduler,Platform
-Platform/INFR - Other,Platform
-Platform/INFR - Search,Platform
-Platform/INFR - Security,Platform
-Platform/INFR - SSO,Platform
-Platform/INFR - Task Scheduler,Platform
-Platform/INFR - User Admin,Platform
-Platform/INFR - User Preferences,Platform
-Platform/INFR - Workflow,Platform
-Portal,Portal
-Portal/MyDT,Portal
-Portal/MyDT - Production Configuration,Portal
-PPM(i),PPM(i) Publishing Manager
-PPM(i)/PPM(i),PPM(i) Publishing Manager
-PPM(i)/PPM(i) - Publishing Manager,PPM(i) Publishing Manager
-Promotion (PPO),Promotion
-Promotion (PPO)/PPO - Allowance,Promotion
-Promotion (PPO)/PPO - Create Promotion,Promotion
-Promotion (PPO)/PPO - Custom Calculation,Promotion
-Promotion (PPO)/PPO - Customization Tool,Promotion
-Promotion (PPO)/PPO - Data Interfaces,Promotion
-Promotion (PPO)/PPO - Data Maintenance,Promotion
-Promotion (PPO)/PPO - DM Integration,Promotion
-Promotion (PPO)/PPO - Duplicate and Move,Promotion
-Promotion (PPO)/PPO - Edit Promotion,Promotion
-Promotion (PPO)/PPO - Event,Promotion
-Promotion (PPO)/PPO - Export,Promotion
-Promotion (PPO)/PPO - GVT,Promotion
-Promotion (PPO)/PPO - Import,Promotion
-Promotion (PPO)/PPO - Inventory,Promotion
-Promotion (PPO)/PPO - Location Group Class,Promotion
-Promotion (PPO)/PPO - MOOV,Promotion
-Promotion (PPO)/PPO - Package,Promotion
-Promotion (PPO)/PPO - PE Replatform,Promotion
-Promotion (PPO)/PPO - Performance Detail,Promotion
-Promotion (PPO)/PPO - Performance Issues,Promotion
-Promotion (PPO)/PPO - Permission,Promotion
-Promotion (PPO)/PPO - Post Promotion Reports,Promotion
-Promotion (PPO)/PPO - Product Group,Promotion
-Promotion (PPO)/PPO - Product Selector,Promotion
-Promotion (PPO)/PPO - Promotion Configuration,Promotion
-Promotion (PPO)/PPO - Promotion Export,Promotion
-Promotion (PPO)/PPO - Promotion Group,Promotion
-Promotion (PPO)/PPO - Promotion Manager,Promotion
-Promotion (PPO)/PPO - Promotion Prediction,Promotion
-Promotion (PPO)/PPO - Promotion Reports,Promotion
-Promotion (PPO)/PPO - Promotion UEF,Promotion
-Promotion (PPO)/PPO - Similar Promotions,Promotion
-Promotion (PPO)/PPO - Validation,Promotion
-Promotion (PPO)/PPO - Versioning,Promotion
-Promotion (PPO)/PPO - What-if Promotion,Promotion
-Proofing Manager,Proofing Manager
-Proofing Manager/Comment,Proofing Manager
-Proofing Manager/FTP File Upload,Proofing Manager
-Proofing Manager/Keyword,Proofing Manager
-Proofing Manager/Print,Proofing Manager
-Proofing Manager/UI,Proofing Manager
-Proofing Manager/User Interface,Proofing Manager
-UI Infra,UI Infra
-UI Infra/UI INFR - CSS and JScript,UI Infra
-UI Infra/UI INFR - Forms and Page Support,UI Infra
-UI Infra/UI INFR - Grids,UI Infra
-UI Infra/UI Infra - Navigation header,UI Infra
-Unassigned,Unassigned
+,
+15.3 Release,15.3
+15.4 Release,15.4
+16.1 Release,16.1
+16.2 Release,16.2
+16.3 Release,16.3
+16.3.5 mini-release,16.3.5
+16.4 Release,16.4
+16.4.14,16.4.14
+17.1 Release,17.1
+17.1.1,17.1.1
+17.1.4 - no scheduled patch,17.1.4
+17.2 Release,17.2
+17.3 Release,17.3
+17.3.5 mini-release,17.3.5
+17.3.7,17.3.7
+17.4 Release,17.4
+17.4.12,17.4.12
+18.1 Release,18.1
+18.1.2,18.1.2
+18.1.5,18.1.5
+18.1.7,18.1.7
+18.1.9,18.1.9
+18.2 Release,18.2
+18.2.2,18.2.2
+18.2.3,18.2.3
+18.2.4,18.2.4
+18.2.5,18.2.5
+18.2.7,18.2.7
+18.3 Release,18.3
+18.3.1,18.3.1
+18.3.10,18.3.10
+18.3.12,18.3.12
+18.3.17,18.3.17
+18.3.2,18.3.2
+18.3.5 mini-release,18.3.5
+18.3.7,18.3.7
+18.3.9,18.3.9
+18.4 Release,18.4
+18.4.1,18.4.1
+18.4.2,18.4.2
+18.4.5,18.4.5
+19.1 Release,19.1
+19.1.1,19.1.1
+19.1.3,19.1.3
+19.1.4,19.1.4
+19.1.5 mini-release,19.1.5
+19.1.6,19.1.6
+19.1.7,19.1.7
+19.1.9,19.1.9
+19.2 Release,19.2
+19.2.1,19.2.1
+19.2.3,19.2.3
+19.2.4 mini-release,19.2.4
+19.2.5,19.2.5
+19.2.6,19.2.6
+19.2.7 mini-release,19.2.7
+19.2.8,19.2.8
+19.2.9,19.2.9
+19.3 Release,19.3
+19.3.1,19.3.1
+19.3.10,19.3.10
+19.3.2,19.3.2
+19.3.3,19.3.3
+19.3.6,19.3.6
+19.3.7,19.3.7
+19.3.8,19.3.8
+19.4 Release,19.4
+19.4.1,19.4.1
+19.4.13,19.4.13
+19.4.2,19.4.2
+19.4.3,19.4.3
+19.4.4,19.4.4
+19.4.5,19.4.5
+19.4.9,19.4.9
+20.1 Release,20.1
+20.1.1,20.1.1
+20.1.2,20.1.2
+20.1.3,20.1.3
+20.1.4 mini-release,20.1.4
+20.2 Release,20.2
+20.3 Release,20.3
+20.4 Release,20.4
+Backlog,Backlog
+DP 17.01.01,
+DP 17.01.03,
+DP 17.02.06,
+DP 17.03.07,
+DP 17.03.09 Release,
+DP 17.04.10,
+DP 18.01.01,
+DP 18.01.01 Release,
+DP 18.01.02 Release,
+DP 18.01.03 Release,
+DP 18.02.04,
+DP 18.04.11 Release,
+DP 18.04.12,
+DP 18.04.12 Release,
+DP 19.01.01,
+DP 19.03.08,
+DP 19.03.09,
+DP 19.04.10,
+DP 19.04.11,
+DT 12.1,12.1
+DT 13.3,13.3
+DT 13.4,13.4
+DT 14.1,14.1
+DT 14.2,14.2
+DT 14.3,14.3
+DT 14.4,14.4
+DT 15.1,15.1
+DT 15.2,15.2
+DT 15.3,15.3
+DT 15.4,15.4
+DT 16.1,16.1
+DT 16.2,16.2
+DT 16.3,16.3
+DT 16.4,16.4
+DT 17.1,17.1
+DT 17.2,17.2
+DT 17.3,17.3
+DT 17.4,17.4
+DT 18.1,18.1
+DT 18.2,18.2
+DT 18.3,18.3
+DT 18.4,18.4
+DT 19.1,19.1
+DT 19.2,19.2
+DT 19.3,19.3
+DT 19.4,19.4
+DT 20.1,20.1
+DT 20.2,20.2
+IB 17.2.1,
+IB 17.4,
+Iteration #1 (16.2),16.2
+Iteration #1 (16.3),16.3
+Iteration #1 (18.2),18.2
+Iteration #1 (18.3),18.3
+Iteration #1 (18.4),18.4
+Iteration #1 (19.4),19.4
+Iteration #1 (20.2),20.2
+Iteration #2 (17.4),17.4
+Iteration #2 (18.3),18.3
+Iteration #2 (18.4),18.4
+Iteration #2 (19.3),19.3
+Iteration #2 (19.4),19.4
+Iteration #2 (20.2),20.2
+Iteration #3 (16.1),16.1
+Iteration #3 (16.3),16.3
+Iteration #3 (18.2),18.2
+Iteration #3 (18.3),18.3
+Iteration #3 (18.4),18.4
+Iteration #3 (19.3),19.3
+Iteration #3 (19.4),19.4
+Iteration #3 (20.2),20.2
+Iteration #4 (17.3),17.3
+Iteration #4 (18.2),18.2
+Iteration #4 (18.3),18.3
+Iteration #4 (19.3),19.3
