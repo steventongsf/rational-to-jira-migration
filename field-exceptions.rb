@@ -109,26 +109,6 @@ def test_multiplemappings(id,key_num,subtypeval,subtypenum,hash,rtcrow,jirarow,r
 end
 
 
-def show_exceptions()
-  $notfound = 0
-  $found = 0
-  i = 0 
-  init()
-  $jirarows.each_pair{|id,jirarow|
-    rtcrow = $rtcrows[id]
-    if rtcrow == nil
-      #puts "ID not found in RTC dataset: "+id
-      $notfound += 1
-    else
-      process_row(rtcrow,jirarow)
-      $found += 1
-    end
-    i += 1
-    if $debug
-      exit if i > 20
-    end
-  }
-end
 
 def process_row(rtcrow,jirarow)
   #puts "Processing row"
@@ -139,18 +119,16 @@ def process_row(rtcrow,jirarow)
   type = 4
   prio = 5 #business impact
   seve = 6 #priority
-  comp = 7 #filed against/component
-  aver = 8 #found in/affected version
-  fver = 9 #planned for/fixed version
-  assn = 10 #owned by/ assignee
-  crby = 11 #created by/reporter
-  qaow = 12 # QA Owner
-  cust = 13 #customer/customer
-  dued = 14 # due date/due
-  resd = 15 # resolution date/ resolved
-  if $debug
+  aver = 7 #found in/affected version
+  fver = 8 #planned for/fixed version
+  assn = 9 #owned by/ assignee
+  crby = 10 #created by/reporter
+  qaow = 11 # QA Owner
+  dued = 12 # due date/due
+  resd = 13 # resolution date/ resolved
+  comp = 14 #filed against/component
+  cust = 15 #customer/customer
 
-  end
   # get RTC resolution
   #puts "Testing resolution field"
   if $args =~ /mapping/
@@ -180,8 +158,6 @@ def process_row(rtcrow,jirarow)
 
   # get RTC status
   if $args =~ /status/
-    #test_mappings(jirarow[idno],stat,$statuses,rtcrow,jirarow,"rtc status","jira status")
-    #test_multiplemappings(id,key_num,subtypeval,subtypenum,hash,rtcrow,jirarow,rtctext,jiratext)
     test_multiplemappings(jirarow[idno],stat,"Task",type, $tasks,rtcrow,jirarow,"rtc task status","jira task status")
     test_multiplemappings(jirarow[idno],stat,"Story",type, $stories,rtcrow,jirarow,"rtc task status","jira task status")
     test_multiplemappings(jirarow[idno],stat,"Epic",type, $stories,rtcrow,jirarow,"rtc task status","jira task status")
@@ -206,7 +182,7 @@ end
 def main
   p $args = ARGV[0]
   $debug = ($args =~ /debug/)
-  $rtcrows = read_rtc()
+  $rtcrows = load_csv("rtcprod.csv",16)
   $jirarows = read_jira()
   puts "rtc:"+$rtcrows.size.to_s
   puts "jira:"+$jirarows.size.to_s
