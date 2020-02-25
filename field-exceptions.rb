@@ -154,7 +154,7 @@ def process_row(rtcrow,jirarow)
     # get RTC component
   test_equals(jirarow[idno],cust,rtcrow,jirarow,"Customer") if $args =~ /customer/
   if $args =~ /date/
-    #test_dates(jirarow[idno],dued,rtcrow,jirarow,"rtc due date","jira due date")
+    test_dates(jirarow[idno],dued,rtcrow,jirarow,"rtc due date","jira due date")
     test_dates(jirarow[idno],resd,rtcrow,jirarow,"rtc resolution date","jira resolved date")
   end
 
@@ -193,7 +193,7 @@ end
 def main
   p $args = ARGV[0]
   $debug = ($args =~ /debug/)
-  $rtcrows = load_csv("feb6export-modded.csv",10)
+  $rtcrows = load_csv("rtcprod.csv",10)
   $jirarows = load_csv("jiraprod.csv",10)
   puts "rtc:"+$rtcrows.size.to_s
   puts "jira:"+$jirarows.size.to_s

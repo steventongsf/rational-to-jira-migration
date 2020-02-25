@@ -64,28 +64,7 @@ def test_mappings(id,rtcpos,jirapos,hash,rtcrow,jirarow,rtctext,jiratext)
   end
   return true
 end
-def cleanstr(str)
-  str = str.gsub("\"","")
-  if str =~ /^RTC/
-    str = str.split(" ",2)[1]
-  end
-  return str.strip
-end
-def test_equals(id,pos,rtcrow,jirarow) 
-  rtc = cleanstr(rtcrow[pos])
-  jira = cleanstr(jirarow[pos])
-  if jira != rtc
-    msg = "summary field doesn't match id:#{id}"
-  end
-  if msg != nil
-    puts msg
-    p rtc
-    p jira
-    p rtcrow
-    p jirarow
-    return false
-  end
-end
+s
 
 def process_row(rtcrow,jirarow)
   #puts "testing row"
