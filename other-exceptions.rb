@@ -92,7 +92,7 @@ def process_row(rtcrow,jirarow)
   #test_mappings(jirarow[0],2,2,$browsers,rtcrow,jirarow,"rtc 'browser'","jira browser")
   #test_dates(jirarow[0],2,rtcrow,jirarow,"rtc due date","jira due date")
   #test_dates(jirarow[0],3,rtcrow,jirarow,"rtc resolution date","jira resolved date")
-  test_equals(jirarow[0],2,rtcrow,jirarow)
+  test_equals(jirarow[0],2,rtcrow,jirarow) # summary
 end
 
 def main

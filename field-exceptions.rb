@@ -112,22 +112,33 @@ end
 
 def process_row(rtcrow,jirarow)
   #puts "Processing row"
-  idno = 0
-  modd = 1 # mod date
-  reso = 2 # resolution
-  stat = 3 # status
   type = 4 # issue type
+  idno = 0
+  assn = 9 #owned by/ assignee
+  stat = 3 # status
   prio = 5 #priority/business impact
   seve = 6 #severity/priority
+  modd = 1 # mod date
+  crby = 10 #created by/reporter
+  cred =    #creation date
+  cust = 15 #customer/customer
+  dued = 12 # due date/due
+  comp = 14 #filed against/component
   aver = 7 #found in/affected version
   fver = 8 #planned for/fixed version
-  assn = 9 #owned by/ assignee
-  crby = 10 #created by/reporter
   qaow = 11 # QA Owner
-  dued = 12 # due date/due
+  reso = 2 # resolved by resolution
   resd = 13 # resolution date/ resolved
-  comp = 14 #filed against/component
-  cust = 15 #customer/customer
+  brow =    #browser  
+
+  
+  
+  
+  
+
+
+  
+  
 
   # get RTC resolution
   #puts "Testing resolution field"
