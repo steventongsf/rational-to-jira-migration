@@ -1,4 +1,47 @@
 module Utils
+  def load_file(fname) 
+    rows = {}
+    IO.read(fname).each_line {|line|
+      array = line.strip().split(",")
+      array.each {|el|
+        el = el.gsub("\"","")
+      }
+      #if array[0].to_i > 0 and array.size >= 16
+        rows[array[0]] = array if array.size == 4
+      #end
+    
+    }
+    return rows
+  end
+def load_csv(fname,fieldcnt) 
+  rows = {}
+  IO.read(fname).each_line {|line|
+    #p line
+    array = line.strip().split(",")
+    array.each {|el|
+      el = el.gsub("\"","")
+    }
+    if array[1].to_i > 0 and array.size >= 16
+      rows[array[1]] = array
+    end
+  }
+  return rows
+end
+def load_tsv(fname,fieldcount) 
+  rows = {}
+  IO.read(fname).each_line {|line|
+    #p line
+    array = line.strip().split("\t")
+    array.each {|el|
+      el = el.gsub("\"","")
+    }
+    #if array[0].to_i > 0 and array.size >= 16
+      rows[array[1]] = array if array.size == fieldcount
+    #end
+  
+  }
+  return rows
+end
   def read_jira() 
     rows = {}
     IO.read("jira3.csv").each_line {|line|
@@ -112,11 +155,16 @@ module Utils
       if jirarow[colpos] == nil || jirarow[colpos] == ""
         msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:,id:"+id+",moddate:"+rtcrow[1]
       else
-        jiradate = Date.parse(jirarow[colpos])
-        if (jiradate - rtcdate <= 1)
+        begin
+          jiradate = Date.parse(jirarow[colpos])
+        rescue
+          msg = jiratext+" not migrated. Expected:"+rtcrow[colpos]+",actual:NA,id:"+id+",moddate:"+rtcrow[1]
         else
-          p jiradate - rtcdate <= 1
-          msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
+          if (jiradate - rtcdate <= 1)
+          else
+            p jiradate - rtcdate <= 1
+            msg = jiratext+" value doesn't match RTC value. Expected:"+rtcrow[colpos]+",actual:"+ jirarow[colpos]+",id:"+id+",moddate:"+rtcrow[1]
+          end
         end
       end
     end    
@@ -128,4 +176,47 @@ module Utils
     end
     return true
   end
+
+def show_exceptions()
+  $notfound = 0
+  $found = 0
+  i = 0 
+  init()
+  $jirarows.each_pair{|id,jirarow|
+    rtcrow = $rtcrows[id]
+    if rtcrow == nil
+      puts "ID not found in RTC dataset: "+id
+      $notfound += 1
+    else
+      process_row(rtcrow,jirarow)
+      $found += 1
+    end
+    i += 1
+    if $debug
+      exit if i > 20
+    end
+  }
+end
+def cleanstr(str)
+  str = str.gsub("\"","")
+  if str =~ /^RTC/
+    str = str.split(" ",2)[1]
+  end
+  return str.strip
+end
+def test_equals(id,pos,rtcrow,jirarow) 
+  rtc = cleanstr(rtcrow[pos])
+  jira = cleanstr(jirarow[pos])
+  if jira != rtc
+    msg = "summary field doesn't match id:#{id}"
+  end
+  if msg != nil
+    puts msg
+    p rtc
+    p jira
+    p rtcrow
+    p jirarow
+    return false
+  end
+end
 end

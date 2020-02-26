@@ -22,7 +22,7 @@ Status,Verified,Done
 Type,Defect,	Bug
 Type,Epic	,Epic
 Type,Feature,	Story
-Type,L3 Inquiry,	Bug
+Type,L3 Inquiry,	L3 Inquiry
 Type,Story,	Story
 Type,Task	,Task
 Priority,High,	High
@@ -35,7 +35,38 @@ Severity,S1 - Critical,	Critical
 Severity,S2 -  Major,	Major
 Severity,S3 - Normal,	Medium
 Severity,S4 - Minor,	Minor
+Browser,,
 Browser,Chrome 44,	Chrome 44
 Browser,Firefox 8,	Firefox 8
 Browser,IE 11,	IE 11
 Browser,unassigned,	
+Task,Closed,Done
+Task,Deferred,To Do
+Task,Done,Done
+Task,Implemented,Done
+Task,In Progress,In Progress
+Task,Invalid,Done
+Task,New,To Do
+Task,Reopened,To Do
+Task,Resolved,Done
+Task,Verified,Done
+Story,Closed,Done
+Story,Deferred,Done
+Story,Done,Done
+Story,Implemented,Implemented
+Story,In Progress,In Progress
+Story,Invalid,Done
+Story,New,To Do
+Story,Reopened,To Do
+Story,Resolved,Done
+Story,Verified,Done
+Bug ,Closed,Closed
+Bug ,Deferred,To Do
+Bug ,Done,Closed
+Bug ,Implemented,Fixed
+Bug ,In Progress,In Progress
+Bug ,Invalid,Closed
+Bug ,New,To Do
+Bug ,Reopened,Reopened
+Bug ,Resolved,Fixed
+Bug ,Verified,Verified
