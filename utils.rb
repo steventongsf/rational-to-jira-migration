@@ -185,7 +185,7 @@ def show_exceptions()
   $jirarows.each_pair{|id,jirarow|
     rtcrow = $rtcrows[id]
     if rtcrow == nil
-      #puts "ID not found in RTC dataset: "+id
+      puts "ID not found in RTC dataset: "+id
       $notfound += 1
     else
       process_row(rtcrow,jirarow)

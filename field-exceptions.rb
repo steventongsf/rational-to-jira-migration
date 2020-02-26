@@ -120,7 +120,7 @@ def process_row(rtcrow,jirarow)
   seve = 5 #severity/priority
   modd = 6 # mod date/updated
   crby = 7 #created by/reporter
-  cred = 8   #creation date
+  cred = 8   #creation date/created
   cust = 9 #customer/customer
   dued = 10 # due date/due
   comp = 11 #filed against/component
@@ -131,14 +131,6 @@ def process_row(rtcrow,jirarow)
   resd = 16 # resolution date/ resolved
   brow = 17   #browser  
 
-  
-  
-  
-  
-
-
-  
-  
 
   # get RTC resolution
   #puts "Testing resolution field"
