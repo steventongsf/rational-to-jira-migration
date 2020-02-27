@@ -5,7 +5,7 @@ Written using Ruby 2.3.7p456 on OSX
 
 ## field-exceptions.py ##
 This script reports exceptions for various fields that have pre-defined values.  Currently, the script supports specific csv formats only.  The current format for the csv is (from the script):
-'''
+```
   type = 0 # issue type
   idno = 1
   assn = 2 #owned by/ assignee
@@ -24,5 +24,5 @@ This script reports exceptions for various fields that have pre-defined values. 
   reso = 15 # resolved by resolution
   resd = 16 # resolution date/ resolved
   brow = 17   #browser  
-''' 
+```
 Please see script method process_row() for allowed command line arguments.
